@@ -1,0 +1,7696 @@
+{
+  "collection": "metro",
+  "category": "Сыры",
+  "items": [
+    {
+      "name": "Сыр творожный Савушкин продукт Сливочный 65%, 2.4кг",
+      "brand": "САВУШКИН ПРОДУКТ",
+      "attributes": {
+        "weight": 2400,
+        "proteins": 6.2,
+        "fats": 27,
+        "carbohydrates": 3,
+        "calories": 279.8
+      }
+    },
+    {
+      "name": "Сыр Ламбер Классический полутвердый 50%, ~1кг",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23.7,
+        "fats": 50,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Ламбер полутвердый 50%, 230г",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 230,
+        "proteins": 23.8,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Моцарелла для пиццы 40%, 1кг",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 20.1,
+        "fats": 17.6,
+        "carbohydrates": 0.0,
+        "calories": 238.5
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Российский 50%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 24.5,
+        "fats": 28.5,
+        "carbohydrates": 0.0,
+        "calories": 354
+      }
+    },
+    {
+      "name": "Сыр Hochland Professional Моцарелла для пиццы кубики нарезка, 1кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 18.7,
+        "carbohydrates": 0.1,
+        "calories": 264
+      }
+    },
+    {
+      "name": "Сыр творожный Bonfesto 70%, 400г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 400,
+        "proteins": 4,
+        "fats": 19,
+        "carbohydrates": 0.0,
+        "calories": 345
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Professional Бистро Чеддер в ломтиках 45%, 1.107кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 1107,
+        "proteins": 19,
+        "fats": 27,
+        "carbohydrates": 5,
+        "calories": 334
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Тильзитер полутвердый нарезка 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный полутвердый 45%, 1кг",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр Ламбер полутвердый 50%, ~500г",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23.7,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 377
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland для кулинарии 65%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 6.4,
+        "fats": 29,
+        "carbohydrates": 3.4,
+        "calories": 300
+      }
+    },
+    {
+      "name": "Сыр Dolce Пармезан твердый тертый, 150г",
+      "brand": "DOLCE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 30,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 372
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Тильзитер 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 23,
+        "fats": 26,
+        "carbohydrates": 0.2,
+        "calories": 327
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland Professional Cremette 65%, 1кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 6.5,
+        "fats": 28.5,
+        "carbohydrates": 3.4,
+        "calories": 295
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 325
+      }
+    },
+    {
+      "name": "Сыр творожный Profi Cheese 70%, 5.5кг",
+      "brand": "PROFI CHEESE",
+      "attributes": {
+        "weight": 5500,
+        "proteins": 6,
+        "fats": 70,
+        "carbohydrates": 7,
+        "calories": 322
+      }
+    },
+    {
+      "name": "Сыр Cooking Кремчиз мягкий 70%, 5.5кг",
+      "brand": "COOKING",
+      "attributes": {
+        "weight": 5500,
+        "proteins": 7.3,
+        "fats": 27.9,
+        "carbohydrates": 2.1,
+        "calories": 289
+      }
+    },
+    {
+      "name": "Сыр Cooking Моцарелла Пицца полутвердый 40%, 2.6кг",
+      "brand": "COOKING",
+      "attributes": {
+        "weight": 2600,
+        "proteins": 23.4,
+        "fats": 24,
+        "carbohydrates": 2.3,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр творожный Profi Cheese 70%, 2.2кг",
+      "brand": "PROFI CHEESE",
+      "attributes": {
+        "weight": 2200,
+        "proteins": 6,
+        "fats": 30,
+        "carbohydrates": 7,
+        "calories": 322
+      }
+    },
+    {
+      "name": "Сырный продукт Alti Extra 50% для пиццы, ~2кг",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 16,
+        "fats": 25,
+        "carbohydrates": 1,
+        "calories": 290
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маскарпоне 80%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 4,
+        "fats": 36,
+        "carbohydrates": 4.5,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр творожный Natura Pro Сливочный 65%, 2кг",
+      "brand": "NATURA PRO",
+      "attributes": {
+        "weight": 2000,
+        "proteins": 6,
+        "fats": 22,
+        "carbohydrates": 3.2,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Dorblu Classic с голубой плесенью 50%, 100г",
+      "brand": "DORBLU",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 337
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland сливочный 60%, 220г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 220,
+        "proteins": 6.1,
+        "fats": 22.2,
+        "carbohydrates": 3.5,
+        "calories": 238
+      }
+    },
+    {
+      "name": "Сыр Cooking Кремчиз мягкий 70%, 2.25кг",
+      "brand": "COOKING",
+      "attributes": {
+        "weight": 2250,
+        "proteins": 7.3,
+        "fats": 27.9,
+        "carbohydrates": 2.1,
+        "calories": 289
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Кабош Пармезан твердый 40%, ~1.7кг",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland Cremette Professional 65%, 10кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 10000,
+        "proteins": 6.5,
+        "fats": 28.5,
+        "carbohydrates": 3.4,
+        "calories": 295
+      }
+    },
+    {
+      "name": "Сыр Laime Пармезан твердый 40%, ~1.1кг",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 37,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 383
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда тертый 48%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 24,
+        "fats": 27,
+        "carbohydrates": 0.2,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр российский сливочный 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эдам полутвердый нарезка 40%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 26,
+        "fats": 21,
+        "carbohydrates": 0.2,
+        "calories": 290
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда 48%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр творожный 70%, 2.2кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 2200,
+        "proteins": 6,
+        "fats": 30,
+        "carbohydrates": 7,
+        "calories": 322
+      }
+    },
+    {
+      "name": "Сыр Cooking Кремчиз мягкий 70%, 11кг",
+      "brand": "COOKING",
+      "attributes": {
+        "weight": 11000,
+        "proteins": 7.3,
+        "fats": 27.9,
+        "carbohydrates": 2.1,
+        "calories": 289
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддер плавленый 45%, 738г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 738,
+        "proteins": 21,
+        "fats": 27,
+        "carbohydrates": 4.5,
+        "calories": 345
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Моцарелла тертый 40%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 18,
+        "fats": 24,
+        "carbohydrates": 1.5,
+        "calories": 240
+      }
+    },
+    {
+      "name": "METRO Chef Сыр тертый для макарон 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта сливочный 70%, 400г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 400,
+        "proteins": 7.1,
+        "fats": 24.2,
+        "carbohydrates": 2.7,
+        "calories": 257
+      }
+    },
+    {
+      "name": "Сыр Natura Сливочный полутвердый нарезка 45%, 300г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 300,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный полутвердый 45%, 400г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда полутвердый нарезка 45%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23.7,
+        "fats": 27.8,
+        "carbohydrates": 0.0,
+        "calories": 345
+      }
+    },
+    {
+      "name": "Сыр рассольный La Paulina Моцарелла 42%, ~3.3кг",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.5,
+        "fats": 42,
+        "carbohydrates": 0.9,
+        "calories": 341
+      }
+    },
+    {
+      "name": "Сыр Pretto Моцарелла для пиццы 45%, 1.2кг",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 1200,
+        "proteins": 20.5,
+        "fats": 21.6,
+        "carbohydrates": 3,
+        "calories": 288.4
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 325
+      }
+    },
+    {
+      "name": "METRO Chef Сыр чеддер 50%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 23.5,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Маскарпоне мягкий 78%, 500г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 4.1,
+        "fats": 4,
+        "carbohydrates": 2.9,
+        "calories": 388
+      }
+    },
+    {
+      "name": "METRO Chef Сыр российский сливочный 45%, ~3кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac Брынза сербская 40%, 450г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 450,
+        "proteins": 13,
+        "fats": 12.5,
+        "carbohydrates": 2.8,
+        "calories": 175
+      }
+    },
+    {
+      "name": "Сыр Стародуб Гауда полутвердый 45%, ~5.2кг",
+      "brand": "СТАРОДУБ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 45,
+        "carbohydrates": 0.9,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр Galbani Моцарелла Maxi рассольный 45%, 250г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 250,
+        "proteins": 16.5,
+        "fats": 17,
+        "carbohydrates": 3,
+        "calories": 231
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Российский полутвердый 50%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 21,
+        "fats": 28.5,
+        "carbohydrates": 0.4,
+        "calories": 340
+      }
+    },
+    {
+      "name": "aro Сырный продукт для пиццы 45%, ~1-2кг",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 20,
+        "fats": 24,
+        "carbohydrates": 5.5,
+        "calories": 318
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда полутвердый нарезка 48%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 24,
+        "fats": 27,
+        "carbohydrates": 0.2,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Камамбер 50%, 125г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "METRO Chef Сыр чеддер красный 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр Galbani Моцарелла 45%, 125г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 2,
+        "calories": 242
+      }
+    },
+    {
+      "name": "Сыр Alti Mozzarella Gourmet для пиццы 40%, ~2кг",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 20.5,
+        "fats": 20,
+        "carbohydrates": 0.05,
+        "calories": 270
+      }
+    },
+    {
+      "name": "Сыр Galbani Моцарелла мини мягкий 45%, 100г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 100,
+        "proteins": 16.5,
+        "fats": 17,
+        "carbohydrates": 3,
+        "calories": 231
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддар красный полутвердый нарезка 50%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Пармезан кусок 32%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр Galbani Страчателла, 250г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 250,
+        "proteins": 12,
+        "fats": 20,
+        "carbohydrates": 4,
+        "calories": 244
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Тильзитер полутвердый нарезка 45%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр President Камамбер 45%, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 17,
+        "fats": 19.5,
+        "carbohydrates": 0.0,
+        "calories": 244
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland сливочный 55%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 9.8,
+        "fats": 25.8,
+        "carbohydrates": 4.8,
+        "calories": 291
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Tete De Moine полутвердый 52%, ~1кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 419
+      }
+    },
+    {
+      "name": "METRO Chef Сыр маасдам 45%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25.4,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 336.5
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддар красный полутвердый 50%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный легкий полутвердый 16%, 400г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 28,
+        "fats": 16,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддар красный полутвердый нарезка 50%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "METRO Chef Сыр для пиццы Моцарелла 45%, 1.2кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1200,
+        "proteins": 23.5,
+        "fats": 22.5,
+        "carbohydrates": 0.0,
+        "calories": 297
+      }
+    },
+    {
+      "name": "Сыр Ларец с грецкими орехами 45%, ~1кг",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25.8,
+        "fats": 27.8,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Unagrande Professionale Кремчиз сливочный 70%, 500г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 500,
+        "proteins": 5.3,
+        "fats": 25.2,
+        "carbohydrates": 3,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Моцарелла для пиццы 40%, 250г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 250,
+        "proteins": 26.3,
+        "fats": 21.3,
+        "carbohydrates": 0.0,
+        "calories": 300
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный полутвердый 45%, 200г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр President Бри мягкий с белой плесенью 60%, 200г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 200,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Чизбургер в ломтиках 45%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.6,
+        "fats": 23.3,
+        "carbohydrates": 4.3,
+        "calories": 283
+      }
+    },
+    {
+      "name": "Сыр Hochland Фетакса без рассола 45%, 200г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 200,
+        "proteins": 11.7,
+        "fats": 17.6,
+        "carbohydrates": 2.1,
+        "calories": 214
+      }
+    },
+    {
+      "name": "Сыр творожный Almette Сливочный 60%, 150г",
+      "brand": "ALMETTE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6,
+        "fats": 27.4,
+        "carbohydrates": 2.8,
+        "calories": 282
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Маскарпоне мягкий 78%, 250г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4.1,
+        "fats": 40,
+        "carbohydrates": 2.9,
+        "calories": 388
+      }
+    },
+    {
+      "name": "METRO Chef Бри 60%, 125г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Тильзитер полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.1,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 335
+      }
+    },
+    {
+      "name": "Сыр Laime Gold Пармезан 12 месяцев твердый 40%, 180г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 180,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 357
+      }
+    },
+    {
+      "name": "Сыр Pretto Маскарпоне мягкий 80%, 500г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 4.5,
+        "fats": 35,
+        "carbohydrates": 6.7,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Умалат Сулугуни 45%, 1.2кг",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 1200,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "Сыр Hochland Грюнландер полутвердый 50%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 23.7,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Unagrande Professionale Маскарпоне мягкий 80%, 500г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 500,
+        "proteins": 4.8,
+        "fats": 35.2,
+        "carbohydrates": 3,
+        "calories": 348
+      }
+    },
+    {
+      "name": "Сыр Viola Российский полутвердый нарезка 50%, 270г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 270,
+        "proteins": 21.6,
+        "fats": 29.6,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Продукт белково-жировой Senior Pizzaiolo Халяль для пиццы 45%, ~2кг",
+      "brand": "SENIOR PIZZAIOLO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 16,
+        "fats": 24,
+        "carbohydrates": 2.4,
+        "calories": 290
+      }
+    },
+    {
+      "name": "Сыр творожный Almette с зеленью 60%, 150г",
+      "brand": "ALMETTE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6.5,
+        "fats": 24.8,
+        "carbohydrates": 4.3,
+        "calories": 266
+      }
+    },
+    {
+      "name": "METRO Chef Сыр гауда 45%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Продукт рассольный Сиртаки Original комбинированный для греческого салата 55%, 200г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 7,
+        "fats": 22,
+        "carbohydrates": 2,
+        "calories": 235
+      }
+    },
+    {
+      "name": "Сыр Умалат Сулугуни 45%, 280г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 280,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "Сыр Galbani Маскарпоне, 500г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 500,
+        "proteins": 4.5,
+        "fats": 40,
+        "carbohydrates": 4.5,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Адыгейский легкий 30%, 300г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 300,
+        "proteins": 19.1,
+        "fats": 13.2,
+        "carbohydrates": 0.0,
+        "calories": 195
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эдам 40% полутвердый нарезка, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 21,
+        "carbohydrates": 0.0,
+        "calories": 281
+      }
+    },
+    {
+      "name": "Сыр Великие Луки Пармезан твердый 40%, ~875г",
+      "brand": "ВЕЛИКИЕ ЛУКИ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Swiss Gourmet для фондю полутвердый 40%, 400г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 400,
+        "proteins": 15,
+        "fats": 16,
+        "carbohydrates": 3,
+        "calories": 237
+      }
+    },
+    {
+      "name": "Сыр Киприно Три сыра полутвердый тертый 45%, 200г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.5,
+        "fats": 25.7,
+        "carbohydrates": 0.0,
+        "calories": 337
+      }
+    },
+    {
+      "name": "Сыр Viola Голландский полутвердый нарезка 45%, 270г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 270,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Laime Пармезан твердый 40%, 185г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 185,
+        "proteins": 35,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 342
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маскарпоне, 1.15кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1150,
+        "proteins": 4,
+        "fats": 36,
+        "carbohydrates": 4.5,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный легкий полутвердый 16%, 200г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 200,
+        "proteins": 28,
+        "fats": 16,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Продукт сыросодержащий Terra del Gusto гауда 40%, ~2.5кг",
+      "brand": "TERRA DEL GUSTO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 13.1,
+        "fats": 21.9,
+        "carbohydrates": 11.9,
+        "calories": 298
+      }
+    },
+    {
+      "name": "Сыр Natura selection Matured Havarti выдержанный 45%, 200г",
+      "brand": "NATURA SELECTION",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 341
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Cream Cheese Кремчиз мягкий 70%, 500г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 6.1,
+        "fats": 23.8,
+        "carbohydrates": 2.4,
+        "calories": 248.2
+      }
+    },
+    {
+      "name": "Сыр President Бри мягкий 60%, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный легкий нарезка 30%, 300г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 300,
+        "proteins": 28,
+        "fats": 16,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Dolce Granto Пармезан твердый 40%, ~200г",
+      "brand": "DOLCE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 28,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 372
+      }
+    },
+    {
+      "name": "aro Сыр российский 50%, 200г",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 200,
+        "proteins": 24.5,
+        "fats": 28.5,
+        "carbohydrates": 0.0,
+        "calories": 354
+      }
+    },
+    {
+      "name": "Сыр La Paulina Чеддер полутвердый 48%, 180г",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24,
+        "fats": 33,
+        "carbohydrates": 2.8,
+        "calories": 403
+      }
+    },
+    {
+      "name": "Сыр Galbani Буррата мягкий 50%, 200г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 200,
+        "proteins": 16,
+        "fats": 18,
+        "carbohydrates": 1,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр чеддер La Paulina 48%, ~2.5кг",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 31,
+        "carbohydrates": 1.8,
+        "calories": 382
+      }
+    },
+    {
+      "name": "Сыр Стародуб сулугуни 45%, ~650г",
+      "brand": "СТАРОДУБ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 18.1,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 263
+      }
+    },
+    {
+      "name": "METRO Chef Сыр для пиццы Моцарелла 45%, 370г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 370,
+        "proteins": 23.5,
+        "fats": 22.5,
+        "carbohydrates": 0.0,
+        "calories": 297
+      }
+    },
+    {
+      "name": "Сыр творожный Mlekara Sabac Каймак мягкий сливочный 70%, 2кг",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 2000,
+        "proteins": 6.1,
+        "fats": 23.5,
+        "carbohydrates": 1.1,
+        "calories": 242
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат дружба 45%, 400г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 400,
+        "proteins": 5.6,
+        "fats": 16.2,
+        "carbohydrates": 9.8,
+        "calories": 207
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Классический полутвердый нарезка 45%, 150г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 150,
+        "proteins": 26.3,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 340.1
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola сливочный 50%, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 11,
+        "fats": 28,
+        "carbohydrates": 3,
+        "calories": 308
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда полутвердый нарезка 48%, 150г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 150,
+        "proteins": 24,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "METRO Chef Сыр российский с топленым молоком сливочный 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр плавленый President сливочный, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 18,
+        "fats": 8.5,
+        "carbohydrates": 8.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Ламбер Сливочный полутвердый 55%, ~1кг",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24.7,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр Hochland Фетакса без рассола 45%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 11.3,
+        "fats": 17.6,
+        "carbohydrates": 2.1,
+        "calories": 212
+      }
+    },
+    {
+      "name": "Сыр Laplandia Сливочный полутвердый без лактозы нарезка 45%, 250г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 250,
+        "proteins": 25,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Unagrande Моцарелла для пиццы 45%, 460г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 460,
+        "proteins": 21.3,
+        "fats": 22.3,
+        "carbohydrates": 3,
+        "calories": 297.9
+      }
+    },
+    {
+      "name": "Сыр Milkana GrandBlu Creamy с голубой плесенью, 100г",
+      "brand": "GRANDBLU",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18,
+        "fats": 31,
+        "carbohydrates": 1.8,
+        "calories": 353
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Легкий полутвердый 15%, 200г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 14,
+        "carbohydrates": 0.0,
+        "calories": 230
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддар полутвердый нарезка 50%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Продукт рассольный Сиртаки для греческого салата 55%, 330г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 330,
+        "proteins": 7,
+        "fats": 22,
+        "carbohydrates": 2,
+        "calories": 235
+      }
+    },
+    {
+      "name": "Сыр Киприно Пармезан тертый 45%, 500г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 500,
+        "proteins": 24.5,
+        "fats": 28.6,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр Pretto Рикотта мягкий 45%, 500г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 8.35,
+        "fats": 10.35,
+        "carbohydrates": 2.5,
+        "calories": 136.55
+      }
+    },
+    {
+      "name": "Сыр Киприно Пармезан 45%, ~1кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 381
+      }
+    },
+    {
+      "name": "METRO Chef Смесь тертых сыров 45%, 150г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 150,
+        "proteins": 24.2,
+        "fats": 24.9,
+        "carbohydrates": 0.0,
+        "calories": 321
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Сливочный белый соус для пиццы 70%, 2кг",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 2000,
+        "proteins": 4.5,
+        "fats": 19,
+        "carbohydrates": 0.0,
+        "calories": 190
+      }
+    },
+    {
+      "name": "Сыр Dziugas Пармезан 2 месяца выдержки 40%, 200г",
+      "brand": "DZIUGAS",
+      "attributes": {
+        "weight": 200,
+        "proteins": 33,
+        "fats": 23.5,
+        "carbohydrates": 0.0,
+        "calories": 357
+      }
+    },
+    {
+      "name": "Сыр Laime Diamond Пармезан твердый 40%, 180г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 180,
+        "proteins": 35,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 366
+      }
+    },
+    {
+      "name": "Сыр Савушкин продукт Sveza Фета Нежная мягкий 45%, 250г",
+      "brand": "САВУШКИН ПРОДУКТ",
+      "attributes": {
+        "weight": 250,
+        "proteins": 11.5,
+        "fats": 14.8,
+        "carbohydrates": 2.1,
+        "calories": 187.6
+      }
+    },
+    {
+      "name": "Сыр Киприно Алтайский полутвердый 50%, ~1.5кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Picсante Galbani с голубой плесенью 62%, 125г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 125,
+        "proteins": 14,
+        "fats": 34,
+        "carbohydrates": 0.0,
+        "calories": 362
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Пармезан тертый гранулы 32%, 100г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 100,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 374
+      }
+    },
+    {
+      "name": "Сыр Рокфорти Молодея с голубой плесенью 55%, ~2.6кг",
+      "brand": "РОКФОРТИ МОЛОДЕЯ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 350,
+        "fats": 20,
+        "carbohydrates": 30,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Грюйер 50%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр Galbani Маскарпоне Дукат мягкий 80%, 250г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4.5,
+        "fats": 40,
+        "carbohydrates": 4.5,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Маасдам полутвердый нарезка 45%, 130г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 130,
+        "proteins": 25.4,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 336
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Российский нарезка 50%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 26,
+        "carbohydrates": 0.2,
+        "calories": 327
+      }
+    },
+    {
+      "name": "METRO Chef Сыр легкий 30%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 29,
+        "fats": 15,
+        "carbohydrates": 0.0,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Пармезан 6 месяцев выдержки твердый 32%, ~1кг",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 374
+      }
+    },
+    {
+      "name": "Сыр Киприно Пармезан кусок 40%, 150г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 150,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр творожный President Professionnel Cream Cheese сливочный 65%, 2.2кг",
+      "brand": "PRESIDENT PROFESSIONNEL",
+      "attributes": {
+        "weight": 2200,
+        "proteins": 5.5,
+        "fats": 24,
+        "carbohydrates": 2.7,
+        "calories": 249
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Sbrinz твердый 47%, ~1.4кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 420
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Легкий полутвердый 35%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 31.2,
+        "fats": 18.2,
+        "carbohydrates": 0.0,
+        "calories": 288.6
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Тильзитер 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Viola Российский полутвердый 50%, 350г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 350,
+        "proteins": 21.6,
+        "fats": 29.6,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Продукт белково-жировой ЮКМП Сулугуни оригинальный 50%, 2кг",
+      "brand": "Без бренда",
+      "attributes": {
+        "weight": 2000,
+        "proteins": 18,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 300
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland с зеленью 60%, 220г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 220,
+        "proteins": 6.1,
+        "fats": 21.1,
+        "carbohydrates": 3.7,
+        "calories": 229
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маскарпоне 80%, 250г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4,
+        "fats": 36,
+        "carbohydrates": 4.5,
+        "calories": 344
+      }
+    },
+    {
+      "name": "Сыр Киприно Российский полутвердый 50% ~1.5кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Ламбер Гурмэ кусок 55%, 230г",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 230,
+        "proteins": 24.7,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр President Брынза 45%, 250г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 250,
+        "proteins": 12,
+        "fats": 16.7,
+        "carbohydrates": 3.7,
+        "calories": 213
+      }
+    },
+    {
+      "name": "METRO Chef Сыр моцарелла Фиор ди Латте 45%, 125г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23.5,
+        "fats": 22.5,
+        "carbohydrates": 0.0,
+        "calories": 297
+      }
+    },
+    {
+      "name": "Сыр Laplandia Сливочный тертый полутвердый без лактозы 45%, 150г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Чеддер полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 24.6,
+        "carbohydrates": 0.0,
+        "calories": 316
+      }
+    },
+    {
+      "name": "Сыр Киприно Алтайский полутвердый 50%, ~1кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 29,
+        "carbohydrates": 29,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Hochland Грюнландер легкий полутвердый 35%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 29,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 278
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эдам 40%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 26,
+        "fats": 21,
+        "carbohydrates": 0.0,
+        "calories": 290
+      }
+    },
+    {
+      "name": "Сыр Киприно Мастер полутвердый 50%, ~1.5кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр Боровский сыр косичка 45%, 100г",
+      "brand": "БОРОВСКИЙ СЫР",
+      "attributes": {
+        "weight": 100,
+        "proteins": 20,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Galbani Боккончини Моцарелла 8 шариков 45%, 200г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 200,
+        "proteins": 16.5,
+        "fats": 17,
+        "carbohydrates": 3,
+        "calories": 231
+      }
+    },
+    {
+      "name": "Сыр Умалат сулугуни 45%, 200г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "Сыр творожный Servolux Professional 70%, 11кг",
+      "brand": "SERVOLUX PROFESSIONAL",
+      "attributes": {
+        "weight": 11000,
+        "proteins": 6.6,
+        "fats": 28.1,
+        "carbohydrates": 3,
+        "calories": 291.3
+      }
+    },
+    {
+      "name": "METRO Chef Сыр с голубой плесенью 50%, 100г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 4,
+        "calories": 344
+      }
+    },
+    {
+      "name": "Сыр Сернурский СЗ Халумис 50%, 200г",
+      "brand": "СЕРНУРСКИЙ СЗ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 22,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 322
+      }
+    },
+    {
+      "name": "Сыр Pretto Рикотта мягкий 45%, 200г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 200,
+        "proteins": 7,
+        "fats": 10.6,
+        "carbohydrates": 4,
+        "calories": 139.4
+      }
+    },
+    {
+      "name": "METRO Chef Сыр козий 50%, 175г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 175,
+        "proteins": 25.5,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 345
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эдам 40%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 21,
+        "carbohydrates": 0.0,
+        "calories": 290
+      }
+    },
+    {
+      "name": "Сыр Умалат Кавказский мягкий 45%, 370г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 370,
+        "proteins": 19.28,
+        "fats": 19.1,
+        "carbohydrates": 0.0,
+        "calories": 249.02
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с грибами 55%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 9,
+        "fats": 26,
+        "carbohydrates": 4.6,
+        "calories": 286
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса легкий полутвердый 35%, 180г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26.5,
+        "fats": 17,
+        "carbohydrates": 0.0,
+        "calories": 259
+      }
+    },
+    {
+      "name": "Сыр La Paulina Чеддер полутвердый нарезка 48%, 400г",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 24,
+        "fats": 33,
+        "carbohydrates": 2.8,
+        "calories": 403
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Моцарелла mini мягкий 45%, 100г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18.3,
+        "fats": 18.3,
+        "carbohydrates": 0.0,
+        "calories": 238
+      }
+    },
+    {
+      "name": "METRO Chef Сыр сулугуни 45%, ~600г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 18.1,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 263.2
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland сливочный 60%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6.1,
+        "fats": 22.2,
+        "carbohydrates": 3.5,
+        "calories": 238
+      }
+    },
+    {
+      "name": "Сыр плавленый President Чизбургер в ломтиках 40%, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 6,
+        "calories": 227
+      }
+    },
+    {
+      "name": "Сыр Terra del Gusto Горгонзола с голубой плесенью 60%, 100г",
+      "brand": "TERRA DEL GUSTO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 20,
+        "fats": 36.6,
+        "carbohydrates": 0.7,
+        "calories": 397
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Блю Чиз крошка 56%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 19,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 364
+      }
+    },
+    {
+      "name": "Сыр творожный Sveza Сливочный 60%, 150г",
+      "brand": "SVEZA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6,
+        "fats": 22,
+        "carbohydrates": 3,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.3,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 340.1
+      }
+    },
+    {
+      "name": "Сыр Viola Маасдам полутвердый нарезка 45%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Адыгейский 45%, ~1.1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 16.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 228
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Пармезан тертый хлопья 32%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola сливочный, 200г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 200,
+        "proteins": 10,
+        "fats": 20,
+        "carbohydrates": 2.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Умалат Сулугуни палочки 45%, 120г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 120,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "Сыр творожный President Козий Chevre 65%, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6,
+        "fats": 21,
+        "carbohydrates": 4,
+        "calories": 229
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Diabolo Gourmet твердый 50%, ~1.2кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Laplandia легкий полутвердый без лактозы нарезка 17%, 120г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 27.5,
+        "fats": 17,
+        "carbohydrates": 0.0,
+        "calories": 263
+      }
+    },
+    {
+      "name": "Сыр Unagrande Моцарелла палочки 45%, 120г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 120,
+        "proteins": 21.3,
+        "fats": 22.3,
+        "carbohydrates": 3,
+        "calories": 297.9
+      }
+    },
+    {
+      "name": "Продукт сыросодержащий Terra del Gusto Chef российский 40%, ~2.5кг",
+      "brand": "TERRA DEL GUSTO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 13.1,
+        "fats": 21.9,
+        "carbohydrates": 11.9,
+        "calories": 298
+      }
+    },
+    {
+      "name": "Сыр Natura Сливочный полутвердый нарезка 45%, 150г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Galbani Буррата мягкий 50%, 100г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 100,
+        "proteins": 12,
+        "fats": 16,
+        "carbohydrates": 3,
+        "calories": 204
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Дружба 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 5.7,
+        "fats": 18,
+        "carbohydrates": 13.9,
+        "calories": 240
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чечил-спагетти копченый 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 21.8,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 317.6
+      }
+    },
+    {
+      "name": "Сыр Ламбер легкий полутвердый 30%, 230г",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 230,
+        "proteins": 30,
+        "fats": 15.7,
+        "carbohydrates": 0.0,
+        "calories": 261
+      }
+    },
+    {
+      "name": "Сырная тарелка Для тебя Сказочный вояж, 185г",
+      "brand": "ДЛЯ ТЕБЯ",
+      "attributes": {
+        "weight": 185,
+        "proteins": 25,
+        "fats": 28,
+        "carbohydrates": 0.1,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр плавленый President Сливочный в ломтиках, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 6,
+        "calories": 227
+      }
+    },
+    {
+      "name": "Сыр Долголетие Чечил спагетти ассорти №2 45%, 150г",
+      "brand": "ДОЛГОЛЕТИЕ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 19.5,
+        "fats": 22.8,
+        "carbohydrates": 0.0,
+        "calories": 283.2
+      }
+    },
+    {
+      "name": "Сыр Galbani Буррата mini мягкий 50%, 125г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 125,
+        "proteins": 16,
+        "fats": 18,
+        "carbohydrates": 1,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Раклет 48%, 160г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 160,
+        "proteins": 26,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 356
+      }
+    },
+    {
+      "name": "Сыр Laplandia Сливочный полутвердый без лактозы 45%, 300г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 300,
+        "proteins": 25,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Le Gruyere твердый нарезка 50%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр Vitalat Камамбер мягкий с белой плесенью 45%, 125г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 16.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 228
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с ветчиной 55%, 400г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 400,
+        "proteins": 9,
+        "fats": 26,
+        "carbohydrates": 5,
+        "calories": 290
+      }
+    },
+    {
+      "name": "Сыр Hochland Фетакса в рассоле мягкий 45%, 250г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 250,
+        "proteins": 11,
+        "fats": 16.5,
+        "carbohydrates": 2,
+        "calories": 201
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Сливочный полутвердый 50%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 22.5,
+        "fats": 29.5,
+        "carbohydrates": 0.0,
+        "calories": 355.5
+      }
+    },
+    {
+      "name": "Сырная тарелка Say Cheese №7, 185г",
+      "brand": "SAY CHEESE",
+      "attributes": {
+        "weight": 185,
+        "proteins": 24,
+        "fats": 30,
+        "carbohydrates": 0.1,
+        "calories": 370
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Чеддер кусковой 50%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 26,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 371
+      }
+    },
+    {
+      "name": "Сыр Viola Гауда полутвердый нарезка 45%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр легкий полутвердый нарезка 15%, 125г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 15,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Dorblu с голубой плесенью и трюфелем 50%, 120г",
+      "brand": "DORBLU",
+      "attributes": {
+        "weight": 120,
+        "proteins": 18,
+        "fats": 30,
+        "carbohydrates": 0.1,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Unagrande моцарелла чильеджина 45%, 125г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 125,
+        "proteins": 15,
+        "fats": 16.9,
+        "carbohydrates": 3,
+        "calories": 224.1
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Маасдам нарезка 45%, 125г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "METRO Chef Сыр грюйер 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам 45%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.2,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Laime Пармезан 9 месяцев созревания твердый колотый без лактозы 40%, 125г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 125,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 357
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 150г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 325
+      }
+    },
+    {
+      "name": "Сыр Боровский сыр косичка копченый 43%, 100г",
+      "brand": "БОРОВСКИЙ СЫР",
+      "attributes": {
+        "weight": 100,
+        "proteins": 20,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Vitalat Scamorza 40%, 130г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 130,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Vitalat Perlini копченый 40%, 100г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 100,
+        "proteins": 17.7,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 233
+      }
+    },
+    {
+      "name": "Сыр Сваля Тильзитер нарезка 45%, 125г",
+      "brand": "СВАЛЯ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26.3,
+        "fats": 24.8,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Карлов двор Гауда полутвердый, ~1.5кг",
+      "brand": "КАРЛОВ ДВОР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 2.2,
+        "calories": 356
+      }
+    },
+    {
+      "name": "METRO Chef Сыр пармезан выдержка 6 месяцев 40%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 7,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 383
+      }
+    },
+    {
+      "name": "Сыр Поставы городок Гранд пармезан 45%, 180г",
+      "brand": "ПОСТАВЫ ГОРОДОК",
+      "attributes": {
+        "weight": 180,
+        "proteins": 25.3,
+        "fats": 25.7,
+        "carbohydrates": 0.0,
+        "calories": 333
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Рикотта 40%, 500г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 11.3,
+        "fats": 10,
+        "carbohydrates": 2.5,
+        "calories": 145
+      }
+    },
+    {
+      "name": "Сыр Pretto Чильеджина Моцарелла в воде 45%, 100г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 16,
+        "fats": 18,
+        "carbohydrates": 2.9,
+        "calories": 237.6
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Халлуми рассольный 40%, 270г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 270,
+        "proteins": 22,
+        "fats": 24,
+        "carbohydrates": 1.8,
+        "calories": 311
+      }
+    },
+    {
+      "name": "Сыр плавленый President Чеддер в ломтиках 40%, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 6,
+        "calories": 227
+      }
+    },
+    {
+      "name": "Сыр President Snack a la Francaise мягкий с белой плесенью 60%, 170г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 170,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Pretto Фиор Ди Латте Моцарелла в воде 45%, 100г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 16,
+        "fats": 18,
+        "carbohydrates": 2.9,
+        "calories": 237.6
+      }
+    },
+    {
+      "name": "Сыр Hochland Фетакса в рассоле мягкий 45%, 480г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 480,
+        "proteins": 11,
+        "fats": 16.5,
+        "carbohydrates": 2,
+        "calories": 201
+      }
+    },
+    {
+      "name": "Сыр Vitalat Bocconcini копченый 40%, 100г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 100,
+        "proteins": 20,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Le Gruyere полутвердый 50%, ~1.5кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.1,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр Palermo твердый 40%, ~3кг",
+      "brand": "PALERMO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27.7,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 327
+      }
+    },
+    {
+      "name": "aro Сыр тильзитер 45%, 200г",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 311
+      }
+    },
+    {
+      "name": "Сыр Unagrande Моцарелла безлактозный мягкий 45%, 280г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 280,
+        "proteins": 21.3,
+        "fats": 22.3,
+        "carbohydrates": 3,
+        "calories": 297.9
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Рикотта 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 11,
+        "fats": 9,
+        "carbohydrates": 3.7,
+        "calories": 140
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Grand Maurice твердый 45%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 27,
+        "fats": 33,
+        "carbohydrates": 0.5,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola сливочный 45%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 12,
+        "fats": 17,
+        "carbohydrates": 4,
+        "calories": 217
+      }
+    },
+    {
+      "name": "Сыр Dorblu Chef Mix с голубой плесенью тертый 56%, 100г",
+      "brand": "DORBLU",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 346
+      }
+    },
+    {
+      "name": "Сыр Unagrande Маскарпоне мягкий 80%, 250г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4.5,
+        "fats": 35,
+        "carbohydrates": 6.7,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр творожный Viola сливочный 70%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 5.8,
+        "fats": 23.5,
+        "carbohydrates": 3.4,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Лайт полутвердый 9%, 200г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 29,
+        "fats": 9,
+        "carbohydrates": 0.0,
+        "calories": 197
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Swiss Alpine cow полутвердый 48%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 26,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 392
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддер красный полутвердый 50%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.1,
+        "fats": 28.9,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сырная тарелка Parmezan&Marzipan 32-40%, 140г",
+      "brand": "PARMEZAN&MARZIPAN",
+      "attributes": {
+        "weight": 140,
+        "proteins": 34,
+        "fats": 26,
+        "carbohydrates": 0.5,
+        "calories": 385
+      }
+    },
+    {
+      "name": "Сыр Сиртаки Classic рассольный для греческого салата, 330г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 330,
+        "proteins": 13.5,
+        "fats": 13.3,
+        "carbohydrates": 5,
+        "calories": 190
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Рикотта мягкий 40%, 250г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 250,
+        "proteins": 11.3,
+        "fats": 10,
+        "carbohydrates": 2.5,
+        "calories": 145.2
+      }
+    },
+    {
+      "name": "METRO Chef Сыр адыгейский 45%, ~650г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 19.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр плавленый Экомилк Сливочный 55%, 400г",
+      "brand": "ЭКОМИЛК",
+      "attributes": {
+        "weight": 400,
+        "proteins": 10.5,
+        "fats": 25,
+        "carbohydrates": 8,
+        "calories": 300
+      }
+    },
+    {
+      "name": "METRO Chef Сыр сулугуни копченый, ~600г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 21.8,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 317.6
+      }
+    },
+    {
+      "name": "Сыр Blue Delice c голубой плесенью 50%, 100г",
+      "brand": "BLUE DELICE",
+      "attributes": {
+        "weight": 100,
+        "proteins": 20,
+        "fats": 36.6,
+        "carbohydrates": 0.0,
+        "calories": 397
+      }
+    },
+    {
+      "name": "Сыр Natura Сливочный легкий полутвердый нарезка 16%, 150г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 28.2,
+        "fats": 16,
+        "carbohydrates": 0.0,
+        "calories": 261
+      }
+    },
+    {
+      "name": "Сыр Laime Тет де муан розочки твердый 51%, 50г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 50,
+        "proteins": 25,
+        "fats": 35,
+        "carbohydrates": 0.0,
+        "calories": 419
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Янтарь 45%, 400г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 400,
+        "proteins": 12,
+        "fats": 26.4,
+        "carbohydrates": 3.1,
+        "calories": 300
+      }
+    },
+    {
+      "name": "Сыр Эконива Щучанский полутвердый 50%, 200г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 362
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Switzerland Swiss твердый 49%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 27,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр Whitecheese from Zhukovka Камамбер 50%, 125г",
+      "brand": "WHITECHEESE FROM ZHUKOVKA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "METRO Chef Сыр бри 50%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр творожный President сливочный 56%, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.5,
+        "fats": 17,
+        "carbohydrates": 4,
+        "calories": 199
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland сливочный 55%, 200г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 200,
+        "proteins": 9.8,
+        "fats": 25.8,
+        "carbohydrates": 4.8,
+        "calories": 291
+      }
+    },
+    {
+      "name": "Сыр Эконива Durr Classic 6 месяцев выдержки твердый 50%, ~900г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Блю с голубой плесенью 54%, 100г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 3.9,
+        "calories": 344
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Emmentaler полутвердый нарезка 50%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 29,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 295
+      }
+    },
+    {
+      "name": "Сыр Laime Platinum Пармезан 15 месяцев твердый 40%, 180г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 180,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 357
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Гауда полутвердый нарезка 45%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 339
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Финский полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Viola Голландский полутвердый 45%, 350г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 350,
+        "proteins": 12,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта Violette Сливочный 70%, 140г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.1,
+        "fats": 24.5,
+        "carbohydrates": 2.7,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Terra del Gusto Моцарелла полутвердый 40%, ~1.2кг",
+      "brand": "TERRA DEL GUSTO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 19.5,
+        "fats": 20,
+        "carbohydrates": 0.7,
+        "calories": 261
+      }
+    },
+    {
+      "name": "METRO Chef Сыр алтайский 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Савушкин продукт Моцарелла пицца полутвердый нарезка кубики 40%, 1кг",
+      "brand": "САВУШКИН ПРОДУКТ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 286
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чечил Коса копченый 45%, 540г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 540,
+        "proteins": 21.8,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 317.6
+      }
+    },
+    {
+      "name": "Сыр Pretto Маскарпоне мягкий 80%, 250г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4.5,
+        "fats": 35,
+        "carbohydrates": 6.7,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Голландский полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.3,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 332
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эмменталер полутвердый нарезка 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 325
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Топленое молочко полутвердый 45%, 180г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24.4,
+        "fats": 23.4,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "aro Сыр Гауда 45%, 200г",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса для жарки полутвердый 45%, 180г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 21.9,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 282
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Switzerland Swiss полутвердый 49%, ~1кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр Кабош Levenkaas полутвердый 45%, ~875г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр творожный Almette с огурцами и зеленью 60%, 150г",
+      "brand": "ALMETTE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6.4,
+        "fats": 23.7,
+        "carbohydrates": 4.5,
+        "calories": 257
+      }
+    },
+    {
+      "name": "Сыр Dorblu a la creme с голубой плесенью мягкий 65%, 80г",
+      "brand": "DORBLU",
+      "attributes": {
+        "weight": 80,
+        "proteins": 7,
+        "fats": 26,
+        "carbohydrates": 3,
+        "calories": 274
+      }
+    },
+    {
+      "name": "Сыр La Paulina Чеддер полутвердый нарезка 48%, 150г",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 24,
+        "fats": 33,
+        "carbohydrates": 2.8,
+        "calories": 403
+      }
+    },
+    {
+      "name": "Сыр Whitecheese from Zhukovka Камамбер с черным трюфелем 50%, 125г",
+      "brand": "WHITECHEESE FROM ZHUKOVKA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 27,
+        "carbohydrates": 0.5,
+        "calories": 317
+      }
+    },
+    {
+      "name": "Сыр Боровский сыр чечил 45%, 130г",
+      "brand": "БОРОВСКИЙ СЫР",
+      "attributes": {
+        "weight": 130,
+        "proteins": 20,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Grand Maurice полутвердый 45%, ~1.5кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 33,
+        "carbohydrates": 0.5,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Итальянское избранное треугольники, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10,
+        "fats": 17,
+        "carbohydrates": 6.5,
+        "calories": 219
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Чеддер красный полутвердый 50%, 200г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр Эконива Durr Classic 6 месяцев выдержки твердый 50%, 200г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Диаболо-гурмэ 50%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 22,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 387
+      }
+    },
+    {
+      "name": "Сыр Эконива Колыбельский полутвердый 45%, 200г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.8,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Cheddar полутвердый 50%, ~1.8кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 387
+      }
+    },
+    {
+      "name": "Сыр Milkana GrandBlu Creamy с голубой плесенью 56%, ~650г",
+      "brand": "GRANDBLU",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 18,
+        "fats": 31,
+        "carbohydrates": 2.5,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр Ларец Вяленые томаты-орегано 45%, ~1кг",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Saint Christoph мягкий 47%, ~1.7кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 21,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа адыгейский Халяль 45%, 300г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 300,
+        "proteins": 19.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "METRO Chef Сыр камамбер 50%, 1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Чечил-спагетти 45%, 110г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 110,
+        "proteins": 18.1,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 263.2
+      }
+    },
+    {
+      "name": "METRO Chef Сыр швейцарский 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.5,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 390
+      }
+    },
+    {
+      "name": "Сыр Hochland Фетакса легкая в рассоле 28%, 275г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 275,
+        "proteins": 11,
+        "fats": 16.5,
+        "carbohydrates": 2,
+        "calories": 201
+      }
+    },
+    {
+      "name": "Сыр Galbani Буррата с трюфелем мягкий 50%, 200г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 200,
+        "proteins": 16,
+        "fats": 18,
+        "carbohydrates": 1,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса легкий полутвердый нарезка 35%, 125г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26.5,
+        "fats": 17,
+        "carbohydrates": 0.0,
+        "calories": 259
+      }
+    },
+    {
+      "name": "Сыр Mozer Камамбер для гриля 50%, 100г",
+      "brand": "MOZER",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Фьор Делле Альпи 50%, 150г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат сливочный, 400г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 400,
+        "proteins": 6.3,
+        "fats": 16.2,
+        "carbohydrates": 9.7,
+        "calories": 210
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Львиное сердце полутвердый 45%, 180г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24.4,
+        "fats": 23.4,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Сваля Чеддер красный нарезка 50%, 125г",
+      "brand": "СВАЛЯ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23.5,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Швейцарский Турмезан полутвердый нарезка 52%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 30,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 418
+      }
+    },
+    {
+      "name": "Сыр Hochland Grunlander Чеддер полутвердый нарезка 50%, 130г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 130,
+        "proteins": 23.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр Умалат Сулугуни для хачапури кубики нарезка 45%, 120г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 120,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 279
+      }
+    },
+    {
+      "name": "Сыр творожный Sveza Воздушный сливочный 60%, 150г",
+      "brand": "SVEZA",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6,
+        "fats": 20,
+        "carbohydrates": 3,
+        "calories": 216
+      }
+    },
+    {
+      "name": "Сыр Альгерд Пармезан классический 45%, ~4.9кг",
+      "brand": "АЛЬГЕРД",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 29,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland с зеленью 60%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6.1,
+        "fats": 21.1,
+        "carbohydrates": 3.7,
+        "calories": 229
+      }
+    },
+    {
+      "name": "Сыр Natura selection Matured Havarti выдержанный твердый нарезка 45%, 150г",
+      "brand": "NATURA SELECTION",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 341
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Сливочный полутвердый 50%, 200г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 200,
+        "proteins": 22.5,
+        "fats": 28.5,
+        "carbohydrates": 0.0,
+        "calories": 346.5
+      }
+    },
+    {
+      "name": "Сыр Кабош Kilt полутвердый 45%, ~1кг",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 28,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Киприно Молочный полутвердый 50%, ~1кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25.2,
+        "fats": 28.6,
+        "carbohydrates": 0.0,
+        "calories": 358
+      }
+    },
+    {
+      "name": "Сыр плавленый Город сыра Гурманский копченый нарезка 40%, 150г",
+      "brand": "ГОРОД СЫРА",
+      "attributes": {
+        "weight": 150,
+        "proteins": 9.1,
+        "fats": 22.1,
+        "carbohydrates": 17.1,
+        "calories": 304
+      }
+    },
+    {
+      "name": "Сыр Тревиль Бри с белой плесенью 45%, 120г",
+      "brand": "ТРЕВИЛЬ",
+      "attributes": {
+        "weight": 120,
+        "proteins": 18,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Моцарелла 1 шар 45%, 100г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18.3,
+        "fats": 18.3,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Emmentaler полутвердый 50%, ~1кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 29,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 395
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Чеддер красный полутвердый нарезка 50%, 150г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 150,
+        "proteins": 23.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр Луговая свежесть Сулугуни 45%, ~700г",
+      "brand": "ЛУГОВАЯ СВЕЖЕСТЬ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 21.9,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 263.2
+      }
+    },
+    {
+      "name": "Сыр плавленый President сливочный 45%, 200г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 200,
+        "proteins": 8.5,
+        "fats": 18,
+        "carbohydrates": 8.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Долголетие Чечил спагетти ассорти №1 45%, 150г",
+      "brand": "ДОЛГОЛЕТИЕ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 19.5,
+        "fats": 22.8,
+        "carbohydrates": 0.0,
+        "calories": 283.2
+      }
+    },
+    {
+      "name": "Сыр Laime Пармезан 6 месяцев созревания твердый без лактозы 40%, 175г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 175,
+        "proteins": 37,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 383
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Лапландский полутвердый 45%, 380г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 380,
+        "proteins": 24,
+        "fats": 26,
+        "carbohydrates": 0.5,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Ламбер Тильзитер полутвердый нарезка 45%, 150г",
+      "brand": "ЛАМБЕР",
+      "attributes": {
+        "weight": 150,
+        "proteins": 22,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 344
+      }
+    },
+    {
+      "name": "Сыр Киприно Витязь полутвердый 50%, ~1.5кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 370
+      }
+    },
+    {
+      "name": "Сыр плавленый President сливочный в ломтиках 45%, 300г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 300,
+        "proteins": 12.5,
+        "fats": 17.5,
+        "carbohydrates": 6,
+        "calories": 232
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск сливочный полутвердый 50% нарезка, 150г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 150,
+        "proteins": 22.5,
+        "fats": 29.5,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland сливочный треугольники 50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 10.2,
+        "fats": 20.9,
+        "carbohydrates": 5.4,
+        "calories": 251
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с луком для супа, 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 18,
+        "fats": 5.6,
+        "carbohydrates": 13.2,
+        "calories": 237
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Сэндвич в ломтиках 45%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.5,
+        "fats": 23,
+        "carbohydrates": 4.1,
+        "calories": 284
+      }
+    },
+    {
+      "name": "Сыр Киприно Алтайский полутвердый нарезка 50%, 125г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Лайт полутвердый нарезка 20%, 150г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 150,
+        "proteins": 29,
+        "fats": 9,
+        "carbohydrates": 0.0,
+        "calories": 197
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с ветчиной 55%, 200г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 200,
+        "proteins": 9,
+        "fats": 26,
+        "carbohydrates": 5,
+        "calories": 290
+      }
+    },
+    {
+      "name": "Сыр Hochland Грюнландер классический в нарезке 50%, 130г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 130,
+        "proteins": 23.7,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 365
+      }
+    },
+    {
+      "name": "Сыр Ларец с лисичками 45%, ~1кг",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Российский полутвердый нарезка 45%, 350г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 350,
+        "proteins": 24.4,
+        "fats": 23.4,
+        "carbohydrates": 0.0,
+        "calories": 307
+      }
+    },
+    {
+      "name": "Сыр Mozer Тартуфо с белой плесенью и трюфелем 50%, 100г",
+      "brand": "MOZER",
+      "attributes": {
+        "weight": 100,
+        "proteins": 25.7,
+        "fats": 27.3,
+        "carbohydrates": 0.0,
+        "calories": 348
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Ассорти синее треугольники 50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9.8,
+        "fats": 20.9,
+        "carbohydrates": 5.6,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Laplandia Сливочный полутвердый без лактозы нарезка 45%, 130г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 25,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "METRO Chef Сыр овечий 45%, 175г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 175,
+        "proteins": 26,
+        "fats": 35,
+        "carbohydrates": 12.5,
+        "calories": 468
+      }
+    },
+    {
+      "name": "Сыр Laplandia Эдам полутвердый без лактозы 45%, 180г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26.3,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 339
+      }
+    },
+    {
+      "name": "Сыр Viola Чеддер полутвердый нарезка 50%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 26,
+        "fats": 34,
+        "carbohydrates": 0.8,
+        "calories": 413
+      }
+    },
+    {
+      "name": "Сыр плавленый President Крем де Блю 50%, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 12,
+        "fats": 22,
+        "carbohydrates": 3.5,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Viola Российский полутвердый нарезка 50%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 21.6,
+        "fats": 29.6,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр Тревиль нуар Камамбер мягкий 45%, 130г",
+      "brand": "ТРЕВИЛЬ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 18,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр Беловежские сыры Фета белая 40%, 250г",
+      "brand": "БЕЛОВЕЖСКИЕ СЫРЫ",
+      "attributes": {
+        "weight": 250,
+        "proteins": 14,
+        "fats": 12,
+        "carbohydrates": 0.0,
+        "calories": 164
+      }
+    },
+    {
+      "name": "Сыр российский Viola кусок 50%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 22,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Эконива Сулугуни 45%, ~300г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25.4,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 309
+      }
+    },
+    {
+      "name": "Сырный продукт Стародуб Тильзитер 45%, ~5.2кг",
+      "brand": "СТАРОДУБ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27.7,
+        "fats": 24.3,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Кабош Grande Fortezza Rizerva D'Oro твердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 29,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 410
+      }
+    },
+    {
+      "name": "Сыр Савушкин продукт Sveza Брынза Нежная мягкий 45%, 250г",
+      "brand": "САВУШКИН ПРОДУКТ",
+      "attributes": {
+        "weight": 250,
+        "proteins": 11.5,
+        "fats": 14.8,
+        "carbohydrates": 2.1,
+        "calories": 187.6
+      }
+    },
+    {
+      "name": "Сыр President Greco рассольный 45%, 250г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 250,
+        "proteins": 12,
+        "fats": 16.7,
+        "carbohydrates": 3.7,
+        "calories": 213
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с грибами для супа 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 18,
+        "fats": 5.6,
+        "carbohydrates": 12.7,
+        "calories": 235
+      }
+    },
+    {
+      "name": "Сыр Киприно Тильзитер кусок 50%, 200г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25.2,
+        "fats": 28.6,
+        "carbohydrates": 0.0,
+        "calories": 358
+      }
+    },
+    {
+      "name": "Сыр Эконива Легкий полутвердый 37%, 200г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25.2,
+        "fats": 19.2,
+        "carbohydrates": 0.0,
+        "calories": 274
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Балыковый копченый 45%, 130г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 130,
+        "proteins": 21.8,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 317.6
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта Violette маринованные огурчики, 140г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6.9,
+        "fats": 24.5,
+        "carbohydrates": 2.8,
+        "calories": 259
+      }
+    },
+    {
+      "name": "Сыр Киприно Швейцарский твердый 50%, ~1кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Гауда полутвердый нарезка 45%, 125г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 320
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта Violette Cream cheese сливочный 70%, 180г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 7.8,
+        "fats": 26.6,
+        "carbohydrates": 3,
+        "calories": 283
+      }
+    },
+    {
+      "name": "Сыр Alti Бри мягкий с белой плесенью снек 60%, 180г",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 180,
+        "proteins": 15,
+        "fats": 30,
+        "carbohydrates": 0.7,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Galbani Моцарелла Tris мягкий 45%, 375г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 375,
+        "proteins": 16.5,
+        "fats": 17,
+        "carbohydrates": 3,
+        "calories": 242
+      }
+    },
+    {
+      "name": "Сыр плавленый President Creme De Brie, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 13,
+        "fats": 22,
+        "carbohydrates": 2,
+        "calories": 258
+      }
+    },
+    {
+      "name": "Набор сыров Depardieu Recommande Parmedjano Perfetto 45% + Parmedjano Eccellente 45% 250г x 2шт, 500г",
+      "brand": "DEPARDIEU RECOMMANDE",
+      "attributes": {
+        "weight": 500,
+        "proteins": 31.8,
+        "fats": 24.9,
+        "carbohydrates": 0.0,
+        "calories": 351
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Маасдам полутвердый 45%, 180г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 180,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр Bonfesto Моцарелла мини 45%, 150г",
+      "brand": "BONFESTO",
+      "attributes": {
+        "weight": 150,
+        "proteins": 18.3,
+        "fats": 18.3,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр мягкий Vitalat Бри с белой плесенью 60%, 125г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 14,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Kesidis Dairy Фета традиционная, 200г",
+      "brand": "KESIDIS DAIRY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 17.6,
+        "fats": 25,
+        "carbohydrates": 0.2,
+        "calories": 346
+      }
+    },
+    {
+      "name": "Ассорти швейцарских сыров Le Superbe Gourmet Kase-Platte, 260г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 260,
+        "proteins": 26.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 387
+      }
+    },
+    {
+      "name": "Сыр плавленый President с ветчиной в ломтиках, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 5,
+        "calories": 223
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта креветка 70%, 140г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.2,
+        "fats": 24.5,
+        "carbohydrates": 2.5,
+        "calories": 259
+      }
+    },
+    {
+      "name": "Сыр President Чечил белый соломка 35%, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 28,
+        "fats": 18,
+        "carbohydrates": 1,
+        "calories": 278
+      }
+    },
+    {
+      "name": "Сыр Dolce Granto Platinum пармезан 40%, ~200г",
+      "brand": "DOLCE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 33,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 384
+      }
+    },
+    {
+      "name": "Сыр творожный Almette с томатами по-итальянски 57%, 150г",
+      "brand": "ALMETTE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 6.2,
+        "fats": 24,
+        "carbohydrates": 4.7,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр творожный Cream Nuvo Professional 70%, 2.2кг",
+      "brand": "CREAM NUVO",
+      "attributes": {
+        "weight": 2200,
+        "proteins": 6.6,
+        "fats": 28.1,
+        "carbohydrates": 3,
+        "calories": 291.3
+      }
+    },
+    {
+      "name": "Сыр плавленый President шоколадный 30%, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 7.5,
+        "fats": 16.5,
+        "carbohydrates": 26,
+        "calories": 283
+      }
+    },
+    {
+      "name": "Сыр плавленый President Creme De Camembert, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 12.5,
+        "fats": 22,
+        "carbohydrates": 3.5,
+        "calories": 262
+      }
+    },
+    {
+      "name": "Сыр Unagrande Моцарелла безлактозный мягкий 45%, 125г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 125,
+        "proteins": 15,
+        "fats": 16.9,
+        "carbohydrates": 3,
+        "calories": 224.1
+      }
+    },
+    {
+      "name": "Сыр Laplandia Эдам полутвердый без лактозы нарезка 45%, 120г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 26.3,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 339
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Финское избранное треугольники, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10,
+        "fats": 17,
+        "carbohydrates": 6.5,
+        "calories": 219
+      }
+    },
+    {
+      "name": "Сыр Oldenburger Protein Томат-базилик 30%, 200г",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 200,
+        "proteins": 29,
+        "fats": 15,
+        "carbohydrates": 0.0,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Топленое молочко полутвердый нарезка 45%, 125г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 125,
+        "proteins": 24.4,
+        "fats": 23.4,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "METRO Chef Сыр твердый швейцарский 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 30,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр творожный Виолетта ароматная зелень 70%, 140г",
+      "brand": "ВИОЛЕТТА",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.1,
+        "fats": 24.5,
+        "carbohydrates": 2.7,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Адыгейский, ~800г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 16.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 228
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Бочонок сухой копченый 45%, 500г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 500,
+        "proteins": 48.5,
+        "fats": 39.5,
+        "carbohydrates": 0.0,
+        "calories": 550
+      }
+    },
+    {
+      "name": "Сыр мягкий Bridel Blue Cheese с голубой плесенью 54%, 100г",
+      "brand": "BRIDEL",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 337
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чеддар 50%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 323
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Чеддер в ломтиках 45%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 15.5,
+        "fats": 23,
+        "carbohydrates": 5.5,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Bergstolz Matterhorn 6 месяцев выдержки 50%, 100г",
+      "brand": "BERGSTOLZ",
+      "attributes": {
+        "weight": 100,
+        "proteins": 27,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland сливочный в ломтиках, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.2,
+        "fats": 23.2,
+        "carbohydrates": 5.3,
+        "calories": 286
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Сливочный полутвердый нарезка 50%, 125г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Viola Тильзитер полутвердый нарезка 45%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 27,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр Тревиль Камамбер Классический с белой плесенью, 130г",
+      "brand": "ТРЕВИЛЬ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 18,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland со Швейцарским сыром, 200г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 200,
+        "proteins": 10,
+        "fats": 23,
+        "carbohydrates": 6,
+        "calories": 273
+      }
+    },
+    {
+      "name": "Сыр бри Bonne Minute с белой плесенью 60%, 125г",
+      "brand": "BONNE MINUTE",
+      "attributes": {
+        "weight": 125,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Laime Маасдам полутвердый нарезка 45%, 125г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Киприно Швейцарский полутвердый нарезка 50%, 125г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26.5,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 390
+      }
+    },
+    {
+      "name": "Сыр Laime Маасдам полутвердый 45%, 200г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25.4,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 336
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Гауда полутвердый 45%, 200г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 320
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат карамельный 30%, 230г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 230,
+        "proteins": 9.3,
+        "fats": 15,
+        "carbohydrates": 20.5,
+        "calories": 254
+      }
+    },
+    {
+      "name": "Сыр Киприно Гауда полутвердый 45%, 200г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Чеддер полутвердый 50%, 200г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр Ларец с грецкими орехами кусок 45%, 245г",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 245,
+        "proteins": 25.8,
+        "fats": 27.8,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр плавленый President сливочный треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 8,
+        "fats": 17,
+        "carbohydrates": 6,
+        "calories": 204
+      }
+    },
+    {
+      "name": "Сыр Эконива Durr Classic 12 месяцев выдержки твердый 50%, ~900г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 34,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Дружба в ломтиках 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 8,
+        "fats": 10,
+        "carbohydrates": 17,
+        "calories": 190
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola сливочный в ломтиках 45%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 14,
+        "fats": 20,
+        "carbohydrates": 5,
+        "calories": 260
+      }
+    },
+    {
+      "name": "METRO Chef Сыр моцарелла Чильеджина 45%, 125г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23.5,
+        "fats": 22.5,
+        "carbohydrates": 0.0,
+        "calories": 297
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Сливочный 35%, 100г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 100,
+        "proteins": 10.4,
+        "fats": 13.8,
+        "carbohydrates": 7.9,
+        "calories": 197
+      }
+    },
+    {
+      "name": "Сыр бри Whitecheese from Zhukovka с белыми грибами 60%, 125г",
+      "brand": "WHITECHEESE FROM ZHUKOVKA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 356
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Швейцарский Маасдам полутвердый нарезка 48%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 29,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 399
+      }
+    },
+    {
+      "name": "Сыр Киприно Сливочный полутвердый 50%, ~1.5кг",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Bergstolz Swiss D'Or твердый 52%, 100г",
+      "brand": "BERGSTOLZ",
+      "attributes": {
+        "weight": 100,
+        "proteins": 27,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 405
+      }
+    },
+    {
+      "name": "Сыр Киприно Чеддер кусок 45%, 200г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.9,
+        "fats": 24.6,
+        "carbohydrates": 0.0,
+        "calories": 329
+      }
+    },
+    {
+      "name": "Сыр Natura брынза 45%, 240г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 240,
+        "proteins": 11.8,
+        "fats": 15.5,
+        "carbohydrates": 2.6,
+        "calories": 197
+      }
+    },
+    {
+      "name": "Сыр Unagrande Рикотта 50%, 200г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 200,
+        "proteins": 7.43,
+        "fats": 11.27,
+        "carbohydrates": 2.5,
+        "calories": 141
+      }
+    },
+    {
+      "name": "Сыр Columbus Тильзитер полутвердый нарезка 45%, 125г",
+      "brand": "COLUMBUS",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.1,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola с лисичками 50%, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 11,
+        "fats": 28,
+        "carbohydrates": 2,
+        "calories": 304
+      }
+    },
+    {
+      "name": "Сыр Columbus Маасдам копченый нарезка 45%, 125г",
+      "brand": "COLUMBUS",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с зеленью 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 5.1,
+        "fats": 18.5,
+        "carbohydrates": 12.2,
+        "calories": 236
+      }
+    },
+    {
+      "name": "Сыр Viola Голландский полутвердый нарезка 45%, 120г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 120,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Продукт плавленый Сырно Сытно копченый колбасный 40%, ~800г",
+      "brand": "СЫРНО СЫТНО",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 2.9,
+        "fats": 13.7,
+        "carbohydrates": 16,
+        "calories": 200
+      }
+    },
+    {
+      "name": "Сыр Кабош Сливочный полутвердый нарезка 50%, 125г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 24,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Кабош Perla di Latte Delicata твердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Unagrande моцарелла фиор ди латте 45%, 125г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 125,
+        "proteins": 15,
+        "fats": 16.9,
+        "carbohydrates": 3,
+        "calories": 224.1
+      }
+    },
+    {
+      "name": "Сыр Киприно Сливочный кусок 50%, 180г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 180,
+        "proteins": 23,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola 4 сыра 45%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 11,
+        "fats": 18,
+        "carbohydrates": 5,
+        "calories": 226
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland с маринованными огурцами 60%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6.1,
+        "fats": 21.6,
+        "carbohydrates": 3.9,
+        "calories": 235
+      }
+    },
+    {
+      "name": "Сыр Эконива Momente aus Schollbrunn полутвердый 50%, 200г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с ветчиной в ломтиках 45%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.3,
+        "fats": 23.2,
+        "carbohydrates": 4.2,
+        "calories": 282
+      }
+    },
+    {
+      "name": "Сыр плавленый President Маасдам 45%, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 8.5,
+        "fats": 18,
+        "carbohydrates": 8,
+        "calories": 228
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola четыре сыра 50%, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 12.5,
+        "fats": 11.3,
+        "carbohydrates": 5.4,
+        "calories": 179
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Жура Монтань 52%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 27,
+        "fats": 36,
+        "carbohydrates": 0.0,
+        "calories": 387
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа сулугуни Халяль 45%, 300г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 300,
+        "proteins": 18.1,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 263.2
+      }
+    },
+    {
+      "name": "Сыр Кабош Perla Di Latte Intensiva полутвердый колотый 50%, 100г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 100,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Swisshard твердый 47%, 200г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 200,
+        "proteins": 30,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 420
+      }
+    },
+    {
+      "name": "METRO Chef Сыр чеддар швейцарский 50%, 200г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 200,
+        "proteins": 27,
+        "fats": 35,
+        "carbohydrates": 0.0,
+        "calories": 423
+      }
+    },
+    {
+      "name": "Сыр Экомилк Fetica Греческий рассольный 40%, 490г",
+      "brand": "ЭКОМИЛК",
+      "attributes": {
+        "weight": 490,
+        "proteins": 13.5,
+        "fats": 14.5,
+        "carbohydrates": 3.7,
+        "calories": 200
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Эмменталер кусковой 50%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 29,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 395
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с грибами 55%, 200г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 200,
+        "proteins": 9,
+        "fats": 26,
+        "carbohydrates": 5,
+        "calories": 289
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Маасдам Gold полутвердый нарезка 45%, 125г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26.7,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 341
+      }
+    },
+    {
+      "name": "Сыр Маасдам Viola кусок 45%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 45,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Ассорти зеленое треугольники 45-50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 11,
+        "fats": 28,
+        "carbohydrates": 4.8,
+        "calories": 315
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат сливочный 45%, 200г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 6,
+        "fats": 16,
+        "carbohydrates": 10,
+        "calories": 210
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Янтарь 45%, 230г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 230,
+        "proteins": 5.6,
+        "fats": 16.2,
+        "carbohydrates": 10,
+        "calories": 208
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Львиное сердце полутвердый нарезка 45%, 125г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 125,
+        "proteins": 24.4,
+        "fats": 23.4,
+        "carbohydrates": 0.0,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Сан-Кристоф 57%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 22,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 387
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola лисички 50%, 200г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 200,
+        "proteins": 10,
+        "fats": 20,
+        "carbohydrates": 3.5,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Vitalat Перлини 40%, 100г",
+      "brand": "VITALAT",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр плавленый President Маасдам в ломтиках 45%, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 5,
+        "calories": 223
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Маасдам в ломтиках, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 24,
+        "fats": 14.2,
+        "carbohydrates": 5.4,
+        "calories": 294
+      }
+    },
+    {
+      "name": "Сыр Киприно Голландский полутвердый нарезка 45%, 125г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 125,
+        "proteins": 27,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Чечил Коса копченый, 180г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 19.5,
+        "fats": 22.8,
+        "carbohydrates": 1.9,
+        "calories": 312.8
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Чизбургер в ломтиках 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 8.4,
+        "fats": 10,
+        "carbohydrates": 17,
+        "calories": 192
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola с креветками 35%, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 11.3,
+        "fats": 12.5,
+        "carbohydrates": 5.4,
+        "calories": 179
+      }
+    },
+    {
+      "name": "Сыр плавленый President с грибами, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 18,
+        "fats": 8.5,
+        "carbohydrates": 8.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Киприно Маасдам полутвердый 45%, 200г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26.5,
+        "carbohydrates": 0.0,
+        "calories": 343
+      }
+    },
+    {
+      "name": "Сыр Кабош Levenkaas полутвердый нарезка 45%, 125г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 27,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland с чесноком 60%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 6.2,
+        "fats": 21.3,
+        "carbohydrates": 4.2,
+        "calories": 233
+      }
+    },
+    {
+      "name": "Сыр голландский Viola кусок 45%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 24.8,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Четыре Сыра треугольники 45%, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10,
+        "fats": 17,
+        "carbohydrates": 7,
+        "calories": 219
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Дружба 45%, 230г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 230,
+        "proteins": 5.7,
+        "fats": 18,
+        "carbohydrates": 13.9,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Киприно Российский кусок 50%, 180г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24.5,
+        "fats": 28.5,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Гриль Чиз в ломтиках 40%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.7,
+        "fats": 19.7,
+        "carbohydrates": 5.3,
+        "calories": 258
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Утренний полутвердый 45%, 200г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.25,
+        "fats": 24.75,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Parmegrino Гойя твердый 40%, 180г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 180,
+        "proteins": 31,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 376
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с ветчиной 45%, 400г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 400,
+        "proteins": 6.2,
+        "fats": 16.2,
+        "carbohydrates": 9.4,
+        "calories": 208
+      }
+    },
+    {
+      "name": "Сыр Сырная губерния Tom de Bois выдержанный полутвердый 41%, 200г",
+      "brand": "TOM DE BOIS",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26.8,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Шоколадный десерт ГОСТ 30%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 8.2,
+        "fats": 15.8,
+        "carbohydrates": 22.7,
+        "calories": 270
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Волна 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 5.6,
+        "fats": 18,
+        "carbohydrates": 13.3,
+        "calories": 238
+      }
+    },
+    {
+      "name": "Сыр Кабош Levenkaas полутвердый 45%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 27,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с лососем 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 5.2,
+        "fats": 18.9,
+        "carbohydrates": 13.9,
+        "calories": 247
+      }
+    },
+    {
+      "name": "Сыр Natura selection White&Blue с голубой плесенью 60%, 125г",
+      "brand": "NATURA SELECTION",
+      "attributes": {
+        "weight": 125,
+        "proteins": 18,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат Янтарь в ломтиках 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 8.1,
+        "fats": 10,
+        "carbohydrates": 17,
+        "calories": 190
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Чеддер белый полутвердый нарезка 50%, 150г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 150,
+        "proteins": 23.5,
+        "fats": 30.5,
+        "carbohydrates": 0.0,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola ветчина в ломтиках 45%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 14,
+        "fats": 20,
+        "carbohydrates": 5,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Четыре сыра в ломтиках 45%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 15,
+        "fats": 23,
+        "carbohydrates": 5.5,
+        "calories": 291
+      }
+    },
+    {
+      "name": "Сыр плавленый President с грибами в ломтиках 45%, 150г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 150,
+        "proteins": 12.5,
+        "fats": 17,
+        "carbohydrates": 5,
+        "calories": 223
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola российский Избранное ассорти треугольники 45%, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10,
+        "fats": 20,
+        "carbohydrates": 6,
+        "calories": 244
+      }
+    },
+    {
+      "name": "Сыр Depardieu Recommande Calvet Ferme твердый 50%, 250г",
+      "brand": "DEPARDIEU RECOMMANDE",
+      "attributes": {
+        "weight": 250,
+        "proteins": 24.7,
+        "fats": 31.2,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Кабош Perla Di Latte Intensiva полутвердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр плавленый President с ветчиной, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 18,
+        "fats": 8.5,
+        "carbohydrates": 8.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр Margot Fromages Шеф Савье ГОСТ 20%, 200г",
+      "brand": "MARGOT FROMAGES",
+      "attributes": {
+        "weight": 200,
+        "proteins": 27,
+        "fats": 9,
+        "carbohydrates": 0.0,
+        "calories": 215
+      }
+    },
+    {
+      "name": "Сыр Радость вкуса Маасдам Gold полутвердый 45%, 180г",
+      "brand": "РАДОСТЬ ВКУСА",
+      "attributes": {
+        "weight": 180,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 325
+      }
+    },
+    {
+      "name": "Сыр плавленый President копченые колбаски 45%, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 8.5,
+        "fats": 18,
+        "carbohydrates": 4,
+        "calories": 212
+      }
+    },
+    {
+      "name": "Сыр мягкий Hochland Professional в рассоле 45%, 480г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 480,
+        "proteins": 11,
+        "fats": 16.5,
+        "carbohydrates": 2,
+        "calories": 201
+      }
+    },
+    {
+      "name": "Сыр Unagrande Ricotta из свежего молока мягкий 50%, 500г",
+      "brand": "UNAGRANDE",
+      "attributes": {
+        "weight": 500,
+        "proteins": 7.43,
+        "fats": 11.27,
+        "carbohydrates": 2.5,
+        "calories": 141
+      }
+    },
+    {
+      "name": "Сыр Mozer Ле руж с белой плесенью 50%, 110г",
+      "brand": "MOZER",
+      "attributes": {
+        "weight": 110,
+        "proteins": 18,
+        "fats": 23,
+        "carbohydrates": 0.0,
+        "calories": 280
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola с белыми грибами треугольники 45%, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10,
+        "fats": 17,
+        "carbohydrates": 7.5,
+        "calories": 223
+      }
+    },
+    {
+      "name": "Сыр плавленый Сиртаки Feta Greek с овечьим сыром 45%, 200г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 6.6,
+        "fats": 17.4,
+        "carbohydrates": 0.0,
+        "calories": 225
+      }
+    },
+    {
+      "name": "Сыр President Royal Bleu с голубой плесенью 55%, 125г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 125,
+        "proteins": 19,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 355
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с ветчиной треугольники 50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9.4,
+        "fats": 20.9,
+        "carbohydrates": 5.8,
+        "calories": 249
+      }
+    },
+    {
+      "name": "Сыр Viola Бутербродный полутвердый 45%, 180г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26.1,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 335
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Эмменталь полутвердый нарезка 45%, 125г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр Alti Brie мягкий 60%, 125г",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 125,
+        "proteins": 15,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый President с грибами треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.8,
+        "fats": 17,
+        "carbohydrates": 3.5,
+        "calories": 198
+      }
+    },
+    {
+      "name": "Сыр камамбер Bonne Minute с белой плесенью 55%, 125г",
+      "brand": "BONNE MINUTE",
+      "attributes": {
+        "weight": 125,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Тамбовский Сулугуни 45%, ~600г",
+      "brand": "ТАМБОВСКИЙ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 19.5,
+        "fats": 18.8,
+        "carbohydrates": 0.0,
+        "calories": 256.3
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат шоколадно-ореховый 30%, 230г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 230,
+        "proteins": 9.9,
+        "fats": 15,
+        "carbohydrates": 22,
+        "calories": 263
+      }
+    },
+    {
+      "name": "Сыр плавленый Pir Professional Эмменталь в ломтиках 45%, 738г",
+      "brand": "PIR PROFESSIONAL",
+      "attributes": {
+        "weight": 738,
+        "proteins": 21.5,
+        "fats": 26.5,
+        "carbohydrates": 4,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Alti Camembert мягкий 50%, 100г",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 100,
+        "proteins": 17,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 270
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Ассорти с грибами треугольники 50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9.7,
+        "fats": 20.9,
+        "carbohydrates": 5.5,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр плавленый President Ассорти Сырная коллекция треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 17,
+        "fats": 7.8,
+        "carbohydrates": 5,
+        "calories": 204
+      }
+    },
+    {
+      "name": "Сыр Долголетие Кавказский мягкий 45%, 300г",
+      "brand": "ДОЛГОЛЕТИЕ",
+      "attributes": {
+        "weight": 300,
+        "proteins": 16.5,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 228
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат сливочный с грибами 45%, 200г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 6.1,
+        "fats": 16.2,
+        "carbohydrates": 9.3,
+        "calories": 207
+      }
+    },
+    {
+      "name": "Сыр плавленый President запеченная курица 45%, 400г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 400,
+        "proteins": 8.5,
+        "fats": 18,
+        "carbohydrates": 4,
+        "calories": 212
+      }
+    },
+    {
+      "name": "Сыр плавленый President Маасдам треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9,
+        "fats": 17.5,
+        "carbohydrates": 5,
+        "calories": 214
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат сливочный треугольники 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 9.3,
+        "fats": 10,
+        "carbohydrates": 14.1,
+        "calories": 184
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат сливочный 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 12.3,
+        "fats": 19.2,
+        "carbohydrates": 9.5,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Маасдам полутвердый 45%, 200г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 337
+      }
+    },
+    {
+      "name": "Сыр плавленый President Классическая коллекция треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.8,
+        "fats": 17,
+        "carbohydrates": 5,
+        "calories": 204
+      }
+    },
+    {
+      "name": "Сыр плавленый President с ветчиной треугольники, 140г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 140,
+        "proteins": 7.8,
+        "fats": 17,
+        "carbohydrates": 5,
+        "calories": 204
+      }
+    },
+    {
+      "name": "Сыр Сваля Тильзитер полутвердый 45%, 180г",
+      "brand": "СВАЛЯ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 26.3,
+        "fats": 24.8,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Ассорти желтое треугольники 50%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9.9,
+        "fats": 20.9,
+        "carbohydrates": 5.4,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Эмменталь полутвердый 45%, 180г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 180,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр плавленый President с ветчиной 45%, 200г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 200,
+        "proteins": 8.5,
+        "fats": 18,
+        "carbohydrates": 8.5,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр President Le Cremiot с белой плесенью 60%, 200г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 200,
+        "proteins": 15,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр Ипатов Мастерская сыра Камамбер козий мягкий 50%, 125г",
+      "brand": "ИПАТОВ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 23.5,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с кусочками лесных грибов, 400г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 400,
+        "proteins": 6.1,
+        "fats": 16.2,
+        "carbohydrates": 9.3,
+        "calories": 207
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola с лисичками в ломтиках 45%, 140г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 16,
+        "fats": 23,
+        "carbohydrates": 6,
+        "calories": 300
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат кисломолочный 45%, 90г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 90,
+        "proteins": 14.1,
+        "fats": 18,
+        "carbohydrates": 3.7,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Сливочный с ветчиной в ломтиках 45%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.7,
+        "fats": 23.3,
+        "carbohydrates": 4.2,
+        "calories": 284
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland Ассорти сливочный с беконом треугольники, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 9.8,
+        "fats": 20.9,
+        "carbohydrates": 5.6,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр Беловежские сыры Брынза белая 40%, 250г",
+      "brand": "БЕЛОВЕЖСКИЕ СЫРЫ",
+      "attributes": {
+        "weight": 250,
+        "proteins": 14,
+        "fats": 12,
+        "carbohydrates": 0.0,
+        "calories": 164
+      }
+    },
+    {
+      "name": "METRO Chef Сыр из смешанного молока 50%, 250г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 250,
+        "proteins": 22.5,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 345
+      }
+    },
+    {
+      "name": "Сыр Ипатов Мастерская сыра Коза в белом с благородной белой плесенью мягкий 50%, 110г",
+      "brand": "ИПАТОВ",
+      "attributes": {
+        "weight": 110,
+        "proteins": 21.5,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 315
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа майкопский Халяль 45%, 300г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 300,
+        "proteins": 19.1,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 270.8
+      }
+    },
+    {
+      "name": "Сыр Columbus Маасдамер полутвердый нарезка 45%, 125г",
+      "brand": "COLUMBUS",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с окороком в ломтиках 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 8.6,
+        "fats": 10,
+        "carbohydrates": 16.7,
+        "calories": 191
+      }
+    },
+    {
+      "name": "Сыр Mozer Камамбертли с белой плесенью 50%, 100г",
+      "brand": "MOZER",
+      "attributes": {
+        "weight": 100,
+        "proteins": 19,
+        "fats": 25,
+        "carbohydrates": 0.5,
+        "calories": 303
+      }
+    },
+    {
+      "name": "Сыр Alti Brie мягкий 60%, 100г",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 100,
+        "proteins": 15,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola 4 сыра 50%, 200г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 200,
+        "proteins": 10,
+        "fats": 28,
+        "carbohydrates": 3,
+        "calories": 304
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland Фетакса Сливочный с добавлением рассольного сыра 60%, 140г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 140,
+        "proteins": 10.3,
+        "fats": 17.2,
+        "carbohydrates": 5,
+        "calories": 216
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Пармезан нарезка 40%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 33,
+        "fats": 25,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр La Paulina Гойя Пармезан 40%, ~4.4кг",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 30,
+        "carbohydrates": 1.4,
+        "calories": 390
+      }
+    },
+    {
+      "name": "Сыр мягкий Ипатов Черная корова с благородной белой плесенью в золе 55%, 125г",
+      "brand": "ИПАТОВ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 19,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эдам 40%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 25,
+        "fats": 24,
+        "carbohydrates": 0.2,
+        "calories": 316
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola сливочный треугольники 35%, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10.5,
+        "fats": 17,
+        "carbohydrates": 5.5,
+        "calories": 217
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Fior delle Alpi Lustenber твердый 50%, ~1.5кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac Брынза сербская 40%, 200г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 200,
+        "proteins": 13,
+        "fats": 12.5,
+        "carbohydrates": 2.8,
+        "calories": 175
+      }
+    },
+    {
+      "name": "Сыр Истринская Сыроварня Олега Сироты Фестивальный кусок 50%, 150г",
+      "brand": "ИСТРИНСКАЯ СЫРОВАРНЯ ОЛЕГА СИРОТЫ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 24.1,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 384.4
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с ветчиной 45%, 200г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 6.2,
+        "fats": 16.2,
+        "carbohydrates": 9.4,
+        "calories": 208
+      }
+    },
+    {
+      "name": "Сыр Columbus Маасдам копченый 45%, ~1кг",
+      "brand": "COLUMBUS",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Depardieu Recommande Manchego Gran Reserva твердый 45%, 250г",
+      "brand": "DEPARDIEU RECOMMANDE",
+      "attributes": {
+        "weight": 250,
+        "proteins": 31.8,
+        "fats": 24.9,
+        "carbohydrates": 0.0,
+        "calories": 351
+      }
+    },
+    {
+      "name": "Сыр Истринская Сыроварня Олега Сироты Красногорский кусок 50%, 150г",
+      "brand": "ИСТРИНСКАЯ СЫРОВАРНЯ ОЛЕГА СИРОТЫ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 23.3,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 372.2
+      }
+    },
+    {
+      "name": "Сыр Natura Тильзитер кусок 45%, 180г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 27.5,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр La Paulina реджанито круг 45%, ~6.8кг",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 29,
+        "carbohydrates": 1.3,
+        "calories": 388
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Домашний нарезка 45%, 125г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25.4,
+        "fats": 26.4,
+        "carbohydrates": 0.0,
+        "calories": 320
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Гауда 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 338.9
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Swisshard 41%, 180г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 180,
+        "proteins": 30,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Viola плавленый Камамбер 8 порций 45%, 130г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 130,
+        "proteins": 10.5,
+        "fats": 17,
+        "carbohydrates": 6,
+        "calories": 219
+      }
+    },
+    {
+      "name": "Сыр Эконива Durr Zeller твердый 55%, ~850г",
+      "brand": "ЭКОНИВА",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 36,
+        "carbohydrates": 0.0,
+        "calories": 416
+      }
+    },
+    {
+      "name": "Сыр President Чечил белый спагетти 35%, 100г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 100,
+        "proteins": 26,
+        "fats": 18,
+        "carbohydrates": 1,
+        "calories": 278
+      }
+    },
+    {
+      "name": "Сыр President La Brique с белой плесенью мягкий 45%, 200г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 200,
+        "proteins": 17,
+        "fats": 20,
+        "carbohydrates": 0.0,
+        "calories": 248
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland Professional сливочный 50%, 1кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 5,
+        "fats": 17.5,
+        "carbohydrates": 9,
+        "calories": 213
+      }
+    },
+    {
+      "name": "Сыр плавленый Valio Viola с беконом, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 10,
+        "fats": 20,
+        "carbohydrates": 3.5,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Ko&Co Бюш Де Шевр мягкий с плесенью в золе 45%, 85г",
+      "brand": "KO&CO",
+      "attributes": {
+        "weight": 85,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Hochland Professional Чеддер для соуса плавленый 40%, 1кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 10.8,
+        "fats": 13.5,
+        "carbohydrates": 1,
+        "calories": 169
+      }
+    },
+    {
+      "name": "Сыр Hochland Professional Blue Cheese плавленый 45%, 500г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 500,
+        "proteins": 6.3,
+        "fats": 14.1,
+        "carbohydrates": 4,
+        "calories": 168
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac мягкий а ла каймак 60%, 250г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 250,
+        "proteins": 4.9,
+        "fats": 19,
+        "carbohydrates": 2.2,
+        "calories": 200
+      }
+    },
+    {
+      "name": "Сыр Dorblu Classic с голубой плесенью 50%, ~650Г",
+      "brand": "DORBLU",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 19,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 337
+      }
+    },
+    {
+      "name": "Сыр Киприно Вкусный завтрак полутвердый 50%, 180г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 180,
+        "proteins": 25.2,
+        "fats": 28.6,
+        "carbohydrates": 0.0,
+        "calories": 358
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Эмменталер 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр Истринская Сыроварня Олега Сироты Истринский кусок 50%, 150г",
+      "brand": "ИСТРИНСКАЯ СЫРОВАРНЯ ОЛЕГА СИРОТЫ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25.1,
+        "fats": 33.2,
+        "carbohydrates": 0.0,
+        "calories": 399.2
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный безлактозный кусок 45%, 180г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 25,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Истринская Сыроварня Олега Сироты Пошехонский кусок 50%, 150г",
+      "brand": "ИСТРИНСКАЯ СЫРОВАРНЯ ОЛЕГА СИРОТЫ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 22.8,
+        "fats": 1.2,
+        "carbohydrates": 0.0,
+        "calories": 379
+      }
+    },
+    {
+      "name": "Сыр Depardieu Recommande Parmedjano Perfetto твердый 45%, 250г",
+      "brand": "DEPARDIEU RECOMMANDE",
+      "attributes": {
+        "weight": 250,
+        "proteins": 31.8,
+        "fats": 45,
+        "carbohydrates": 0.0,
+        "calories": 351
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Тильзитер 45%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 26,
+        "carbohydrates": 0.2,
+        "calories": 327
+      }
+    },
+    {
+      "name": "Сыр Natura сливочный безлактозный легкий кусок 30%, 180г",
+      "brand": "NATURA",
+      "attributes": {
+        "weight": 180,
+        "proteins": 28,
+        "fats": 16,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Laplandia Protein нарезка 33%, 120г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 120,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Кабош Neerlander Strong полутвердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Sbrinz твердый 47%, 195г",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 195,
+        "proteins": 30,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 420
+      }
+    },
+    {
+      "name": "Fine Life Сыр Тильзитер кусок 45%, 200г",
+      "brand": "FINE LIFE",
+      "attributes": {
+        "weight": 200,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр Тысяча озёр Лапландский нарезка 45%, 125г",
+      "brand": "ТЫСЯЧА ОЗЁР",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25.8,
+        "fats": 26.4,
+        "carbohydrates": 0.0,
+        "calories": 340
+      }
+    },
+    {
+      "name": "Сыр Экомилк творожный сливочный 60%, 350г",
+      "brand": "ЭКОМИЛК",
+      "attributes": {
+        "weight": 350,
+        "proteins": 6.2,
+        "fats": 22,
+        "carbohydrates": 3,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Тильзитер Oldenburger 45%, ~3кг",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Карлов двор со вкусом козьего молока полутвердый 45%, ~1.6кг",
+      "brand": "КАРЛОВ ДВОР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.3,
+        "fats": 45,
+        "carbohydrates": 0.0,
+        "calories": 332
+      }
+    },
+    {
+      "name": "Сыр Laime Премиум полутвердый 50%, 200г",
+      "brand": "LAIME",
+      "attributes": {
+        "weight": 200,
+        "proteins": 22.5,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 342
+      }
+    },
+    {
+      "name": "Сыр Pretto мягкий крем-основа с маскарпоне 50%, 450г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 450,
+        "proteins": 6.5,
+        "fats": 16.4,
+        "carbohydrates": 7.2,
+        "calories": 202.4
+      }
+    },
+    {
+      "name": "Сыр Золото Европы Dolce пармезан, ~6кг",
+      "brand": "DOLCE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 372
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac мягкий а ла каймак 60%, 150г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 150,
+        "proteins": 4.9,
+        "fats": 19,
+        "carbohydrates": 2.2,
+        "calories": 200
+      }
+    },
+    {
+      "name": "Сыр Hochland Professional Бистро Чеддер плавленый 45%, 369г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 369,
+        "proteins": 19,
+        "fats": 27,
+        "carbohydrates": 5,
+        "calories": 343
+      }
+    },
+    {
+      "name": "Сыр Dolce Deluxe Пармезан твердый 34%, 200г",
+      "brand": "DOLCE",
+      "attributes": {
+        "weight": 200,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр Oldenburger Чеддер красный полутвердый 45%, ~3кг",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Маасдам полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 25.4,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 336.5
+      }
+    },
+    {
+      "name": "Сыр Сиртаки Classic рассольный для греческого салата, 200г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 13.5,
+        "fats": 13.3,
+        "carbohydrates": 5,
+        "calories": 190
+      }
+    },
+    {
+      "name": "Сыр La Paulina Гойя Пармезан твердый 40%, ~300г",
+      "brand": "LA PAULINA",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 404
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Пармезан твердый 32%, 175г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 175,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 366
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гойя твердый 40%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 33,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 366
+      }
+    },
+    {
+      "name": "Сыр Умалат брынза классический 45%, 200г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 200,
+        "proteins": 16,
+        "fats": 19,
+        "carbohydrates": 0.0,
+        "calories": 235
+      }
+    },
+    {
+      "name": "Сыр Ларец топленое молоко 45%, 245г",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 245,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Умалат Четук мягкий 45%, 370г",
+      "brand": "УМАЛАТ",
+      "attributes": {
+        "weight": 370,
+        "proteins": 19.38,
+        "fats": 19.1,
+        "carbohydrates": 0.0,
+        "calories": 249.4
+      }
+    },
+    {
+      "name": "Сыр Ипатов Камамбер, 125г",
+      "brand": "ИПАТОВ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 19.5,
+        "fats": 27.5,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Тильзитер полутвердый нарезка 45%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26.25,
+        "fats": 24.75,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "Сыр Margot Fromages деревенский горный орехово-пряный ГОСТ 49%, 200г",
+      "brand": "MARGOT FROMAGES",
+      "attributes": {
+        "weight": 200,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.4,
+        "calories": 398
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат шоколадный 30%, 230г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 230,
+        "proteins": 18,
+        "fats": 9.2,
+        "carbohydrates": 26.7,
+        "calories": 306
+      }
+    },
+    {
+      "name": "Сыр Galbani Рикотта мягкий 34%, 230г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 230,
+        "proteins": 6,
+        "fats": 6,
+        "carbohydrates": 3,
+        "calories": 90
+      }
+    },
+    {
+      "name": "Сыр Margot Fromages Грюйер орехово-сливочный ГОСТ 49%, 200г",
+      "brand": "MARGOT FROMAGES",
+      "attributes": {
+        "weight": 200,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Эдам полутвердый нарезка 45%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 320
+      }
+    },
+    {
+      "name": "Сыр President Mini Snack с красной плесенью 60%, 90г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 90,
+        "proteins": 16,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 352
+      }
+    },
+    {
+      "name": "Сыр Киприно Швейцарский Premium твердый нарезка, 350г",
+      "brand": "КИПРИНО",
+      "attributes": {
+        "weight": 350,
+        "proteins": 26.5,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 390
+      }
+    },
+    {
+      "name": "Сыр Кабош Perla di Latte Delicata твердый нарезка 50%, 125г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Ko&Co Бюш Де Шевр козий с плесенью мягкий 6 дней выдержки 45%, 90г",
+      "brand": "KO&CO",
+      "attributes": {
+        "weight": 90,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Ko&Co Бюш Де Шевр козий свежий мягкий 45%, 100г",
+      "brand": "KO&CO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Кабош Maestro Batista Classico твердый нарезка 50%, 125г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "Сыр Ипатов Бри с белой плесенью 60%, 150г",
+      "brand": "ИПАТОВ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 328
+      }
+    },
+    {
+      "name": "aro Продукт молокосодержащий сливочный 40%, 500г",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 500,
+        "proteins": 12.3,
+        "fats": 19.5,
+        "carbohydrates": 9.2,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр плавленый Карат с ветчиной в ломтиках 25%, 130г",
+      "brand": "КАРАТ",
+      "attributes": {
+        "weight": 130,
+        "proteins": 8.1,
+        "fats": 10,
+        "carbohydrates": 16.7,
+        "calories": 189
+      }
+    },
+    {
+      "name": "Сыр Ровеньки Голландский твердый, ~3.2кг",
+      "brand": "РОВЕНЬКИ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.8,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сыр плавленый Hochland с грибами в ломтиках 45%, 150г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 150,
+        "proteins": 14.3,
+        "fats": 23,
+        "carbohydrates": 4.3,
+        "calories": 281
+      }
+    },
+    {
+      "name": "METRO Chef Сыр с голубой плесенью 60%, ~2.5кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 15,
+        "fats": 33,
+        "carbohydrates": 3,
+        "calories": 369
+      }
+    },
+    {
+      "name": "Сыр Савушкин продукт Моцарелла для пиццы полутвердый 40%, ~2.5кг",
+      "brand": "САВУШКИН ПРОДУКТ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23,
+        "fats": 21.6,
+        "carbohydrates": 0.0,
+        "calories": 286
+      }
+    },
+    {
+      "name": "Сыр Oldenburger протеиновый с грецким орехом нарезка 30%, 125г",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 125,
+        "proteins": 29,
+        "fats": 15.5,
+        "carbohydrates": 0.0,
+        "calories": 250
+      }
+    },
+    {
+      "name": "Сыр творожный Pretto 65%, 250г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 250,
+        "proteins": 8.07,
+        "fats": 18.03,
+        "carbohydrates": 2.7,
+        "calories": 205.3
+      }
+    },
+    {
+      "name": "Сыр Alpino Грюйер Швейцарский твердый 50%, ~400г",
+      "brand": "ALPINO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 396
+      }
+    },
+    {
+      "name": "Сыр Laplandia Protein кусок 33%, 180г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 180,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Laplandia Probio+ с пробиотиками нарезка 45%, 120г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 120,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гойя твердый 40%, ~3кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 21,
+        "fats": 22,
+        "carbohydrates": 0.2,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Laplandia Probio+ с пробиотиками кусок 45%, 180г",
+      "brand": "LAPLANDIA",
+      "attributes": {
+        "weight": 180,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Alti Camembert мягкий 50%, 125г",
+      "brand": "ALTI",
+      "attributes": {
+        "weight": 125,
+        "proteins": 17,
+        "fats": 22,
+        "carbohydrates": 0.0,
+        "calories": 270
+      }
+    },
+    {
+      "name": "Сыр President Brie 60%, ~2.9кг",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Hochland Professional Бистро Эмменталь плавленый ломтики 45%, 369г",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 369,
+        "proteins": 18.2,
+        "fats": 26.3,
+        "carbohydrates": 4.3,
+        "calories": 326
+      }
+    },
+    {
+      "name": "Fine Life Сыр Тильзитер нарезка 45%, 150г",
+      "brand": "FINE LIFE",
+      "attributes": {
+        "weight": 150,
+        "proteins": 23,
+        "fats": 24,
+        "carbohydrates": 0.0,
+        "calories": 310
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Швейцарский Чиз полутвердый 53%, 150г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 150,
+        "proteins": 27,
+        "fats": 35,
+        "carbohydrates": 0.0,
+        "calories": 423
+      }
+    },
+    {
+      "name": "Сыр Galbani Боккончини Моцарелла мини 45%, 150г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 150,
+        "proteins": 16.5,
+        "fats": 17,
+        "carbohydrates": 3,
+        "calories": 231
+      }
+    },
+    {
+      "name": "Сыр творожный Hochland Professional Cremette 65%, 2.2кг",
+      "brand": "HOCHLAND",
+      "attributes": {
+        "weight": 2200,
+        "proteins": 6.5,
+        "fats": 28.5,
+        "carbohydrates": 3.4,
+        "calories": 295
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Гауда 45%, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сырный продукт Terra del Gusto Chef для пиццы нарезка кубики 50%, 1кг",
+      "brand": "TERRA DEL GUSTO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 14.5,
+        "fats": 26.6,
+        "carbohydrates": 2.7,
+        "calories": 308
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac Брынза сербская 40%, 950г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 950,
+        "proteins": 13,
+        "fats": 12.5,
+        "carbohydrates": 2.8,
+        "calories": 175
+      }
+    },
+    {
+      "name": "Сыр Pirpacchi Пармезан тертый твердый 32%, 500г",
+      "brand": "PIRPACCHI",
+      "attributes": {
+        "weight": 500,
+        "proteins": 33,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 392
+      }
+    },
+    {
+      "name": "Сыр Песто Oldenburger зеленый 45%, ~1кг",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "METRO Chef Сыр с голубой плесенью, 400г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 400,
+        "proteins": 19,
+        "fats": 28,
+        "carbohydrates": 4,
+        "calories": 344
+      }
+    },
+    {
+      "name": "Сыр Песто Oldenburger красный 45%, ~1кг",
+      "brand": "OLDENBURGER",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Чечил-спагетти 45%, 500г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 500,
+        "proteins": 18.1,
+        "fats": 21.2,
+        "carbohydrates": 0.0,
+        "calories": 317
+      }
+    },
+    {
+      "name": "Сыр Cheese Gallery Пармезан тертый хлопья 32%, 100г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 100,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 374
+      }
+    },
+    {
+      "name": "Сыр Pretto Моцарелла для пиццы-лазаньи-запекания 45%, 370г",
+      "brand": "PRETTO",
+      "attributes": {
+        "weight": 370,
+        "proteins": 21.3,
+        "fats": 22.3,
+        "carbohydrates": 3,
+        "calories": 297.9
+      }
+    },
+    {
+      "name": "Сыр Whitecheese from Zhukovka Бри 60%, 125г",
+      "brand": "WHITECHEESE FROM ZHUKOVKA",
+      "attributes": {
+        "weight": 125,
+        "proteins": 17,
+        "fats": 32,
+        "carbohydrates": 0.0,
+        "calories": 356
+      }
+    },
+    {
+      "name": "Сыр Предгорье Кавказа Чечил спагетти копченый 45%, 100г",
+      "brand": "ПРЕДГОРЬЕ КАВКАЗА",
+      "attributes": {
+        "weight": 100,
+        "proteins": 21.8,
+        "fats": 25.6,
+        "carbohydrates": 0.0,
+        "calories": 317.6
+      }
+    },
+    {
+      "name": "Сыр Кабош Maestro Battista Maturo твердый колотый 50%, 100г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 100,
+        "proteins": 26,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 380
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Мраморный полутвердый, ~1кг",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 23.2,
+        "fats": 24.3,
+        "carbohydrates": 0.0,
+        "calories": 312
+      }
+    },
+    {
+      "name": "Сыр Kesidis Dairy Фета со специями, 200г",
+      "brand": "KESIDIS DAIRY",
+      "attributes": {
+        "weight": 200,
+        "proteins": 17.6,
+        "fats": 25,
+        "carbohydrates": 0.2,
+        "calories": 346
+      }
+    },
+    {
+      "name": "Сыр Кабош Пармезан твердый колотый 40%, 100г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 100,
+        "proteins": 25.6,
+        "fats": 34.4,
+        "carbohydrates": 0.0,
+        "calories": 368
+      }
+    },
+    {
+      "name": "Сыр Ларец с грецкими орехами нарезка 45%, 125г",
+      "brand": "ЛАРЕЦ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 25.8,
+        "fats": 27.8,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "METRO Chef Топпинг Чеддер классический сыр плавленый 32%, 250г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 250,
+        "proteins": 9,
+        "fats": 10.3,
+        "carbohydrates": 7,
+        "calories": 157
+      }
+    },
+    {
+      "name": "Сыр Кабош Kilt полутвердый нарезка 45%, 125г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 125,
+        "proteins": 28,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Galbani Буррата со вкусом песто 50%, 200г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 200,
+        "proteins": 12,
+        "fats": 18,
+        "carbohydrates": 3,
+        "calories": 222
+      }
+    },
+    {
+      "name": "Сыр творожный Экомилк 60%, 400г",
+      "brand": "ЭКОМИЛК",
+      "attributes": {
+        "weight": 400,
+        "proteins": 6.2,
+        "fats": 22,
+        "carbohydrates": 3,
+        "calories": 240
+      }
+    },
+    {
+      "name": "Сыр Белебеевский Российский полутвердый 50%, 190г",
+      "brand": "БЕЛЕБЕЕВСКИЙ",
+      "attributes": {
+        "weight": 190,
+        "proteins": 24.5,
+        "fats": 28.5,
+        "carbohydrates": 0.0,
+        "calories": 354
+      }
+    },
+    {
+      "name": "Сыр Кабош Сливочный полутвердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 24,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 360
+      }
+    },
+    {
+      "name": "Сыр Кабош Casa Brava полутвердый 50%, 180г",
+      "brand": "КАБОШ",
+      "attributes": {
+        "weight": 180,
+        "proteins": 25,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 260
+      }
+    },
+    {
+      "name": "Сыр Белебеевский Медовый полутвердый 45%, 190г",
+      "brand": "БЕЛЕБЕЕВСКИЙ",
+      "attributes": {
+        "weight": 190,
+        "proteins": 23,
+        "fats": 29,
+        "carbohydrates": 0.0,
+        "calories": 353
+      }
+    },
+    {
+      "name": "Сыр Белебеевский полутвердый 45%, 190г",
+      "brand": "БЕЛЕБЕЕВСКИЙ",
+      "attributes": {
+        "weight": 190,
+        "proteins": 27,
+        "fats": 26.5,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр Ровеньки Голландский полутвердый 45%",
+      "brand": "РОВЕНЬКИ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.8,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сырная тарелка Cheese Gallery Gourmet, 205г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 205,
+        "proteins": 14,
+        "fats": 22,
+        "carbohydrates": 1,
+        "calories": 706
+      }
+    },
+    {
+      "name": "Сыр Grunlander Баварский нарезка 45%, 130г",
+      "brand": "GRUNLANDER",
+      "attributes": {
+        "weight": null,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Jalo Kerma сливочный нарезка, 140г",
+      "brand": "JALO KERMA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 24,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 350
+      }
+    },
+    {
+      "name": "Сыр Le Superbe Swiss Parm твердый 47%, ~1кг",
+      "brand": "LE SUPERBE",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 30,
+        "fats": 33,
+        "carbohydrates": 0.0,
+        "calories": 420
+      }
+    },
+    {
+      "name": "Сыр Casa Margot Альпендорф кусок 45%, 150г",
+      "brand": "CASA MARGOT",
+      "attributes": {
+        "weight": null,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "aro Продукт молокосодержащий Гауда полутвердый нарезка 45%, ~2.6кг",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 27.7,
+        "fats": 24.3,
+        "carbohydrates": 0.0,
+        "calories": 330
+      }
+    },
+    {
+      "name": "Продукт рассольный Сиртаки Original комбинированный для греческого салата 55%, 500г",
+      "brand": "СИРТАКИ",
+      "attributes": {
+        "weight": 500,
+        "proteins": 7,
+        "fats": 22,
+        "carbohydrates": 2,
+        "calories": 235
+      }
+    },
+    {
+      "name": "aro Продукт молокосодержащий Российский новый 50%, ~2.6кг",
+      "brand": "ARO",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 356
+      }
+    },
+    {
+      "name": "Сыр Карлов двор Гауда полутвердый 45%",
+      "brand": "КАРЛОВ ДВОР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 26,
+        "carbohydrates": 0.0,
+        "calories": 338
+      }
+    },
+    {
+      "name": "Сыр Карлов двор Тильзитер полутвердый 45%",
+      "brand": "КАРЛОВ ДВОР",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 362
+      }
+    },
+    {
+      "name": "Сыр Mlekara Sabac Mediteraneo Брынза с морской солью 25%, 250г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 250,
+        "proteins": 14.8,
+        "fats": 7.5,
+        "carbohydrates": 1.4,
+        "calories": 132
+      }
+    },
+    {
+      "name": "Сыр Galbani Рикотта козий 34%, 230г",
+      "brand": "GALBANI",
+      "attributes": {
+        "weight": 230,
+        "proteins": 15,
+        "fats": 10,
+        "carbohydrates": 3,
+        "calories": 162
+      }
+    },
+    {
+      "name": "Сыр Schonfeld Швейцарский Чеддер полутвердый нарезка 53%, 125г",
+      "brand": "SCHONFELD",
+      "attributes": {
+        "weight": 125,
+        "proteins": 27,
+        "fats": 35,
+        "carbohydrates": 0.0,
+        "calories": 423
+      }
+    },
+    {
+      "name": "Сырная тарелка Cheese Gallery Special, 205г",
+      "brand": "CHEESE GALLERY",
+      "attributes": {
+        "weight": 205,
+        "proteins": 29,
+        "fats": 31,
+        "carbohydrates": 0.0,
+        "calories": 395
+      }
+    },
+    {
+      "name": "Сыр плавленый Viola Грибной жульен 35%, 400г",
+      "brand": "VIOLA",
+      "attributes": {
+        "weight": 400,
+        "proteins": 11.3,
+        "fats": 12.5,
+        "carbohydrates": 6.5,
+        "calories": 185
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Гауда полутвердый 45%, 200г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 200,
+        "proteins": 26,
+        "fats": 26.1,
+        "carbohydrates": 0.0,
+        "calories": 338.9
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Чеддер полутвердый нарезка 45%, 130г",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 130,
+        "proteins": 25,
+        "fats": 24.6,
+        "carbohydrates": 0.0,
+        "calories": 316
+      }
+    },
+    {
+      "name": "Сыр Сваля легкий полутвердый нарезка 35%, 150г",
+      "brand": "СВАЛЯ",
+      "attributes": {
+        "weight": 150,
+        "proteins": 25,
+        "fats": 16.5,
+        "carbohydrates": 0.0,
+        "calories": 249
+      }
+    },
+    {
+      "name": "Сыр Margot Fromages Girolle Тет де Муан 51%, 400г",
+      "brand": "MARGOT FROMAGES",
+      "attributes": {
+        "weight": null,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Ko&Co Бюш Де Шевр мягкий свежий 45%, 100г",
+      "brand": "KO&CO",
+      "attributes": {
+        "weight": 100,
+        "proteins": 18,
+        "fats": 18,
+        "carbohydrates": 0.0,
+        "calories": 234
+      }
+    },
+    {
+      "name": "Сыр Jalo Kerma Легкий нарезка 30%, 140г",
+      "brand": "JALO KERMA",
+      "attributes": {
+        "weight": 140,
+        "proteins": 26,
+        "fats": 14,
+        "carbohydrates": 0.0,
+        "calories": 230
+      }
+    },
+    {
+      "name": "Сыр брынза Mlekara Sabac Mediterraneo 22%, 250г",
+      "brand": "MLEKARA SABAC",
+      "attributes": {
+        "weight": 250,
+        "proteins": 14.4,
+        "fats": 6.5,
+        "carbohydrates": 3,
+        "calories": 129
+      }
+    },
+    {
+      "name": "Сыр Белебеевский Купеческий полутвердый 52%, 190г",
+      "brand": "БЕЛЕБЕЕВСКИЙ",
+      "attributes": {
+        "weight": 190,
+        "proteins": 22,
+        "fats": 30,
+        "carbohydrates": 0.0,
+        "calories": 358
+      }
+    },
+    {
+      "name": "METRO Chef Сыр Пармезан тертый 33%, 150г",
+      "brand": "METRO CHEF",
+      "attributes": {
+        "weight": 150,
+        "proteins": 36.3,
+        "fats": 22.4,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр Ровеньки Российский молодой полутвердый 45%",
+      "brand": "РОВЕНЬКИ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 24.5,
+        "fats": 25.5,
+        "carbohydrates": 0.0,
+        "calories": 334
+      }
+    },
+    {
+      "name": "Сыр Ровеньки Пошехонский твердый 45%, ~1.6кг",
+      "brand": "РОВЕНЬКИ",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26,
+        "fats": 27,
+        "carbohydrates": 0.0,
+        "calories": 347
+      }
+    },
+    {
+      "name": "Сыр козий President Snack с белой плесенью 50%, 90г",
+      "brand": "PRESIDENT",
+      "attributes": {
+        "weight": 90,
+        "proteins": 18,
+        "fats": 28,
+        "carbohydrates": 0.0,
+        "calories": 324
+      }
+    },
+    {
+      "name": "Сыр плавленый Экомилк сливочный 55%, 350г",
+      "brand": "ЭКОМИЛК",
+      "attributes": {
+        "weight": null,
+        "proteins": null,
+        "fats": null,
+        "carbohydrates": null,
+        "calories": null
+      }
+    },
+    {
+      "name": "Сыр Брест-Литовск Голландский полутвердый 45%, ~3.5кг",
+      "brand": "БРЕСТ-ЛИТОВСК",
+      "attributes": {
+        "weight": 1000,
+        "proteins": 26.3,
+        "fats": 25.2,
+        "carbohydrates": 0.0,
+        "calories": 332
+      }
+    }
+  ]
+}
+
