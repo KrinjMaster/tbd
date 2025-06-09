@@ -5,8 +5,8 @@
     {
       "name": "METRO Chef Финики Меджуль сушеные королевские, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 1,
         "fats": 1.18,
         "carbohydrates": 75,
@@ -16,8 +16,8 @@
     {
       "name": "METRO Chef Кешью жареный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 17,
         "fats": 49,
         "carbohydrates": 24,
@@ -27,8 +27,8 @@
     {
       "name": "METRO Chef Грецкий орех очищенный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -38,8 +38,8 @@
     {
       "name": "Чипсы Lay's рифленые Сметана и лук, 225г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 225,
+      "weight": "225",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 53,
@@ -49,8 +49,8 @@
     {
       "name": "METRO Chef Миндаль жареный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 18.6,
         "fats": 57.7,
         "carbohydrates": 16.2,
@@ -60,8 +60,8 @@
     {
       "name": "METRO Chef Фисташки жареные соленые, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 20,
         "fats": 50,
         "carbohydrates": 7,
@@ -71,8 +71,8 @@
     {
       "name": "Чипсы Lay's С солью, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 52,
@@ -82,8 +82,8 @@
     {
       "name": "aro Арахис жареный соленый, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 26.3,
         "fats": 45.2,
         "carbohydrates": 9.9,
@@ -93,8 +93,8 @@
     {
       "name": "METRO Chef Кедровые орехи Сибирские очищенные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 19,
         "fats": 58,
         "carbohydrates": 17,
@@ -104,8 +104,8 @@
     {
       "name": "Чипсы Lay's Stax Нежная сметана и лук, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5,
         "fats": 27,
         "carbohydrates": 57,
@@ -115,8 +115,8 @@
     {
       "name": "aro Абрикос сушеный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 5,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -126,8 +126,8 @@
     {
       "name": "aro Смесь компотная из сухофруктов, 3кг",
       "brand": "ARO",
-      "attributes": {
-        "weight": 3000,
+      "weight": "3000",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 1,
         "carbohydrates": 60,
@@ -137,8 +137,8 @@
     {
       "name": "aro Кешью сушеный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 18.7,
         "fats": 44,
         "carbohydrates": 27.26,
@@ -148,8 +148,8 @@
     {
       "name": "aro Фисташки жареные соленые, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 21,
         "fats": 54,
         "carbohydrates": 17,
@@ -159,8 +159,8 @@
     {
       "name": "METRO Chef Абрикос сушеный без косточки, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -170,8 +170,8 @@
     {
       "name": "Чипсы Lay's Stax Пикантная паприка, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5,
         "fats": 27,
         "carbohydrates": 57,
@@ -181,8 +181,8 @@
     {
       "name": "aro Миндаль сушеный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 18.6,
         "fats": 57.7,
         "carbohydrates": 16.2,
@@ -192,8 +192,8 @@
     {
       "name": "aro Кешью жареный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 11.5,
         "fats": 43.2,
         "carbohydrates": 30.6,
@@ -203,8 +203,8 @@
     {
       "name": "METRO Chef Смесь орехов цукатов и сухофруктов, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 17.7,
         "carbohydrates": 60.3,
@@ -214,8 +214,8 @@
     {
       "name": "Чипсы Lay's Сметана и зелень, 225г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 225,
+      "weight": "225",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -225,8 +225,8 @@
     {
       "name": "Курага Семушка красная, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 3,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -236,8 +236,8 @@
     {
       "name": "METRO Chef Ядро фисташки очищенное, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 20,
         "fats": 50,
         "carbohydrates": 7,
@@ -247,8 +247,8 @@
     {
       "name": "METRO Chef Грецкий орех очищенный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 16,
         "fats": 61,
         "carbohydrates": 11,
@@ -258,8 +258,8 @@
     {
       "name": "Чипсы Lay's Краб, 225г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 225,
+      "weight": "225",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -269,8 +269,8 @@
     {
       "name": "aro Фундук жареный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 8,
         "fats": 54,
         "carbohydrates": 27,
@@ -280,8 +280,8 @@
     {
       "name": "Чипсы Lay's Сыр, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -291,8 +291,8 @@
     {
       "name": "Чипсы Delicados Начос кукурузные Барбекю, 500г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 22.5,
         "carbohydrates": 57,
@@ -302,8 +302,8 @@
     {
       "name": "Семена чиа Ого! 150г",
       "brand": "ОГО!",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 20.4,
         "fats": 30.1,
         "carbohydrates": 37,
@@ -313,8 +313,8 @@
     {
       "name": "Чипсы Delicados Начос Нежнейший сыр, 500г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 22.5,
         "carbohydrates": 57,
@@ -324,8 +324,8 @@
     {
       "name": "Финики Delight Season Королевские, 500г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 1.8,
         "fats": 0.2,
         "carbohydrates": 75,
@@ -335,8 +335,8 @@
     {
       "name": "METRO Chef Фундук жареный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 8,
         "fats": 54,
         "carbohydrates": 27,
@@ -346,8 +346,8 @@
     {
       "name": "aro Орехи грецкие сушеные очищенные, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -357,8 +357,8 @@
     {
       "name": "Чипсы Pringles картофельные Сметана и лук, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 32,
         "carbohydrates": 52,
@@ -368,8 +368,8 @@
     {
       "name": "METRO Chef Семена тыквы сушеные очищенные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 29,
         "fats": 46.7,
         "carbohydrates": 13.1,
@@ -379,8 +379,8 @@
     {
       "name": "aro Миндаль жареный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 22,
         "fats": 56,
         "carbohydrates": 12,
@@ -390,8 +390,8 @@
     {
       "name": "METRO Chef Арахис жареный дробленый, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 26.3,
         "fats": 45.2,
         "carbohydrates": 9.9,
@@ -401,8 +401,8 @@
     {
       "name": "Чипсы Lay's Stax Ребрышки барбекю, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5,
         "fats": 27,
         "carbohydrates": 57,
@@ -412,8 +412,8 @@
     {
       "name": "METRO Chef Миндаль жареный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 19.9,
         "fats": 55.5,
         "carbohydrates": 15,
@@ -423,8 +423,8 @@
     {
       "name": "Чипсы Pringles картофельные Паприка, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 31,
         "carbohydrates": 51,
@@ -434,8 +434,8 @@
     {
       "name": "METRO Chef Чернослив сушеный без косточек, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2.1,
         "fats": 1,
         "carbohydrates": 24,
@@ -445,8 +445,8 @@
     {
       "name": "Кешью Семушка жареный, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 21,
         "fats": 48,
         "carbohydrates": 15.7,
@@ -456,8 +456,8 @@
     {
       "name": "METRO Chef Изюм светлый, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 0.37,
         "carbohydrates": 67.07,
@@ -467,8 +467,8 @@
     {
       "name": "aro Смесь компотная из сухофруктов, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 1,
         "carbohydrates": 60,
@@ -478,8 +478,8 @@
     {
       "name": "Чипсы Naturals Lorenz Классические с солью, 100г",
       "brand": "NATURALS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.2,
         "fats": 34,
         "carbohydrates": 48,
@@ -489,8 +489,8 @@
     {
       "name": "Чипсы Lay's Зеленый лук, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -500,8 +500,8 @@
     {
       "name": "Чипсы San Carlo Классические, 180г",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 27,
         "carbohydrates": 56.3,
@@ -511,8 +511,8 @@
     {
       "name": "Семечки От Мартина Особенные, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -522,8 +522,8 @@
     {
       "name": "METRO Chef Клюква сушеная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 0.1,
         "fats": 1.4,
         "carbohydrates": 76.5,
@@ -533,8 +533,8 @@
     {
       "name": "METRO Chef Финики сушеные с косточкой, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.0,
         "carbohydrates": 66,
@@ -544,8 +544,8 @@
     {
       "name": "Чипсы Lay's Малосольные огурчики с укропом, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 53,
@@ -555,8 +555,8 @@
     {
       "name": "aro Орехи кедровые очищенные, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 15.6,
         "fats": 56,
         "carbohydrates": 28.4,
@@ -566,8 +566,8 @@
     {
       "name": "METRO Chef Яблоки сушеные кольца, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 0.4,
         "fats": 0.4,
         "carbohydrates": 9.8,
@@ -577,8 +577,8 @@
     {
       "name": "Чипсы Lay's рифленые Паприка, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 51,
@@ -588,8 +588,8 @@
     {
       "name": "aro Грецкий орех очищенный сушеный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -599,8 +599,8 @@
     {
       "name": "Чипсы Pringles Original картофельные, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 4,
         "fats": 33,
         "carbohydrates": 51,
@@ -610,8 +610,8 @@
     {
       "name": "aro Фундук сушеный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12,
         "fats": 64.5,
         "carbohydrates": 9.4,
@@ -621,8 +621,8 @@
     {
       "name": "RIOBA Кедровые орешки очищенные, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 19,
         "fats": 58,
         "carbohydrates": 17,
@@ -632,8 +632,8 @@
     {
       "name": "Смесь Семушка жареных орехов сладкая с цукатами, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 10.4,
         "fats": 26.3,
         "carbohydrates": 22.2,
@@ -643,8 +643,8 @@
     {
       "name": "aro Чернослив сушеный без косточки, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 1.9,
         "fats": 0.5,
         "carbohydrates": 59.5,
@@ -654,8 +654,8 @@
     {
       "name": "Миндаль Семушка жареный, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 18,
         "fats": 57,
         "carbohydrates": 14,
@@ -665,8 +665,8 @@
     {
       "name": "Чипсы San Carlo Лайм и розовый перец, 150г",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 26,
         "carbohydrates": 56,
@@ -676,8 +676,8 @@
     {
       "name": "METRO Chef Кешью сушеный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 18.7,
         "fats": 44,
         "carbohydrates": 27.26,
@@ -687,8 +687,8 @@
     {
       "name": "METRO Chef Кедровые орешки сибирские очищенные, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 14,
         "fats": 69,
         "carbohydrates": 4,
@@ -698,8 +698,8 @@
     {
       "name": "Фисташки Семушка очищенные, 120г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 20.9,
         "fats": 53.3,
         "carbohydrates": 19.9,
@@ -709,8 +709,8 @@
     {
       "name": "Чипсы нори Midori в оливковом масле, 5г",
       "brand": "MIDORI",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 1.3,
         "fats": 2,
         "carbohydrates": 1,
@@ -720,8 +720,8 @@
     {
       "name": "Семечки От Мартина тыквенные соленые, 100г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 28.04,
         "fats": 12.86,
         "carbohydrates": 45.76,
@@ -731,8 +731,8 @@
     {
       "name": "RIOBA Чипсы нори кимчи, 4.5г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 58.5,
         "carbohydrates": 9,
@@ -742,8 +742,8 @@
     {
       "name": "Сухарики Roberto Crostini для салата и супа, 125г",
       "brand": "ROBERTO",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 11,
         "fats": 13,
         "carbohydrates": 65,
@@ -753,8 +753,8 @@
     {
       "name": "Чипсы Midori Нори в кунжутном масле, 5г",
       "brand": "MIDORI",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 25.4,
         "fats": 19.7,
         "carbohydrates": 39,
@@ -764,8 +764,8 @@
     {
       "name": "aro Кешью жареный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 19,
         "fats": 50,
         "carbohydrates": 23,
@@ -775,8 +775,8 @@
     {
       "name": "METRO Chef Фисташки жареные соленые, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 21,
         "fats": 54,
         "carbohydrates": 17,
@@ -786,8 +786,8 @@
     {
       "name": "Кедровые орешки Таежный сбор сибирские очищенные, 200г",
       "brand": "ТАЕЖНЫЙ СБОР",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 18.9,
         "fats": 57.6,
         "carbohydrates": 16.7,
@@ -797,8 +797,8 @@
     {
       "name": "Чипсы Pringles с солью и уксусом, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 29,
         "carbohydrates": 56,
@@ -808,8 +808,8 @@
     {
       "name": "Печенье детское Fleur Alpine с виноградным соком с 6 месяцев, 120г",
       "brand": "FLEUR ALPINE",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 10.3,
         "carbohydrates": 69.1,
@@ -819,8 +819,8 @@
     {
       "name": "Чипсы Lay's Из печи Лисички в сметане, 85г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 6,
         "fats": 17,
         "carbohydrates": 68,
@@ -830,8 +830,8 @@
     {
       "name": "METRO Chef Шиповник сушеный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 3,
         "fats": 0.4,
         "carbohydrates": 67,
@@ -841,8 +841,8 @@
     {
       "name": "aro Арахис очищенный сушеный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 26,
         "fats": 48.1,
         "carbohydrates": 8.6,
@@ -852,8 +852,8 @@
     {
       "name": "Чипсы San Carlo Piu Gusto Томат, 150г",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 26,
         "carbohydrates": 57,
@@ -863,8 +863,8 @@
     {
       "name": "Чипсы Delicados Начос Пикантная сальса с кусочками перца чили, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 23,
         "carbohydrates": 56,
@@ -874,8 +874,8 @@
     {
       "name": "METRO Chef Изюм темный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2.3,
         "fats": 0.6,
         "carbohydrates": 65.8,
@@ -885,8 +885,8 @@
     {
       "name": "METRO Chef Кешью сушеный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 18.7,
         "fats": 44,
         "carbohydrates": 27.26,
@@ -896,8 +896,8 @@
     {
       "name": "Чипсы Lay's рифленые Паприка, 225г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 225,
+      "weight": "225",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 51,
@@ -907,8 +907,8 @@
     {
       "name": "METRO Chef Арахис жареный соленый, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 26.3,
         "fats": 45.2,
         "carbohydrates": 9.9,
@@ -918,8 +918,8 @@
     {
       "name": "Чипсы Delicados Начос кукурузные Оливки и паприка, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -929,8 +929,8 @@
     {
       "name": "Чипсы Delicados Начос кукурузные Сыр, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -940,8 +940,8 @@
     {
       "name": "aro Изюм светлый, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 1.8,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -951,8 +951,8 @@
     {
       "name": "METRO Chef Финики сушеные без косточки, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.0,
         "carbohydrates": 66,
@@ -962,8 +962,8 @@
     {
       "name": "Сухарики Хрусteam Багет томат и зелень 60г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 10,
         "fats": 15,
         "carbohydrates": 66,
@@ -973,8 +973,8 @@
     {
       "name": "METRO Chef Смесь ореховая соленая, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 24,
         "fats": 52,
         "carbohydrates": 13,
@@ -984,8 +984,8 @@
     {
       "name": "Чипсы Naturals Пармезан, 100г",
       "brand": "NATURALS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 32,
         "carbohydrates": 52,
@@ -995,8 +995,8 @@
     {
       "name": "METRO Chef Ядра фисташек очищенные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 20,
         "fats": 50,
         "carbohydrates": 7,
@@ -1006,8 +1006,8 @@
     {
       "name": "Чипсы Lay's С солью, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 52,
@@ -1017,8 +1017,8 @@
     {
       "name": "Набор орехов и сухофруктов Delight Season оранжевый менажница, 190г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 190,
+      "weight": "190",
+      "nutrients": {
         "proteins": 13.5,
         "fats": 43.6,
         "carbohydrates": 29.9,
@@ -1028,8 +1028,8 @@
     {
       "name": "Чипсы Lay's Краб, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1039,8 +1039,8 @@
     {
       "name": "Чипсы Lay's Бекон, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1050,8 +1050,8 @@
     {
       "name": "Сухарики Хрусteam Багет сырное ассорти 60г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 11,
         "fats": 16,
         "carbohydrates": 65,
@@ -1061,8 +1061,8 @@
     {
       "name": "Сухарики Хрусteam багет сметана-зелень, 100г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9.9,
         "fats": 15.3,
         "carbohydrates": 66.7,
@@ -1072,8 +1072,8 @@
     {
       "name": "RIOBA Фисташки жареные с солью, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 21,
         "fats": 54,
         "carbohydrates": 17,
@@ -1083,8 +1083,8 @@
     {
       "name": "METRO Chef Миндаль сушеный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 18.6,
         "fats": 57.7,
         "carbohydrates": 13,
@@ -1094,8 +1094,8 @@
     {
       "name": "Семечки От Мартина тыквенные без соли неочищенные, 100г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 28.04,
         "fats": 45.76,
         "carbohydrates": 12.86,
@@ -1105,8 +1105,8 @@
     {
       "name": "Курага Твердый знак Премиум без косточки, 200г",
       "brand": "ТВЕРДЫЙ ЗНАК",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 1.5,
         "fats": 0.5,
         "carbohydrates": 52,
@@ -1116,8 +1116,8 @@
     {
       "name": "METRO Chef Чипсы банановые, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 1.5,
         "fats": 0.2,
         "carbohydrates": 21,
@@ -1127,8 +1127,8 @@
     {
       "name": "METRO Chef Чернослив сушеный без косточки, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.0,
         "carbohydrates": 60,
@@ -1138,8 +1138,8 @@
     {
       "name": "aro Фисташки жареные соленые, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 22,
         "fats": 50,
         "carbohydrates": 17,
@@ -1149,8 +1149,8 @@
     {
       "name": "METRO Chef Семена подсолнечника очищенные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 21,
         "fats": 52,
         "carbohydrates": 11,
@@ -1160,8 +1160,8 @@
     {
       "name": "Чипсы Delicados Начос Сметанный соус Ранч, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6,
         "fats": 23,
         "carbohydrates": 57,
@@ -1171,8 +1171,8 @@
     {
       "name": "RIOBA Чипсы нори с оливковым маслом, 4.5г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 42.5,
         "carbohydrates": 12.2,
@@ -1182,8 +1182,8 @@
     {
       "name": "METRO Chef Миндаль сушеный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 18.6,
         "fats": 57.7,
         "carbohydrates": 13,
@@ -1193,8 +1193,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках c солью, 160г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 50,
@@ -1204,8 +1204,8 @@
     {
       "name": "Семечки Бабкины семечки 500г",
       "brand": "БАБКИНЫ СЕМЕЧКИ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 27,
         "fats": 49,
         "carbohydrates": 8.5,
@@ -1215,8 +1215,8 @@
     {
       "name": "Чипсы Lay's рифленые Лосось в сливочном соусе, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1226,8 +1226,8 @@
     {
       "name": "Манго Delight Season натуральный сушеный, 500г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 0.18,
         "fats": 0.5,
         "carbohydrates": 87,
@@ -1237,8 +1237,8 @@
     {
       "name": "METRO Chef Инжир сушеный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 0.1,
         "fats": 0.9,
         "carbohydrates": 37.1,
@@ -1248,8 +1248,8 @@
     {
       "name": "aro Фундук сушеный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 12,
         "fats": 64.5,
         "carbohydrates": 9.4,
@@ -1259,8 +1259,8 @@
     {
       "name": "RIOBA Чипсы нори васаби, 4.5г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 58.5,
         "carbohydrates": 9,
@@ -1270,8 +1270,8 @@
     {
       "name": "Чипсы Lay's Зеленый лук, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1281,8 +1281,8 @@
     {
       "name": "Семечки От Мартина жареные с морской солью, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -1292,8 +1292,8 @@
     {
       "name": "Семечки От Мартина мегапапа полосатые с солью обжаренные, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -1303,8 +1303,8 @@
     {
       "name": "Чипсы Naturals Lorenz Морская соль и перец, 100г",
       "brand": "NATURALS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 32,
         "carbohydrates": 49,
@@ -1314,8 +1314,8 @@
     {
       "name": "Чипсы Lay's рифленые Лобстер, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1325,8 +1325,8 @@
     {
       "name": "Попкорн Holy Corn морская соль для приготовления в микроволновой печи, 65г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 23,
         "carbohydrates": 41,
@@ -1336,8 +1336,8 @@
     {
       "name": "aro Кешью сушеный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 21.6,
         "fats": 46.2,
         "carbohydrates": 25.2,
@@ -1347,8 +1347,8 @@
     {
       "name": "aro Миндаль жареный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 19,
         "fats": 55,
         "carbohydrates": 13,
@@ -1358,8 +1358,8 @@
     {
       "name": "Чипсы San Carlo Паприка, 150г",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 26,
         "carbohydrates": 57,
@@ -1369,8 +1369,8 @@
     {
       "name": "Чипсы Lay's рифленые Сметана и лук, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 53,
@@ -1380,8 +1380,8 @@
     {
       "name": "Чипсы San Carlo рифленые Крокканте, 180г",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 27,
         "carbohydrates": 56.3,
@@ -1391,8 +1391,8 @@
     {
       "name": "Чипсы Delicados Начос кукурузные Оригинальные, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -1402,8 +1402,8 @@
     {
       "name": "RIOBA Смесь сладкая с орехами, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 16,
         "fats": 19,
         "carbohydrates": 59,
@@ -1413,8 +1413,8 @@
     {
       "name": "METRO Chef Манго сушеное, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 11,
         "carbohydrates": 72,
@@ -1424,8 +1424,8 @@
     {
       "name": "Гренки Фишка ржаные со вкусом сметаны и лука, 500г",
       "brand": "ФИШКА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 13.5,
         "fats": 15.3,
         "carbohydrates": 53.7,
@@ -1435,8 +1435,8 @@
     {
       "name": "Чипсы нори Midori кимчи, 5г",
       "brand": "MIDORI",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 25.4,
         "fats": 19.7,
         "carbohydrates": 39,
@@ -1446,8 +1446,8 @@
     {
       "name": "Сухарики Хрусteam Барные стейк с черным перцем, 70г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 16,
         "carbohydrates": 61,
@@ -1457,8 +1457,8 @@
     {
       "name": "Вафли детские Take a Bitey Сливочный вкус в глазури без сахара с 3 лет, 35г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 33,
         "carbohydrates": 34,
@@ -1468,8 +1468,8 @@
     {
       "name": "METRO Chef Абрикос сушеный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -1479,8 +1479,8 @@
     {
       "name": "Чипсы Lorenz Pomsticks соломкой Соль, 100г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 30,
         "carbohydrates": 52,
@@ -1490,8 +1490,8 @@
     {
       "name": "Чипсы Lay's Сыр, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 53,
@@ -1501,8 +1501,8 @@
     {
       "name": "Fine Life Попкорн соленый (100г x 3шт), 300г",
       "brand": "FINE LIFE",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 27.3,
         "carbohydrates": 48.5,
@@ -1512,8 +1512,8 @@
     {
       "name": "Чипсы Lay's Краб, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1523,8 +1523,8 @@
     {
       "name": "Чипсы Savoursmiths Соль пустыни, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 29,
         "carbohydrates": 53,
@@ -1534,8 +1534,8 @@
     {
       "name": "Чипсы Lay's Шашлык, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 3,
         "fats": 34,
         "carbohydrates": 51,
@@ -1545,8 +1545,8 @@
     {
       "name": "Чипсы Lay's Сметана и зелень, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1556,8 +1556,8 @@
     {
       "name": "Снеки Cheetos Сыр кукурузные, 50г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 63,
@@ -1567,8 +1567,8 @@
     {
       "name": "Финики Green Week Калите с грецким орехом, 350г",
       "brand": "GREEN WEEK",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 7,
         "fats": 10,
         "carbohydrates": 65,
@@ -1578,8 +1578,8 @@
     {
       "name": "METRO Chef Изюм светлый, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 0.5,
         "carbohydrates": 70,
@@ -1589,8 +1589,8 @@
     {
       "name": "Чипсы Lay's Ребрышки гриль, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5,
         "fats": 27,
         "carbohydrates": 57,
@@ -1600,8 +1600,8 @@
     {
       "name": "METRO Chef Вишня сушеная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 0.5,
         "fats": 0.0,
         "carbohydrates": 75,
@@ -1611,8 +1611,8 @@
     {
       "name": "Чипсы Salto Кукурузные начос Барбекю с сырным соусом, 220г",
       "brand": "SALTO",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -1622,8 +1622,8 @@
     {
       "name": "Чипсы Pringles Барбекю, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 29,
         "carbohydrates": 57,
@@ -1633,8 +1633,8 @@
     {
       "name": "Чипсы Lay's Maxx рифленые со вкусом Куриные крылышки барбекю, 110г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1644,8 +1644,8 @@
     {
       "name": "RIOBA Чипсы нори с оливковым маслом (4.5г x 4 шт), 18г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 42.5,
         "carbohydrates": 12.2,
@@ -1655,8 +1655,8 @@
     {
       "name": "Чипсы Savoursmiths Соль пустыни и уксус, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 26,
         "carbohydrates": 56,
@@ -1666,8 +1666,8 @@
     {
       "name": "Чипсы Вкусы Мира кокосовые оригинальные, 40г",
       "brand": "ВКУСЫ МИРА",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6,
         "fats": 27,
         "carbohydrates": 64,
@@ -1677,8 +1677,8 @@
     {
       "name": "Печенье детское Fleur Alpine с яблочным соком с 6 месяцев, 120г",
       "brand": "FLEUR ALPINE",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 11.4,
         "carbohydrates": 65,
@@ -1688,8 +1688,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко и персик без сахара с 12 месяцев, 53г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 53,
+      "weight": "53",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 75.2,
@@ -1699,8 +1699,8 @@
     {
       "name": "aro Арахис жареный соленый, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 26.5,
         "fats": 49,
         "carbohydrates": 8.7,
@@ -1710,8 +1710,8 @@
     {
       "name": "Чипсы рисовые с пряной креветкой, 100г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 23.2,
         "carbohydrates": 65.7,
@@ -1721,8 +1721,8 @@
     {
       "name": "Чипсы Delicados Начос Лобстер с кусочками оливок, 150г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 23,
         "carbohydrates": 56,
@@ -1732,8 +1732,8 @@
     {
       "name": "Fine Life Попкорн сырный (85г x 3шт), 255г",
       "brand": "FINE LIFE",
-      "attributes": {
-        "weight": 255,
+      "weight": "255",
+      "nutrients": {
         "proteins": 5.2,
         "fats": 23.2,
         "carbohydrates": 41.2,
@@ -1743,8 +1743,8 @@
     {
       "name": "Семечки От Мартина полосатые, 150г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -1754,8 +1754,8 @@
     {
       "name": "Чипсы Bruto Морская соль, 120г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -1765,8 +1765,8 @@
     {
       "name": "METRO Chef Пекан сушеный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 9,
         "fats": 72,
         "carbohydrates": 14,
@@ -1776,8 +1776,8 @@
     {
       "name": "Чипсы Savoursmiths Сыр чеддер из Сомерсета и лук-шалот, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 28,
         "carbohydrates": 53,
@@ -1787,8 +1787,8 @@
     {
       "name": "RIOBA Кешью жареный, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 25.7,
         "fats": 54.1,
         "carbohydrates": 13.2,
@@ -1798,8 +1798,8 @@
     {
       "name": "Кальмар 5 Океан сушеный, 70г",
       "brand": "5 ОКЕАН",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 28.7,
         "fats": 1.1,
         "carbohydrates": 3,
@@ -1809,8 +1809,8 @@
     {
       "name": "Семечки От Мартина белые соленые, 250г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 17.06,
         "fats": 34.5,
         "carbohydrates": 5.44,
@@ -1820,8 +1820,8 @@
     {
       "name": "METRO Chef Кешью жареный с медом и кунжутом, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 15,
         "fats": 19,
         "carbohydrates": 44,
@@ -1831,8 +1831,8 @@
     {
       "name": "Семечки От Мартина полосатые суперсоленые обжаренные, 250г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -1842,8 +1842,8 @@
     {
       "name": "Чипсы кукурузно-рисовые Dr. Korner Сметана и лук, 50г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 9,
         "carbohydrates": 69,
@@ -1853,8 +1853,8 @@
     {
       "name": "METRO Chef Финики без косточки, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 0.5,
         "carbohydrates": 69,
@@ -1864,8 +1864,8 @@
     {
       "name": "Попкорн Gourmet Popcorn Pop! тоффи карамель, 150г",
       "brand": "GOURMET POPCORN",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5,
         "fats": 15.5,
         "carbohydrates": 101.5,
@@ -1875,8 +1875,8 @@
     {
       "name": "Чипсы Naturals Lorenz Паприка, 100г",
       "brand": "NATURALS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1886,8 +1886,8 @@
     {
       "name": "Чипсы Lorenz Naturals Чеснок и зелень, 100г",
       "brand": "NATURALS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1897,8 +1897,8 @@
     {
       "name": "Печенье детское ФрутоНяня Мультизлаковое с 6 месяцев, 120г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 11.6,
         "carbohydrates": 70.2,
@@ -1908,8 +1908,8 @@
     {
       "name": "Фундук Семушка Back To Nature, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 16,
         "fats": 65,
         "carbohydrates": 10,
@@ -1919,8 +1919,8 @@
     {
       "name": "Чипсы Lay's Maxx рифленые со вкусом Пицца 4 сыра, 110г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -1930,8 +1930,8 @@
     {
       "name": "Попкорн Gourmet Popcorn CorinCorn Cheddar соленый готовый, 90г",
       "brand": "GOURMET POPCORN",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 39.5,
         "carbohydrates": 1.5,
@@ -1941,8 +1941,8 @@
     {
       "name": "aro Арахис жареный небланшированный, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 26,
         "fats": 45,
         "carbohydrates": 8.5,
@@ -1952,8 +1952,8 @@
     {
       "name": "Семечки От Мартина отборные жаренные, 100г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 17.06,
         "fats": 34.5,
         "carbohydrates": 5.44,
@@ -1963,8 +1963,8 @@
     {
       "name": "Чипсы Pringles Сыр и лук, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 4,
         "fats": 31,
         "carbohydrates": 52,
@@ -1974,8 +1974,8 @@
     {
       "name": "Сухарики Хрусteam Барные сырные палочки, 70г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 16,
         "carbohydrates": 61,
@@ -1985,8 +1985,8 @@
     {
       "name": "METRO Chef Груша сушеная, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 2,
         "fats": 1,
         "carbohydrates": 63,
@@ -1996,8 +1996,8 @@
     {
       "name": "Кукурузные палочки детские ФрутоНяня Яблоко и банан с 12 месяцев, 20г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 78,
@@ -2007,8 +2007,8 @@
     {
       "name": "Чернослив Твердый знак Премиум без косточки, 200г",
       "brand": "ТВЕРДЫЙ ЗНАК",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 3,
         "fats": 0.3,
         "carbohydrates": 60,
@@ -2018,8 +2018,8 @@
     {
       "name": "Палочки Деревенские Гренки с чесноком, 100г",
       "brand": "ДЕРЕВЕНСКИЕ ГРЕНКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 44,
@@ -2029,8 +2029,8 @@
     {
       "name": "Чипсы Lay's Maxx рифленые со вкусом Грибы в сливочном соусе, 110г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -2040,8 +2040,8 @@
     {
       "name": "Чипсы Lay's Из печи Нежный сыр с зеленью, 85г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 6,
         "fats": 17,
         "carbohydrates": 68,
@@ -2051,8 +2051,8 @@
     {
       "name": "Чипсы кукурузно-рисовые Dr. Korner Тайский перец, 50г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 8,
         "fats": 8.5,
         "carbohydrates": 71,
@@ -2062,8 +2062,8 @@
     {
       "name": "Батончик фруктово-злаковый детский Агуша Яблоко, клубника и злаки с 12 месяцев, 15г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.3,
         "fats": 0.54,
         "carbohydrates": 11.2,
@@ -2073,8 +2073,8 @@
     {
       "name": "Сухарики Хрусteam Багет королевский краб 60г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 10,
         "fats": 15,
         "carbohydrates": 67,
@@ -2084,8 +2084,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках Сыр, 160г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 51,
@@ -2095,8 +2095,8 @@
     {
       "name": "METRO Chef Кешью в карамели, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 12,
         "fats": 52,
         "carbohydrates": 30,
@@ -2106,8 +2106,8 @@
     {
       "name": "METRO Chef Смесь ореховая с изюмом, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 17,
         "fats": 46,
         "carbohydrates": 25,
@@ -2117,8 +2117,8 @@
     {
       "name": "Орех грецкий Семушка в скорлупе, 500г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 16,
         "fats": 62,
         "carbohydrates": 12,
@@ -2128,8 +2128,8 @@
     {
       "name": "Попкорн Holy Corn сладко-соленый, 30г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 13,
         "carbohydrates": 64,
@@ -2139,8 +2139,8 @@
     {
       "name": "aro Чернослив сушеный без косточки, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.7,
         "carbohydrates": 57.5,
@@ -2150,8 +2150,8 @@
     {
       "name": "Печенье детское Take a Bitey Брокколи без глютена с 18 месяцев, 125г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 17.6,
         "carbohydrates": 65.2,
@@ -2161,8 +2161,8 @@
     {
       "name": "Сухарики Хрусteam чиабатта пармская ветчина, 55г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 9,
         "fats": 18,
         "carbohydrates": 63,
@@ -2172,8 +2172,8 @@
     {
       "name": "aro Миндаль сушеный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 19,
         "fats": 54,
         "carbohydrates": 13,
@@ -2183,8 +2183,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко и вишня с 12 месяцев, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 69.3,
@@ -2194,8 +2194,8 @@
     {
       "name": "METRO Chef Смесь ореховая соленая, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 24,
         "fats": 52,
         "carbohydrates": 13,
@@ -2205,8 +2205,8 @@
     {
       "name": "Семечки Ciko подсолнечника белые, 100г",
       "brand": "CIKO",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 34.5,
         "fats": 5.44,
         "carbohydrates": 17.06,
@@ -2216,8 +2216,8 @@
     {
       "name": "Набор орехов и сухофруктов Delight Season красный менажница, 215г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 215,
+      "weight": "215",
+      "nutrients": {
         "proteins": 15.2,
         "fats": 39.8,
         "carbohydrates": 31.2,
@@ -2227,8 +2227,8 @@
     {
       "name": "Гренки Фишка чесночные, 120г",
       "brand": "ФИШКА",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 10,
         "fats": 17,
         "carbohydrates": 64,
@@ -2238,8 +2238,8 @@
     {
       "name": "Печенье детское Take a Bitey Сливочная малина без глютена с 18 месяцев, 125г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 18,
         "carbohydrates": 65,
@@ -2249,8 +2249,8 @@
     {
       "name": "RIOBA Чипсы нори васаби (4.5г x 4 шт), 18г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 3.8,
         "fats": 42.1,
         "carbohydrates": 13.4,
@@ -2260,8 +2260,8 @@
     {
       "name": "Чипсы Mr Potato Сметана и лук, 160г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6.2,
         "fats": 26.3,
         "carbohydrates": 61,
@@ -2271,8 +2271,8 @@
     {
       "name": "Чипсы нори Midori васаби, 5г",
       "brand": "MIDORI",
-      "attributes": {
-        "weight": 5,
+      "weight": "5",
+      "nutrients": {
         "proteins": 25.4,
         "fats": 19.7,
         "carbohydrates": 39,
@@ -2282,8 +2282,8 @@
     {
       "name": "METRO Chef Макадамия сушеная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 8,
         "fats": 73.6,
         "carbohydrates": 13.8,
@@ -2293,8 +2293,8 @@
     {
       "name": "Смесь салатная Твердый знак обжаренная, 300г",
       "brand": "ТВЕРДЫЙ ЗНАК",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 21,
         "fats": 47,
         "carbohydrates": 7.5,
@@ -2304,8 +2304,8 @@
     {
       "name": "Семечки Богучарские подсолнечника жареные подсоленные очищенные, 75г",
       "brand": "БОГУЧАРСКИЕ",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 22.3,
         "fats": 56.3,
         "carbohydrates": 3.6,
@@ -2315,8 +2315,8 @@
     {
       "name": "Чипсы Lay's из печи картофельно-злаковые вяленые томаты-базилик, 81г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 81,
+      "weight": "81",
+      "nutrients": {
         "proteins": 6,
         "fats": 16,
         "carbohydrates": 65,
@@ -2326,8 +2326,8 @@
     {
       "name": "Финики Delight Season Deglet Nour сушеные, 250г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.0,
         "carbohydrates": 66,
@@ -2337,8 +2337,8 @@
     {
       "name": "Чипсы Pringles Сметана и Лук, 40г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 56,
@@ -2348,8 +2348,8 @@
     {
       "name": "Полосатик желтый 5 Океан сушеный, 70г",
       "brand": "5 ОКЕАН",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 37.9,
         "fats": 3,
         "carbohydrates": 2,
@@ -2359,8 +2359,8 @@
     {
       "name": "Печенье детское ФрутоНяня Пшеничное с 6 месяцев, 120г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 11.7,
         "carbohydrates": 70.2,
@@ -2370,8 +2370,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко, персик и маракуйя с 12 месяцев, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 70,
@@ -2381,8 +2381,8 @@
     {
       "name": "aro Фундук жареный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 18,
         "fats": 65,
         "carbohydrates": 9.5,
@@ -2392,8 +2392,8 @@
     {
       "name": "Чипсы Хрустящий картофель Сметана и лук, 160г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 50,
@@ -2403,8 +2403,8 @@
     {
       "name": "Чипсы Lorenz Crunchips X-Cut рифленые Чакалака, 130г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 31,
         "carbohydrates": 51,
@@ -2414,8 +2414,8 @@
     {
       "name": "Батончик фруктово-злаковый детский ФрутоНяня Яблоко, банан и клубника с 12 месяцев, 25г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 5.5,
         "carbohydrates": 73.5,
@@ -2425,8 +2425,8 @@
     {
       "name": "Попкорн Holy Corn сладкий для приготовления в микроволновой печи, 70г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 7.64,
         "fats": 26.77,
         "carbohydrates": 44.51,
@@ -2436,8 +2436,8 @@
     {
       "name": "Семечки Бабкины семечки с солью, 300г",
       "brand": "БАБКИНЫ СЕМЕЧКИ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 27,
         "fats": 49,
         "carbohydrates": 8.5,
@@ -2447,8 +2447,8 @@
     {
       "name": "Финики Семушка королевские, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 0.5,
         "carbohydrates": 69.5,
@@ -2458,8 +2458,8 @@
     {
       "name": "Чипсы Хрустящий картофель Сметана и лук, 70г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 50,
@@ -2469,8 +2469,8 @@
     {
       "name": "METRO Chef Изюм темный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 0.37,
         "carbohydrates": 67.07,
@@ -2480,8 +2480,8 @@
     {
       "name": "Печенье детское ФрутоНяня Овсяное с 12 месяцев, 50г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 12,
         "carbohydrates": 68,
@@ -2491,8 +2491,8 @@
     {
       "name": "Чернослив Дары природы сушеный без косточек, 150г",
       "brand": "ДАРЫ ПРИРОДЫ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.4,
         "carbohydrates": 64,
@@ -2502,8 +2502,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках c солью, 70г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 50,
@@ -2513,8 +2513,8 @@
     {
       "name": "RIOBA Арахис жареный соленый, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 25,
         "fats": 52,
         "carbohydrates": 13,
@@ -2524,8 +2524,8 @@
     {
       "name": "Изюм Семушка узбекский, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 1.8,
         "fats": 0.0,
         "carbohydrates": 70.9,
@@ -2535,8 +2535,8 @@
     {
       "name": "Смесь Seeberger обжаренные орехи и темный изюм Джамбо, 150г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 25,
         "fats": 53,
         "carbohydrates": 12,
@@ -2546,8 +2546,8 @@
     {
       "name": "Семена льна Ого! 150г",
       "brand": "ОГО!",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 20,
         "fats": 42,
         "carbohydrates": 28,
@@ -2557,8 +2557,8 @@
     {
       "name": "Чипсы Lorenz Crunchips X-Cut рифленые Сметана и специи, 130г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 31,
         "carbohydrates": 51,
@@ -2568,8 +2568,8 @@
     {
       "name": "Семечки От Мартина Особенные с морской солью, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -2579,8 +2579,8 @@
     {
       "name": "METRO Chef Кешью Жареные с медом и кунжутом, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 10,
         "fats": 49,
         "carbohydrates": 20,
@@ -2590,8 +2590,8 @@
     {
       "name": "aro Абрикос сушеный, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5,
         "fats": 0.5,
         "carbohydrates": 51,
@@ -2601,8 +2601,8 @@
     {
       "name": "Чипсы нори Naitori с оливковым маслом, 3г",
       "brand": "NAITORI",
-      "attributes": {
-        "weight": 3,
+      "weight": "3",
+      "nutrients": {
         "proteins": 26.2,
         "fats": 38.8,
         "carbohydrates": 26.1,
@@ -2612,8 +2612,8 @@
     {
       "name": "Батончик фруктово-злаковый детский ФрутоНяня Яблоко, банан и груша с 12 месяцев, 25г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 5.5,
         "carbohydrates": 75.5,
@@ -2623,8 +2623,8 @@
     {
       "name": "METRO Chef Смесь фруктовая, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 12,
         "fats": 32,
         "carbohydrates": 34,
@@ -2634,8 +2634,8 @@
     {
       "name": "Чипсы кукурузно-рисовые Dr. Korner Вяленые томаты и бальзамик, 50г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 9,
         "carbohydrates": 81,
@@ -2645,8 +2645,8 @@
     {
       "name": "Семечки подсолнечные Джинн жареные, 250г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 21,
         "fats": 53,
         "carbohydrates": 5,
@@ -2656,8 +2656,8 @@
     {
       "name": "Грецкий орех Delight Season сушеный очищенный, 100г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -2667,8 +2667,8 @@
     {
       "name": "METRO Chef Миндаль в карамели, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 15,
         "fats": 38,
         "carbohydrates": 41,
@@ -2678,8 +2678,8 @@
     {
       "name": "Семечки От Мартина отборные Premium с морской солью, 100г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -2689,8 +2689,8 @@
     {
       "name": "RIOBA Чипсы нори кимчи (4.5г x 4 шт), 18г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 58.5,
         "carbohydrates": 9,
@@ -2700,8 +2700,8 @@
     {
       "name": "RIOBA Смесь ореховая соленая, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 22,
         "fats": 54,
         "carbohydrates": 13,
@@ -2711,8 +2711,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко и малина с 12 месяцев, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 74,
@@ -2722,8 +2722,8 @@
     {
       "name": "Семена Дары природы смесь для салата с кунжутом, 150г",
       "brand": "ДАРЫ ПРИРОДЫ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 22,
         "fats": 47,
         "carbohydrates": 12,
@@ -2733,8 +2733,8 @@
     {
       "name": "Чипсы Pringles Оригинальные, 40г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 31,
         "carbohydrates": 56,
@@ -2744,8 +2744,8 @@
     {
       "name": "Fine Life Попкорн сладкий (85г x 3шт), 255г",
       "brand": "FINE LIFE",
-      "attributes": {
-        "weight": 255,
+      "weight": "255",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 22.9,
         "carbohydrates": 53.6,
@@ -2755,8 +2755,8 @@
     {
       "name": "aro Кешью жареный соленый, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 16,
         "fats": 38,
         "carbohydrates": 28,
@@ -2766,8 +2766,8 @@
     {
       "name": "Гренки Фишка Альпийские Сметана-лук, 120г",
       "brand": "ФИШКА",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 64,
@@ -2777,8 +2777,8 @@
     {
       "name": "Гренки Фишка Сибирские холодец-хрен, 120г",
       "brand": "ФИШКА",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 64,
@@ -2788,8 +2788,8 @@
     {
       "name": "Семечки От Мартина отборные полосатые без соли, 150г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -2799,8 +2799,8 @@
     {
       "name": "Кукурузные палочки детские ФрутоНяня Яблоко и клубника с 12 месяцев, 20г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 78,
@@ -2810,8 +2810,8 @@
     {
       "name": "METRO Chef Арахис в карамели, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 26.3,
         "fats": 45.2,
         "carbohydrates": 9.9,
@@ -2821,8 +2821,8 @@
     {
       "name": "Хлебцы рисовые детские Агуша Мини Груша с 12 месяцев, 30г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 4.62,
         "fats": 0.66,
         "carbohydrates": 65.34,
@@ -2832,8 +2832,8 @@
     {
       "name": "Попкорн микроволновый Holy Corn Нежный сыр, 70г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 24,
         "carbohydrates": 46,
@@ -2843,8 +2843,8 @@
     {
       "name": "Чипсы Lay's рифленые Лобстер, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 53,
@@ -2854,8 +2854,8 @@
     {
       "name": "Кольца кальмара 5 Океан копченые, 70г",
       "brand": "5 ОКЕАН",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 35.1,
         "fats": 4.5,
         "carbohydrates": 0.0,
@@ -2865,8 +2865,8 @@
     {
       "name": "RIOBA Смесь ореховая в карамели, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 13,
         "fats": 32,
         "carbohydrates": 50,
@@ -2876,8 +2876,8 @@
     {
       "name": "Кешью Семушка жареный соленый, 50г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 21,
         "fats": 48,
         "carbohydrates": 15.7,
@@ -2887,8 +2887,8 @@
     {
       "name": "Снеки Cheetos Кетчуп кукурузные, 50г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 63,
@@ -2898,8 +2898,8 @@
     {
       "name": "METRO Chef Цукаты ананас-папайя, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 1,
         "fats": 0.5,
         "carbohydrates": 76,
@@ -2909,8 +2909,8 @@
     {
       "name": "Чипсы Snackgold со вкусом Черный трюфель, 125г",
       "brand": "SNACKGOLD",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 27.2,
         "carbohydrates": 43.2,
@@ -2920,8 +2920,8 @@
     {
       "name": "Семечки подсолнечные Джинн жареные, 140г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -2931,8 +2931,8 @@
     {
       "name": "Чипсы Lorenz Crunchips X-Cut рифленые Чакалака, 70г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 31,
         "carbohydrates": 51,
@@ -2942,8 +2942,8 @@
     {
       "name": "aro Изюм светлый, 120г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 2,
         "fats": 1,
         "carbohydrates": 70,
@@ -2953,8 +2953,8 @@
     {
       "name": "Снеки Cheetos ветчина и сыр, 50г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 24,
         "carbohydrates": 62,
@@ -2964,8 +2964,8 @@
     {
       "name": "Чипсы Mr Potato Оригинальные, 160г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6,
         "fats": 27,
         "carbohydrates": 59.9,
@@ -2975,8 +2975,8 @@
     {
       "name": "RIOBA Миндаль жареный, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 22,
         "fats": 56,
         "carbohydrates": 12,
@@ -2986,8 +2986,8 @@
     {
       "name": "Сливы Семушка красные сушеные, 130г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 2.3,
         "fats": 0.0,
         "carbohydrates": 65.6,
@@ -2997,8 +2997,8 @@
     {
       "name": "Батончик фруктово-злаковый детский Gerber Черника и черная смородина с 12 месяцев, 25г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 5,
         "fats": 10,
         "carbohydrates": 65,
@@ -3008,8 +3008,8 @@
     {
       "name": "Чипсы Bruto рифленые Морская соль и розовый перец, 120г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -3019,8 +3019,8 @@
     {
       "name": "Семечки Джинн качественной обжарки с морской солью, 250г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -3030,8 +3030,8 @@
     {
       "name": "Вафли детские Take a Bitey Груша и брокколи без сахара с 3 лет, 35г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 7.8,
         "fats": 24.1,
         "carbohydrates": 54.7,
@@ -3041,8 +3041,8 @@
     {
       "name": "Арахис жареный Джаз соленый, 150г",
       "brand": "ДЖАЗ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 25,
         "fats": 52,
         "carbohydrates": 17,
@@ -3052,8 +3052,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках Сыр, 70г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 52,
@@ -3063,8 +3063,8 @@
     {
       "name": "Снеки Cheetos Кетчуп кукурузные, 85г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 63,
@@ -3074,8 +3074,8 @@
     {
       "name": "Печенье детское Semper Банан с 6 месяцев, 125г",
       "brand": "SEMPER",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 8.3,
         "fats": 11.79,
         "carbohydrates": 71.78,
@@ -3085,8 +3085,8 @@
     {
       "name": "Печенье детское ФрутоНяня Мультизлаковое с 6 месяцев, 50г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 11.6,
         "carbohydrates": 70.2,
@@ -3096,8 +3096,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко и ягоды с 12 месяцев, 20г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 73,
@@ -3107,8 +3107,8 @@
     {
       "name": "Чипсы Pringles Остро-пряный, 165г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 31,
         "carbohydrates": 51,
@@ -3118,8 +3118,8 @@
     {
       "name": "METRO Chef Семена тыквы жареные соленые, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 30.2,
         "fats": 38,
         "carbohydrates": 4,
@@ -3129,8 +3129,8 @@
     {
       "name": "Начос Carambas Бекон, 150г",
       "brand": "CARAMBAS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -3140,8 +3140,8 @@
     {
       "name": "Фундук Delight Season жареный бланшированный, 150г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 15.9,
         "fats": 65.2,
         "carbohydrates": 10,
@@ -3151,8 +3151,8 @@
     {
       "name": "Смесь жареных орехов Семушка с изюмом, 300г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 12,
         "fats": 36.1,
         "carbohydrates": 34.5,
@@ -3162,8 +3162,8 @@
     {
       "name": "Чипсы рисовые с морскими водорослями и мясом,66г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 66,
+      "weight": "66",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 32.2,
         "carbohydrates": 56.6,
@@ -3173,8 +3173,8 @@
     {
       "name": "Чипсы Bruto томат и укроп, 120г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -3184,8 +3184,8 @@
     {
       "name": "Мармелад детский Take a Bitey Чувисы Клубника без глютена с 2 лет, 20г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 3.8,
         "fats": 2.3,
         "carbohydrates": 74.7,
@@ -3195,8 +3195,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках Бекон, 160г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 55,
@@ -3206,8 +3206,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко без сахара с 12 месяцев, 53г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 53,
+      "weight": "53",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 73.9,
@@ -3217,8 +3217,8 @@
     {
       "name": "RIOBA Кешью жареный соленый, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 19,
         "fats": 23,
         "carbohydrates": 50,
@@ -3228,8 +3228,8 @@
     {
       "name": "Чипсы Binggrae кальмар, 50г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 5,
         "fats": 30,
         "carbohydrates": 59,
@@ -3239,8 +3239,8 @@
     {
       "name": "Оленина сушеная Snacker 30г",
       "brand": "SNACKER",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 43.1,
         "fats": 10.6,
         "carbohydrates": 1,
@@ -3250,8 +3250,8 @@
     {
       "name": "Чипсы Lay's рифленые Паприка, 70г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 32,
         "carbohydrates": 53,
@@ -3261,8 +3261,8 @@
     {
       "name": "Чипсы Mojno Батат с сыром чеддер, 75г",
       "brand": "MOJNO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 4,
         "fats": 20,
         "carbohydrates": 71,
@@ -3272,8 +3272,8 @@
     {
       "name": "Гренки Добрынов Деревенские бекон, 100г",
       "brand": "ДОБРЫНОВ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 44,
@@ -3283,8 +3283,8 @@
     {
       "name": "Чипсы Bruto чеснок и травы, 120г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -3294,8 +3294,8 @@
     {
       "name": "Чипсы протеиновые R.A.W. LIFE Паприка без глютена, 35г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 31,
         "fats": 16,
         "carbohydrates": 31,
@@ -3305,8 +3305,8 @@
     {
       "name": "Финики Delight Season королевские ассорти, 120г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 11,
         "carbohydrates": 65.1,
@@ -3316,8 +3316,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Яблоко, банан и клубника с 12 месяцев, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 73.7,
@@ -3327,8 +3327,8 @@
     {
       "name": "Чипсы Lorenz Pomsticks соломкой Сыр и лук, 100г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 50,
@@ -3338,8 +3338,8 @@
     {
       "name": "Чипсы Savoursmiths Просекко и перец чили серрано, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 53,
@@ -3349,8 +3349,8 @@
     {
       "name": "Мармелад детский Take a Bitey Чувисы Черная смородина без глютена с 2 лет, 20г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 1.3,
         "fats": 1.9,
         "carbohydrates": 73.7,
@@ -3360,8 +3360,8 @@
     {
       "name": "Попкорн Holy Corn нежный сыр, 25г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 6,
         "fats": 26.5,
         "carbohydrates": 51,
@@ -3371,8 +3371,8 @@
     {
       "name": "Кролик сушеный Snacker 30г",
       "brand": "SNACKER",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 42.1,
         "fats": 11.2,
         "carbohydrates": 1.2,
@@ -3382,8 +3382,8 @@
     {
       "name": "Чипсы Salto Кукурузные начос классик с сырным соусом, 220г",
       "brand": "SALTO",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -3393,8 +3393,8 @@
     {
       "name": "Печенье детское Gipopo Пшеничное Овсянка и чернослив с 6 месяцев, 80г",
       "brand": "GIPOPO",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 10,
         "carbohydrates": 70,
@@ -3404,8 +3404,8 @@
     {
       "name": "METRO Chef Смесь сладкая, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 16,
         "fats": 19,
         "carbohydrates": 59,
@@ -3415,8 +3415,8 @@
     {
       "name": "Чипсы Savoursmiths Итальянский сыр и портвейн, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 27,
         "carbohydrates": 53,
@@ -3426,8 +3426,8 @@
     {
       "name": "Печенье детское Semper Клубника без сахара с 6 месяцев, 125г",
       "brand": "SEMPER",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 8.1,
         "fats": 11.4,
         "carbohydrates": 69.1,
@@ -3437,8 +3437,8 @@
     {
       "name": "Попкорн Holy Corn Пицца Папа Джонс, 25г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 27.5,
         "carbohydrates": 43.2,
@@ -3448,8 +3448,8 @@
     {
       "name": "Попкорн Holy Corn Булочка с корицей, 35г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 23.6,
         "carbohydrates": 52.5,
@@ -3459,8 +3459,8 @@
     {
       "name": "Арахис Караван орехов Premium жареный соленый, 90г",
       "brand": "КАРАВАН ОРЕХОВ",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 28,
         "fats": 47,
         "carbohydrates": 19,
@@ -3470,8 +3470,8 @@
     {
       "name": "Чипсы фруктовые детские Fresh Atelie Яблоко с 12 месяцев, 25г",
       "brand": "FRESH ATELIE",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 3,
         "fats": 0.0,
         "carbohydrates": 66,
@@ -3481,8 +3481,8 @@
     {
       "name": "Батончик фруктовый детский Semper Яблоко и клубника с 12 месяцев, 15г",
       "brand": "SEMPER",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.3,
         "fats": 0.4,
         "carbohydrates": 7.5,
@@ -3492,8 +3492,8 @@
     {
       "name": "Батончик фруктовый детский Semper Яблоко и банан с 12 месяцев, 15г",
       "brand": "SEMPER",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.3,
         "fats": 0.4,
         "carbohydrates": 7.5,
@@ -3503,8 +3503,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Осьминожка Яблоко и клубника с 12 месяцев, 16г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 16,
+      "weight": "16",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 70,
@@ -3514,8 +3514,8 @@
     {
       "name": "Чипсы протеиновые R.A.W. LIFE Прованские травы без глютена, 35г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 33,
         "fats": 15,
         "carbohydrates": 33,
@@ -3525,8 +3525,8 @@
     {
       "name": "Свинина сушеная Snacker 30г",
       "brand": "SNACKER",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 42,
         "fats": 15.9,
         "carbohydrates": 1.2,
@@ -3536,8 +3536,8 @@
     {
       "name": "Кешью Delight Season жареный, 150г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 25.7,
         "fats": 54.1,
         "carbohydrates": 13.2,
@@ -3547,8 +3547,8 @@
     {
       "name": "Чипсы Bruto Black Edition Тайский острый Том Ям, 75г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -3558,8 +3558,8 @@
     {
       "name": "Кальмар 5 Океан сушеный, 150г",
       "brand": "5 ОКЕАН",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 28.7,
         "fats": 1.1,
         "carbohydrates": 3,
@@ -3569,8 +3569,8 @@
     {
       "name": "Печенье детское Бегемотик Бонди обогащенное йодом с 5 месяцев, 180г",
       "brand": "БЕГЕМОТИК БОНДИ",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 74,
@@ -3580,8 +3580,8 @@
     {
       "name": "Чипсы Хрустящий картофель в ломтиках Бекон, 70г",
       "brand": "ХРУСТЯЩИЙ КАРТОФЕЛЬ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 30,
         "carbohydrates": 55,
@@ -3591,8 +3591,8 @@
     {
       "name": "Семечки Бабкины семечки 100г",
       "brand": "БАБКИНЫ СЕМЕЧКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 17.06,
         "fats": 34.5,
         "carbohydrates": 5.44,
@@ -3602,8 +3602,8 @@
     {
       "name": "Чипсы Lay's Зеленый лук, 37г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 37,
+      "weight": "37",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -3613,8 +3613,8 @@
     {
       "name": "METRO Chef Смесь Тропическая, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 12,
         "fats": 32,
         "carbohydrates": 34,
@@ -3624,8 +3624,8 @@
     {
       "name": "Звездочки рисово-пшеничные детские Gerber 5 порций Банан с 12 месяцев, 35г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 9.7,
         "fats": 8.6,
         "carbohydrates": 76,
@@ -3635,8 +3635,8 @@
     {
       "name": "Чипсы Lorenz Pomsticks соломкой Сметана и специи, 100г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 29,
         "carbohydrates": 53,
@@ -3646,8 +3646,8 @@
     {
       "name": "Чипсы Lorenz Pomsticks соломкой Паприка, 100г",
       "brand": "LORENZ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 29,
         "carbohydrates": 52,
@@ -3657,8 +3657,8 @@
     {
       "name": "Чипсы Catch Yu Mi кукурузные с вишневой креветкой, 52г",
       "brand": "CATCH YU MI",
-      "attributes": {
-        "weight": 52,
+      "weight": "52",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 28.6,
         "carbohydrates": 62.3,
@@ -3668,8 +3668,8 @@
     {
       "name": "Смесь салатная Дары природы с клюквой, 80г",
       "brand": "ДАРЫ ПРИРОДЫ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 18,
         "fats": 38,
         "carbohydrates": 27,
@@ -3679,8 +3679,8 @@
     {
       "name": "Начос Carambas Сметана и лук, 150г",
       "brand": "CARAMBAS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -3690,8 +3690,8 @@
     {
       "name": "Снеки кукурузные Cheetos Краб, 50г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 24,
         "carbohydrates": 62,
@@ -3701,8 +3701,8 @@
     {
       "name": "Чипсы Bruto Black Edition Краб с черным перцем, 75г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -3712,8 +3712,8 @@
     {
       "name": "Батончик фруктово-злаковый детский Gerber Банан и вишня с 12 месяцев, 25г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 5.8,
         "carbohydrates": 74.6,
@@ -3723,8 +3723,8 @@
     {
       "name": "Попкорн Holy Corn готовый морская соль, 20г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 14,
         "carbohydrates": 59,
@@ -3734,8 +3734,8 @@
     {
       "name": "Соломка 5 Океан рыбная, 70г",
       "brand": "5 ОКЕАН",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 50.1,
         "fats": 6.5,
         "carbohydrates": 0.0,
@@ -3745,8 +3745,8 @@
     {
       "name": "Икра минтая Ловим&Вялим вяленая, 35г",
       "brand": "ЛОВИМ&ВЯЛИМ",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 62,
         "fats": 2,
         "carbohydrates": 0.0,
@@ -3756,8 +3756,8 @@
     {
       "name": "Вишня Кедровый Бор сушеная, 150г",
       "brand": "КЕДРОВЫЙ БОР",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 0.5,
         "fats": 0.0,
         "carbohydrates": 76,
@@ -3767,8 +3767,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Улитки Яблоко и малина с 12 месяцев, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 70,
@@ -3778,8 +3778,8 @@
     {
       "name": "Пастилки фруктовые детские Агуша Яблоко, черника и малина с 12 месяцев, 12г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 12,
+      "weight": "12",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 9.3,
@@ -3789,8 +3789,8 @@
     {
       "name": "Чипсы Pata Metodo Artigianale Барбекю, 130г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 7,
         "fats": 23,
         "carbohydrates": 56,
@@ -3800,8 +3800,8 @@
     {
       "name": "Чипсы Lay's Сметана и зелень, 37г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 37,
+      "weight": "37",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -3811,8 +3811,8 @@
     {
       "name": "Чипсы Pata Paquita Тортилья Сыр, 200г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 20,
         "carbohydrates": 67,
@@ -3822,8 +3822,8 @@
     {
       "name": "Палочки Деревенские Гренки с аджикой, 100г",
       "brand": "ДЕРЕВЕНСКИЕ ГРЕНКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 44,
@@ -3833,8 +3833,8 @@
     {
       "name": "Кукурузные палочки детские ФрутоНяня Яблоко и манго с 12 месяцев, 20г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 80,
@@ -3844,8 +3844,8 @@
     {
       "name": "Смесь салатная Твердый знак пикантная, 300г",
       "brand": "ТВЕРДЫЙ ЗНАК",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 20,
         "fats": 40,
         "carbohydrates": 19,
@@ -3855,8 +3855,8 @@
     {
       "name": "Чипсы Snackgold со вкусом Чоризо Иберико, 100г",
       "brand": "SNACKGOLD",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 37,
         "carbohydrates": 50,
@@ -3866,8 +3866,8 @@
     {
       "name": "Снеки кукурузные Holy Corn Супер томат с вложением кетчупа, 30г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 21.2,
         "carbohydrates": 58,
@@ -3877,8 +3877,8 @@
     {
       "name": "Чипсы Mojno Томат и паприка, 75г",
       "brand": "MOJNO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 11,
         "carbohydrates": 72.7,
@@ -3888,8 +3888,8 @@
     {
       "name": "Шишки сосновые Sun Emotions цукаты, 80г",
       "brand": "SUN EMOTIONS",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 0.4,
         "fats": 0.0,
         "carbohydrates": 66,
@@ -3899,8 +3899,8 @@
     {
       "name": "Кукурузные палочки детские Gipopo Яблоко и ягоды с 12 месяцев, 20г",
       "brand": "GIPOPO",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 1.5,
         "carbohydrates": 84.9,
@@ -3910,8 +3910,8 @@
     {
       "name": "Семечки Джинн соленые, 140г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -3921,8 +3921,8 @@
     {
       "name": "Кукурузные палочки детские ФрутоНяня Яблоко и черника с 12 месяцев, 20г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 80,
@@ -3932,8 +3932,8 @@
     {
       "name": "Кусочки фруктовые детские ФрутоНяня Осьминожка Яблоко и малина с 12 месяцев, 16г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 16,
+      "weight": "16",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 70,
@@ -3943,8 +3943,8 @@
     {
       "name": "Семечки Бабкины семечки отборные жареные соленые, 100г",
       "brand": "БАБКИНЫ СЕМЕЧКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 17.06,
         "fats": 34.5,
         "carbohydrates": 5.44,
@@ -3954,8 +3954,8 @@
     {
       "name": "Печенье детское Take a Bitey Апельсин с глазурью без глютена с 3 лет, 125г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 18.5,
         "carbohydrates": 56,
@@ -3965,8 +3965,8 @@
     {
       "name": "Соломка Ловим&Вялим Тарань, 80г",
       "brand": "ЛОВИМ&ВЯЛИМ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 26,
         "fats": 5,
         "carbohydrates": 0.0,
@@ -3976,8 +3976,8 @@
     {
       "name": "Пастилки фруктовые детские Агуша Яблоко с 12 месяцев, 12г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 12,
+      "weight": "12",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 9.4,
@@ -3987,8 +3987,8 @@
     {
       "name": "Батончик фруктовый детский Gerber Doremi Яблоко и банан с 12 месяцев, 25г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 3.1,
         "fats": 5.9,
         "carbohydrates": 72.6,
@@ -3998,8 +3998,8 @@
     {
       "name": "Звездочки рисово-пшеничные детские Gerber 5 порций Банан и малина с 12 месяцев, 35г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 9.7,
         "fats": 8.6,
         "carbohydrates": 76,
@@ -4009,8 +4009,8 @@
     {
       "name": "Смесь салатная Дары природы с черносливом, 80г",
       "brand": "ДАРЫ ПРИРОДЫ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 15,
         "fats": 33,
         "carbohydrates": 27,
@@ -4020,8 +4020,8 @@
     {
       "name": "Смесь Семушка изюма джамбо, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 2.9,
         "fats": 0.5,
         "carbohydrates": 74.4,
@@ -4031,8 +4031,8 @@
     {
       "name": "Сухарики Хрусteam Сливочный лосось, 40г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 9,
         "fats": 14,
         "carbohydrates": 66,
@@ -4042,8 +4042,8 @@
     {
       "name": "Хлебцы рисовые детские ФрутоНяня Мини Яблоко, клубника и банан с 12 месяцев, 30г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 0.7,
         "carbohydrates": 81,
@@ -4053,8 +4053,8 @@
     {
       "name": "Хлебцы рисовые детские ФрутоНяня Мини Яблоко и персик с 12 месяцев, 30г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 0.7,
         "carbohydrates": 81,
@@ -4064,8 +4064,8 @@
     {
       "name": "Семечки Богучарские подсолнечника отборные жареные, 80г",
       "brand": "БОГУЧАРСКИЕ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 22.3,
         "fats": 56.3,
         "carbohydrates": 3.6,
@@ -4075,8 +4075,8 @@
     {
       "name": "Семечки Гранд семачос полосатые с солью обжаренные, 200г",
       "brand": "ГРАНД СЕМАЧОС",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 15,
         "fats": 27,
         "carbohydrates": 3.5,
@@ -4086,8 +4086,8 @@
     {
       "name": "Снек-лапша Конфитой хрустящий рамэн с курицей, 20г",
       "brand": "КОНФИТОЙ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 11.5,
         "fats": 22.6,
         "carbohydrates": 61.5,
@@ -4097,8 +4097,8 @@
     {
       "name": "Палочки Деревенские Гренки с прованскими травами, 100г",
       "brand": "ДЕРЕВЕНСКИЕ ГРЕНКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 12.5,
         "carbohydrates": 22.1,
@@ -4108,8 +4108,8 @@
     {
       "name": "Снек-лапша Конфитой хрустящий рамэн с говядиной, 20г",
       "brand": "КОНФИТОЙ",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 62,
@@ -4119,8 +4119,8 @@
     {
       "name": "Вафли детские Take a Bitey Апельсин в глазури без сахара с 3 лет, 35г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 33,
         "carbohydrates": 33,
@@ -4130,8 +4130,8 @@
     {
       "name": "Чипсы Lay's Запеченный камамбер с грушей, 105г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -4141,8 +4141,8 @@
     {
       "name": "Чипсы-пластины Mega Chips картофельные со сметаной и сыром, 100г",
       "brand": "MEGA CHIPS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 53,
@@ -4152,8 +4152,8 @@
     {
       "name": "Печенье Когда я вырасту с кальцием с 5 месяцев, 150г",
       "brand": "КОГДА Я ВЫРАСТУ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 8.5,
         "carbohydrates": 75,
@@ -4163,8 +4163,8 @@
     {
       "name": "Печенье детское Когда я вырасту с железом с 5 месяцев, 150г",
       "brand": "КОГДА Я ВЫРАСТУ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 8,
         "fats": 8,
         "carbohydrates": 72,
@@ -4174,8 +4174,8 @@
     {
       "name": "Чипсы Lay's Flamin' Hot Острая креветка с васаби рифленые, 105г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -4185,8 +4185,8 @@
     {
       "name": "METRO Chef Смесь семян салатная, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 19,
         "fats": 46,
         "carbohydrates": 18,
@@ -4196,8 +4196,8 @@
     {
       "name": "Сухарики Хрусteam Барная коллекция Flamin' Hot с острыми ребрами баффало, 67г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 67,
+      "weight": "67",
+      "nutrients": {
         "proteins": 9,
         "fats": 18,
         "carbohydrates": 60,
@@ -4207,8 +4207,8 @@
     {
       "name": "Орех грецкий Seeberger 150г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 14,
         "fats": 63,
         "carbohydrates": 11,
@@ -4218,8 +4218,8 @@
     {
       "name": "Батончик фруктовый детский Take a Bitey Яблоко и малина с 2 лет, 25г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 5.2,
         "carbohydrates": 62.5,
@@ -4229,8 +4229,8 @@
     {
       "name": "Чипсы Pringles Original картофельные, 165г x 19 шт",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 3135,
+      "weight": "3135",
+      "nutrients": {
         "proteins": 4,
         "fats": 33,
         "carbohydrates": 51,
@@ -4240,8 +4240,8 @@
     {
       "name": "Орех грецкий Твердый знак очищенный, 100г",
       "brand": "ТВЕРДЫЙ ЗНАК",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 16,
         "fats": 61,
         "carbohydrates": 11,
@@ -4251,8 +4251,8 @@
     {
       "name": "METRO Chef Орех грецкий дробленый жареный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -4262,8 +4262,8 @@
     {
       "name": "Финики Delight Season с грецким орехом, 120г",
       "brand": "DELIGHT SEASON",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 7,
         "fats": 10,
         "carbohydrates": 65,
@@ -4273,8 +4273,8 @@
     {
       "name": "Чипсы Snackgold со вкусом оливкового масла и Гималайской розовой солью, 125г",
       "brand": "SNACKGOLD",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 27.1,
         "carbohydrates": 41.9,
@@ -4284,8 +4284,8 @@
     {
       "name": "Чипсы-пластины Mega Chips картофельные с грибами и сметаной, 100г",
       "brand": "MEGA CHIPS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 53,
@@ -4295,8 +4295,8 @@
     {
       "name": "Фисташки жареные Джаз соленые, 130г",
       "brand": "ДЖАЗ",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 18,
         "fats": 55,
         "carbohydrates": 8,
@@ -4306,8 +4306,8 @@
     {
       "name": "Чипсы-пластины Mega Chips картофельные с норвежским лобстером, 100г",
       "brand": "MEGA CHIPS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 53,
@@ -4317,8 +4317,8 @@
     {
       "name": "Набор орехов Семушка с королевскими финиками и персиками, 230г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 7.3,
         "fats": 66.4,
         "carbohydrates": 30.5,
@@ -4328,8 +4328,8 @@
     {
       "name": "Арахис Джаз с томатами и травами, 70г",
       "brand": "ДЖАЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 23,
         "fats": 47,
         "carbohydrates": 11,
@@ -4339,8 +4339,8 @@
     {
       "name": "Орех Good Food грецкий, 130г",
       "brand": "GOOD FOOD",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 64,
         "carbohydrates": 13.7,
@@ -4350,8 +4350,8 @@
     {
       "name": "Чипсы Snackgold со вкусом сыра Иберико, 125г",
       "brand": "SNACKGOLD",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 37,
         "carbohydrates": 50,
@@ -4361,8 +4361,8 @@
     {
       "name": "Фруктовые кусочки ФрутоНяня Хвостики с яблоком и бананом, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 85,
@@ -4372,8 +4372,8 @@
     {
       "name": "Миндаль Nuts for Life в томате, 200г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 17,
         "fats": 49,
         "carbohydrates": 11,
@@ -4383,8 +4383,8 @@
     {
       "name": "Чипсы Lay's Гребешки в сливочно-пикантном соусе, 105г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -4394,8 +4394,8 @@
     {
       "name": "METRO Chef Смесь семян салатная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 19,
         "fats": 46,
         "carbohydrates": 18,
@@ -4405,8 +4405,8 @@
     {
       "name": "Фруктовые кусочки ФрутоНяня Хвостики с яблоком и земляникой, 15г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 85,
@@ -4416,8 +4416,8 @@
     {
       "name": "METRO Chef Миндаль жареный дробленый, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 18,
         "fats": 58,
         "carbohydrates": 15,
@@ -4427,8 +4427,8 @@
     {
       "name": "Снеки Lay's Stix картофельно-пшеничные с сырным соусом, 50г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 8,
         "fats": 19,
         "carbohydrates": 63,
@@ -4438,8 +4438,8 @@
     {
       "name": "Семена тыквы Семушка очищенные, 300г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 29,
         "fats": 46.7,
         "carbohydrates": 13.1,
@@ -4449,8 +4449,8 @@
     {
       "name": "Чипсы San Carlo Классические, 180г x 16 шт",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 2880,
+      "weight": "2880",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 27,
         "carbohydrates": 56.3,
@@ -4460,8 +4460,8 @@
     {
       "name": "Чипсы Pata Paquita Тортилья классические, 200г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 7.3,
         "fats": 21,
         "carbohydrates": 62,
@@ -4471,8 +4471,8 @@
     {
       "name": "Арахис Джаз ребрышки на гриле, 70г",
       "brand": "ДЖАЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 24,
         "fats": 47,
         "carbohydrates": 11,
@@ -4482,8 +4482,8 @@
     {
       "name": "Арахис Джаз с жареным луком, 70г",
       "brand": "ДЖАЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 24,
         "fats": 47,
         "carbohydrates": 10,
@@ -4493,8 +4493,8 @@
     {
       "name": "METRO Chef Фундук дробленый жареный, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 8,
         "fats": 54,
         "carbohydrates": 27,
@@ -4504,8 +4504,8 @@
     {
       "name": "Чипсы Lay's Flamin' Hot Огненное тако с сальсой, 105г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -4515,8 +4515,8 @@
     {
       "name": "Чипсы Pringles Паприка, 165г x 19 шт",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 3135,
+      "weight": "3135",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 31,
         "carbohydrates": 51,
@@ -4526,8 +4526,8 @@
     {
       "name": "Паста-снек Solim Mimo Фузилли со сливками и грибами, 60г",
       "brand": "SOLIM MIMO",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 1,
         "carbohydrates": 63,
@@ -4537,8 +4537,8 @@
     {
       "name": "Снеки Cheetos Flamin' Hot кукурузные сладкий тай чили, 70г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 7,
         "fats": 24,
         "carbohydrates": 60,
@@ -4548,8 +4548,8 @@
     {
       "name": "Арахис Camel жареный соленый, 135г",
       "brand": "CAMEL",
-      "attributes": {
-        "weight": 135,
+      "weight": "135",
+      "nutrients": {
         "proteins": 18.6,
         "fats": 46,
         "carbohydrates": 27.5,
@@ -4559,8 +4559,8 @@
     {
       "name": "Чипсы Pata Paquita Тортилья Барбекю, 200г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 21,
         "carbohydrates": 65,
@@ -4570,8 +4570,8 @@
     {
       "name": "Снеки Lay's Stix картофельно-пшеничные с соусом 1000 островов, 50г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 8,
         "fats": 19,
         "carbohydrates": 64,
@@ -4581,8 +4581,8 @@
     {
       "name": "Чипсы Catch Yu Mi кукурузные, 52г",
       "brand": "CATCH YU MI",
-      "attributes": {
-        "weight": 52,
+      "weight": "52",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 28.7,
         "carbohydrates": 64.4,
@@ -4592,8 +4592,8 @@
     {
       "name": "Чипсы-пластины Mega Chips картофельные со сметаной и луком, 100г",
       "brand": "MEGA CHIPS",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 53,
@@ -4603,8 +4603,8 @@
     {
       "name": "Семечки От Мартина с морской солью, 300г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -4614,8 +4614,8 @@
     {
       "name": "Семечки От Мартина обжаренные, 300г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 20.7,
         "fats": 52.9,
         "carbohydrates": 5,
@@ -4625,8 +4625,8 @@
     {
       "name": "Семечки От Мартина отборные жареные, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 17.06,
         "fats": 34.5,
         "carbohydrates": 5.44,
@@ -4636,8 +4636,8 @@
     {
       "name": "Семечки От Мартина полосатые с солью, 250г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -4647,8 +4647,8 @@
     {
       "name": "Семечки От Мартина полосатые без соли, 250г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -4658,8 +4658,8 @@
     {
       "name": "Семечки Джинн Солнечный великан, 100г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 27,
         "fats": 58,
         "carbohydrates": 9,
@@ -4669,8 +4669,8 @@
     {
       "name": "Гренки Фишка ржаные с натуральным чесноком, 500г",
       "brand": "ФИШКА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 16.5,
         "fats": 16.4,
         "carbohydrates": 52,
@@ -4680,8 +4680,8 @@
     {
       "name": "Снэки Сухогруз Кальмар сушеный, 70г",
       "brand": "СУХОГРУЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 45,
         "fats": 0.3,
         "carbohydrates": 2,
@@ -4691,8 +4691,8 @@
     {
       "name": "Финики Seeberger 200г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 1.9,
         "fats": 0.5,
         "carbohydrates": 66,
@@ -4702,8 +4702,8 @@
     {
       "name": "Семечки От Мартина мегапапа полосатые обжаренные, 200г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 22.8,
         "fats": 49.6,
         "carbohydrates": 19.5,
@@ -4713,8 +4713,8 @@
     {
       "name": "Семечки Джинн Солнечный великан с солью, 100г",
       "brand": "ДЖИНН",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 27,
         "fats": 58,
         "carbohydrates": 9,
@@ -4724,8 +4724,8 @@
     {
       "name": "Чипсы Pringles Паприка, 40г",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 29,
         "carbohydrates": 56,
@@ -4735,8 +4735,8 @@
     {
       "name": "RIOBA Фундук жареный, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 18,
         "fats": 65,
         "carbohydrates": 9.5,
@@ -4746,8 +4746,8 @@
     {
       "name": "Снэки Cheetos Сыр кукурузные, 85г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 62,
@@ -4757,8 +4757,8 @@
     {
       "name": "Индейка сушеная Snacker 30г",
       "brand": "SNACKER",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 52.3,
         "fats": 10,
         "carbohydrates": 1,
@@ -4768,8 +4768,8 @@
     {
       "name": "RIOBA Миндаль жареный соленый, 50г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 18.9,
         "fats": 53.3,
         "carbohydrates": 17.2,
@@ -4779,8 +4779,8 @@
     {
       "name": "Чипсы Bruto Морская соль и черный перец, 120г",
       "brand": "BRUTO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 37,
         "carbohydrates": 48,
@@ -4790,8 +4790,8 @@
     {
       "name": "Инжир Seeberger деликатесный, 200г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 3.7,
         "fats": 1.4,
         "carbohydrates": 59,
@@ -4801,8 +4801,8 @@
     {
       "name": "Смесь орехов Семушка с пеканом и макадамией, 150г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7.9,
         "fats": 75.8,
         "carbohydrates": 13.8,
@@ -4812,8 +4812,8 @@
     {
       "name": "Батончик фруктовый детский Агуша Яблоко и банан с 12 месяцев, 15г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 0.2,
         "fats": 0.5,
         "carbohydrates": 11.5,
@@ -4823,8 +4823,8 @@
     {
       "name": "Чипсы Binggrae со вкусом Креветки, 50г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 9,
         "fats": 23,
         "carbohydrates": 65,
@@ -4834,8 +4834,8 @@
     {
       "name": "Арахис Караван орехов стандарт, 90г",
       "brand": "КАРАВАН ОРЕХОВ",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 28,
         "fats": 47,
         "carbohydrates": 19,
@@ -4845,8 +4845,8 @@
     {
       "name": "Вафли детские Take a Bitey Шоколад без сахара с 3 лет, 35г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 7.9,
         "fats": 24.5,
         "carbohydrates": 53,
@@ -4856,8 +4856,8 @@
     {
       "name": "Печенье детское Take a Bitey Банан без глютена с 18 месяцев, 125г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 17.4,
         "carbohydrates": 65.3,
@@ -4867,8 +4867,8 @@
     {
       "name": "Чипсы Lay's Max рифленые Сметана и лук, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -4878,8 +4878,8 @@
     {
       "name": "Чипсы Pata Metodo Artigianale Трюфель, 100г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 23,
         "carbohydrates": 58,
@@ -4889,8 +4889,8 @@
     {
       "name": "Арахис От Мартина отборный обжаренный с солью, 100г",
       "brand": "ОТ МАРТИНА",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 29,
         "fats": 50,
         "carbohydrates": 11,
@@ -4900,8 +4900,8 @@
     {
       "name": "Чипсы Pata Metodo Artigianale Классические, 150г",
       "brand": "PATA",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 23,
         "carbohydrates": 59,
@@ -4911,8 +4911,8 @@
     {
       "name": "METRO Chef Арахис жареный небланшированный, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 30,
         "fats": 43,
         "carbohydrates": 9,
@@ -4922,8 +4922,8 @@
     {
       "name": "Чипсы нори Naitori со вкусом васаби, 3г",
       "brand": "NAITORI",
-      "attributes": {
-        "weight": 3,
+      "weight": "3",
+      "nutrients": {
         "proteins": 26.1,
         "fats": 37.8,
         "carbohydrates": 27,
@@ -4933,8 +4933,8 @@
     {
       "name": "Печенье детское Бегемотик Бонди обогащенное железом с 5 месяцев, 180г",
       "brand": "БЕГЕМОТИК БОНДИ",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 74,
@@ -4944,8 +4944,8 @@
     {
       "name": "Чипсы нори Naitori со вкусом кимчи, 3г",
       "brand": "NAITORI",
-      "attributes": {
-        "weight": 3,
+      "weight": "3",
+      "nutrients": {
         "proteins": 25.1,
         "fats": 36.8,
         "carbohydrates": 25.1,
@@ -4955,8 +4955,8 @@
     {
       "name": "Семечки Гранд семачос полосатые обжаренные, 200г",
       "brand": "ГРАНД СЕМАЧОС",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 15,
         "fats": 27,
         "carbohydrates": 3.5,
@@ -4966,8 +4966,8 @@
     {
       "name": "Снеки кукурузные Cheetos Краб, 85г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 6,
         "fats": 28,
         "carbohydrates": 58,
@@ -4977,8 +4977,8 @@
     {
       "name": "Чипсы Binggrae со вкусом Васаби, 40г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 66,
@@ -4988,8 +4988,8 @@
     {
       "name": "Печенье детское Gipopo Пшеничное Банан и ваниль с 6 месяцев, 80г",
       "brand": "GIPOPO",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 12,
         "carbohydrates": 68,
@@ -4999,8 +4999,8 @@
     {
       "name": "Снэки Сухогруз Кольца кальмара, 70г",
       "brand": "СУХОГРУЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 45,
         "fats": 0.5,
         "carbohydrates": 3,
@@ -5010,8 +5010,8 @@
     {
       "name": "Фисташки Good Food жареные без соли, 130г",
       "brand": "GOOD FOOD",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 20,
         "fats": 52.9,
         "carbohydrates": 3.4,
@@ -5021,8 +5021,8 @@
     {
       "name": "Чипсы Mojno Грибы шиитаке, лук и сметана, 75г",
       "brand": "MOJNO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 14,
         "carbohydrates": 71,
@@ -5032,8 +5032,8 @@
     {
       "name": "Чипсы Lay's Сметана и зелень, 140г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -5043,8 +5043,8 @@
     {
       "name": "Семечки Ciko Дакота полосатые жареные с солью, 100г",
       "brand": "CIKO",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 21.4,
         "fats": 49.1,
         "carbohydrates": 18,
@@ -5054,8 +5054,8 @@
     {
       "name": "Печенье детское Take a Bitey Клубника без глютена с 18 месяцев, 125г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 17.7,
         "carbohydrates": 65.1,
@@ -5065,8 +5065,8 @@
     {
       "name": "Снеки кукурузные Holy Corn Сырный сыр с вложением соуса, 30г",
       "brand": "HOLY CORN",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 7.2,
         "fats": 22,
         "carbohydrates": 56,
@@ -5076,8 +5076,8 @@
     {
       "name": "Соломка Ловим&Вялим Вобла, 80г",
       "brand": "ЛОВИМ&ВЯЛИМ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 46,
         "fats": 5.5,
         "carbohydrates": 1,
@@ -5087,8 +5087,8 @@
     {
       "name": "Анчоус Сухогруз сушено-вяленый, 70г",
       "brand": "СУХОГРУЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 48,
         "fats": 5,
         "carbohydrates": 0.75,
@@ -5098,8 +5098,8 @@
     {
       "name": "Чипсы Lay's Краб, 37г",
       "brand": "LAY'S",
-      "attributes": {
-        "weight": 37,
+      "weight": "37",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 53,
@@ -5109,8 +5109,8 @@
     {
       "name": "Чипсы Pringles картофельные Сметана и лук, 165г x 19 шт",
       "brand": "PRINGLES",
-      "attributes": {
-        "weight": 3135,
+      "weight": "3135",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 32,
         "carbohydrates": 52,
@@ -5120,8 +5120,8 @@
     {
       "name": "Снэки Сухогруз Филе янтарной рыбки, 70г",
       "brand": "СУХОГРУЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 50.9,
         "fats": 2.3,
         "carbohydrates": 6.2,
@@ -5131,8 +5131,8 @@
     {
       "name": "Снэки Сухогруз Ставридка, 70г",
       "brand": "СУХОГРУЗ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 50,
         "fats": 2.5,
         "carbohydrates": 0.0,
@@ -5142,8 +5142,8 @@
     {
       "name": "Миндаль Nuts for Life с луком и прованскими травами, 200г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 17,
         "fats": 49,
         "carbohydrates": 11,
@@ -5153,8 +5153,8 @@
     {
       "name": "Снек-лапша Конфитой хрустящий рамэн с говядиной, 20г x 15 шт",
       "brand": "КОНФИТОЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 62,
@@ -5164,8 +5164,8 @@
     {
       "name": "Фисташки Camel запеченные с солью, 400г",
       "brand": "CAMEL",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 21.9,
         "fats": 49.8,
         "carbohydrates": 13.7,
@@ -5175,8 +5175,8 @@
     {
       "name": "Паста-снек Solim Mimo Фузилли барбекю, 60г",
       "brand": "SOLIM MIMO",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 1,
         "carbohydrates": 65.22,
@@ -5186,8 +5186,8 @@
     {
       "name": "Паста-снек Solim Mimo Фузилли с томатом и чесноком, 60г",
       "brand": "SOLIM MIMO",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 1,
         "carbohydrates": 61.6,
@@ -5197,8 +5197,8 @@
     {
       "name": "Имбирь Good Food в сахаре, 130г",
       "brand": "GOOD FOOD",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 18,
         "fats": 0.67,
         "carbohydrates": 94.7,
@@ -5208,8 +5208,8 @@
     {
       "name": "Печенье детское Kabrita на козьем молоке с 6 месяцев, 115г",
       "brand": "KABRITA",
-      "attributes": {
-        "weight": 115,
+      "weight": "115",
+      "nutrients": {
         "proteins": 9,
         "fats": 10,
         "carbohydrates": 74,
@@ -5219,8 +5219,8 @@
     {
       "name": "Абрикос Seeberger мягкий, 200г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 0.4,
         "carbohydrates": 40,
@@ -5230,8 +5230,8 @@
     {
       "name": "Батончик фруктовый детский Take a Bitey Яблоко и вишня с 2 лет, 25г",
       "brand": "TAKE A BITEY",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 2.4,
         "fats": 5.1,
         "carbohydrates": 63.6,
@@ -5241,8 +5241,8 @@
     {
       "name": "Чипсы San Carlo Лайм и розовый перец, 150г x 16 шт",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 2400,
+      "weight": "2400",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 26,
         "carbohydrates": 56,
@@ -5252,8 +5252,8 @@
     {
       "name": "Снек-лапша Конфитой хрустящий рамэн с курицей, 20г x 15 шт",
       "brand": "КОНФИТОЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 11.5,
         "fats": 22.6,
         "carbohydrates": 61.5,
@@ -5263,8 +5263,8 @@
     {
       "name": "Печенье ФрутоНяня с яблоком и тыквой, 120г",
       "brand": "ФРУТОНЯНЯ",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 7,
         "fats": 10,
         "carbohydrates": 73,
@@ -5274,8 +5274,8 @@
     {
       "name": "Чипсы Delicados Начос кукурузные Оригинальные, 500г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 22.5,
         "carbohydrates": 57,
@@ -5285,8 +5285,8 @@
     {
       "name": "Снеки кукурузные Cheetos с сыром, 130г",
       "brand": "CHEETOS",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 22,
         "carbohydrates": 63,
@@ -5296,8 +5296,8 @@
     {
       "name": "Манго King сушеное, 1кг",
       "brand": "KING",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 2.45,
         "fats": 1.18,
         "carbohydrates": 76.18,
@@ -5307,8 +5307,8 @@
     {
       "name": "Чипсы Binggrae зяки-зяки, 50г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7.8,
         "fats": 26,
         "carbohydrates": 62,
@@ -5318,8 +5318,8 @@
     {
       "name": "aro Цукаты ананас-папайя, 800г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 1,
         "fats": 1,
         "carbohydrates": 49,
@@ -5329,8 +5329,8 @@
     {
       "name": "Чипсы Binggrae cо вкусом Краба, 50г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 66,
@@ -5340,8 +5340,8 @@
     {
       "name": "Изюм Seeberger султанский, 200г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 0.37,
         "carbohydrates": 67.07,
@@ -5351,8 +5351,8 @@
     {
       "name": "Семечки Бабкины семечки жареные, 300г",
       "brand": "БАБКИНЫ СЕМЕЧКИ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 27,
         "fats": 49,
         "carbohydrates": 8.5,
@@ -5362,8 +5362,8 @@
     {
       "name": "Чипсы Binggrae крабовые, 80г",
       "brand": "BINGGRAE",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 9,
         "fats": 22,
         "carbohydrates": 66,
@@ -5373,8 +5373,8 @@
     {
       "name": "Сухарики Хрусteam Сметана ржаные, 40г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 15,
         "carbohydrates": 64,
@@ -5384,8 +5384,8 @@
     {
       "name": "Хлебцы рисовые детские Агуша Мини Ягоды с 12 месяцев, 30г",
       "brand": "АГУША",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 4.95,
         "fats": 0.66,
         "carbohydrates": 66,
@@ -5395,8 +5395,8 @@
     {
       "name": "Сухарики Хрусteam Чиабатта с моцареллой и соусом песто, 55г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 10,
         "fats": 18,
         "carbohydrates": 66,
@@ -5406,8 +5406,8 @@
     {
       "name": "Сухарики Хрусteam Багет и красная икра, 60г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 10,
         "fats": 16,
         "carbohydrates": 66,
@@ -5417,8 +5417,8 @@
     {
       "name": "Чипсы Mr Potato Оригинальные, 40г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6,
         "fats": 27,
         "carbohydrates": 59.9,
@@ -5428,8 +5428,8 @@
     {
       "name": "Чипсы Savoursmiths Трюфель и розмарин, 150г",
       "brand": "SAVOURSMITHS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 53,
@@ -5439,8 +5439,8 @@
     {
       "name": "Сухарики Хрусteam Барная коллекция Стейк с черным перцем, 140г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 16,
         "carbohydrates": 61,
@@ -5450,8 +5450,8 @@
     {
       "name": "Сухарики Хрусteam Барная коллекция Сырные палочки, 140г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 16,
         "carbohydrates": 61,
@@ -5461,8 +5461,8 @@
     {
       "name": "Чипсы Mr Potato Сметана и лук, 40г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6.2,
         "fats": 26.3,
         "carbohydrates": 61,
@@ -5472,8 +5472,8 @@
     {
       "name": "Начос Carambas Сладкий тайский перец, 150г",
       "brand": "CARAMBAS",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7,
         "fats": 25,
         "carbohydrates": 61,
@@ -5483,8 +5483,8 @@
     {
       "name": "METRO Chef Фундук в карамели, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 11,
         "fats": 44,
         "carbohydrates": 38,
@@ -5494,8 +5494,8 @@
     {
       "name": "Микс ореховый Nuts for Life в специях и пряностях, 115г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": 115,
+      "weight": "115",
+      "nutrients": {
         "proteins": 23,
         "fats": 45,
         "carbohydrates": 8,
@@ -5505,8 +5505,8 @@
     {
       "name": "Чипсы Mojno Лук, Гималайская соль и черный молотый перец, 75г",
       "brand": "MOJNO",
-      "attributes": {
-        "weight": 75,
+      "weight": "75",
+      "nutrients": {
         "proteins": 3.7,
         "fats": 16.8,
         "carbohydrates": 69.5,
@@ -5516,8 +5516,8 @@
     {
       "name": "Чипсы Mr Potato Острый и пряный вкус, 40г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 27.9,
         "carbohydrates": 59.4,
@@ -5527,8 +5527,8 @@
     {
       "name": "Батончик фруктово-злаковый детский Gerber Яблоко и виноград с 12 месяцев, 25г",
       "brand": "GERBER",
-      "attributes": {
-        "weight": 25,
+      "weight": "25",
+      "nutrients": {
         "proteins": 5,
         "fats": 10.5,
         "carbohydrates": 65,
@@ -5538,8 +5538,8 @@
     {
       "name": "Папайя King сушеная, 100г",
       "brand": "KING",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 0.88,
         "fats": 0.3,
         "carbohydrates": 80.8,
@@ -5549,8 +5549,8 @@
     {
       "name": "Чипсы San Carlo Piu Gusto Томат, 150г x 16 шт",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 2400,
+      "weight": "2400",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 26,
         "carbohydrates": 57,
@@ -5560,8 +5560,8 @@
     {
       "name": "aro Попкорн соленый (100г x 3шт), 300г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6,
         "fats": 27,
         "carbohydrates": 48,
@@ -5571,8 +5571,8 @@
     {
       "name": "Миндаль Nuts for Life с луком и травами, 250г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5582,8 +5582,8 @@
     {
       "name": "Чипсы Bon Giorno креветка в белом вине, 120г",
       "brand": "BON GIORNO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5593,8 +5593,8 @@
     {
       "name": "Чипсы Mr Potato Барбекю, 40г",
       "brand": "MR POTATO",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 28.1,
         "carbohydrates": 59.3,
@@ -5604,8 +5604,8 @@
     {
       "name": "Миндаль Nuts for Life с томатами, 250г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5615,8 +5615,8 @@
     {
       "name": "Коктейль арахисовый Snack&Go 205г",
       "brand": "SNACK&GO",
-      "attributes": {
-        "weight": 205,
+      "weight": "205",
+      "nutrients": {
         "proteins": 25,
         "fats": 52,
         "carbohydrates": 13,
@@ -5626,8 +5626,8 @@
     {
       "name": "Арахис Ем жареный дробленый в соленой карамели, 1кг",
       "brand": "ЕМ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 13,
         "fats": 24,
         "carbohydrates": 58,
@@ -5637,8 +5637,8 @@
     {
       "name": "Сухарики Хрусteam Багет со вкусом Телятина со специями, 60г",
       "brand": "ХРУСTEAM",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 6,
         "fats": 32,
         "carbohydrates": 54,
@@ -5648,8 +5648,8 @@
     {
       "name": "Чипсы Big Bon краб, 130г",
       "brand": "BIG BON",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 5,
         "fats": 26,
         "carbohydrates": 60,
@@ -5659,8 +5659,8 @@
     {
       "name": "METRO Chef Цукаты натуральные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 1,
         "fats": 0.5,
         "carbohydrates": 76,
@@ -5670,8 +5670,8 @@
     {
       "name": "Чипсы San Carlo рифленые Крокканте, 180г x 16 шт",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 2880,
+      "weight": "2880",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 27,
         "carbohydrates": 56.3,
@@ -5681,8 +5681,8 @@
     {
       "name": "Чипсы Vast краб, 160г",
       "brand": "VAST",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 26.1,
         "carbohydrates": 61,
@@ -5692,8 +5692,8 @@
     {
       "name": "Смесь орехов Nuts for Life в специях и пряностях, 250г",
       "brand": "NUTS FOR LIFE",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5703,8 +5703,8 @@
     {
       "name": "Чипсы Bon Giorno карри-лемонграсс, 120г",
       "brand": "BON GIORNO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5714,8 +5714,8 @@
     {
       "name": "Ананасы Seeberger сушеный кусочками, 200г",
       "brand": "SEEBERGER",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 0.1,
         "fats": 0.2,
         "carbohydrates": 85,
@@ -5725,8 +5725,8 @@
     {
       "name": "Чипсы Vast паприка, 160г",
       "brand": "VAST",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 25.5,
         "carbohydrates": 62,
@@ -5736,8 +5736,8 @@
     {
       "name": "Чипсы Big Bon барбекю, 130г",
       "brand": "BIG BON",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 25,
         "carbohydrates": 63,
@@ -5747,8 +5747,8 @@
     {
       "name": "Орех Семушка бразильский, 120г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 14.3,
         "fats": 66.9,
         "carbohydrates": 7.8,
@@ -5758,8 +5758,8 @@
     {
       "name": "Чипсы Bon Giorno лисички в сметане, 120г",
       "brand": "BON GIORNO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5769,8 +5769,8 @@
     {
       "name": "Чипсы San Carlo Паприка, 150г x 16 шт",
       "brand": "SAN CARLO",
-      "attributes": {
-        "weight": 2400,
+      "weight": "2400",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 32,
         "carbohydrates": 50,
@@ -5780,8 +5780,8 @@
     {
       "name": "Персики Семушка сушеные, 130г",
       "brand": "СЕМУШКА",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 3,
         "fats": 0.0,
         "carbohydrates": 68.5,
@@ -5791,8 +5791,8 @@
     {
       "name": "Чипсы Bon Giorno тайские пряности рифленые, 120г",
       "brand": "BON GIORNO",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5802,8 +5802,8 @@
     {
       "name": "Чипсы Big Bon сметана-зеленый лук, 130г",
       "brand": "BIG BON",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 5,
         "fats": 27,
         "carbohydrates": 61,
@@ -5813,8 +5813,8 @@
     {
       "name": "Чипсы Vast барбекю, 160г",
       "brand": "VAST",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 25.3,
         "carbohydrates": 62.5,

@@ -54,8 +54,8 @@ for slug in slugs:
         new_obj = {
             "name": obj["name"],
             "brand": None,
-            "attributes": {
-                "weight": None,
+            "weight": None,
+            "nutrients": {
                 "proteins": None,
                 "fats": None,
                 "carbohydrates": None,
@@ -66,17 +66,17 @@ for slug in slugs:
         for attr in obj["attributes"]:
             if attr["name"] == "Бренд":
                 new_obj["brand"] = attr["text"]
+            elif attr["name"] == "Вес, объем":
+                new_obj["weight"] = attr["text"]
             elif attr["name"] in allowed_attr:
                 new_str = attr["text"].replace(",", ".")
                 try:
                     if new_str.isnumeric() or (new_str.count(".") == 1):
-                        new_obj["attributes"][attr_to_obj[attr["name"]]] = int(new_str)
+                        new_obj["nutrients"][attr_to_obj[attr["name"]]] = int(new_str)
                     else:
-                        new_obj["attributes"][attr_to_obj[attr["name"]]] = float(
-                            new_str
-                        )
+                        new_obj["nutrients"][attr_to_obj[attr["name"]]] = float(new_str)
                 except Exception as e:
-                    new_obj["attributes"][attr_to_obj[attr["name"]]] = float(new_str)
+                    new_obj["nutrients"][attr_to_obj[attr["name"]]] = float(new_str)
 
         if i != len(all_objs) - 1:
             new_file.write(json.dumps(new_obj, ensure_ascii=False) + ",")

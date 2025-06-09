@@ -5,8 +5,8 @@
     {
       "name": "Печенье протеиновое Bombbar Брауни без сахара, 40г",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 25,
         "fats": 10.5,
         "carbohydrates": 5.2,
@@ -16,8 +16,8 @@
     {
       "name": "Пирожное протеиновое Nuttiness Брауни без сахара, 50г",
       "brand": "NUTTINESS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 18,
         "fats": 14,
         "carbohydrates": 46,
@@ -27,8 +27,8 @@
     {
       "name": "Батончик Snaq Fabriq Кокос-шоколад, 40г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 11.9,
         "carbohydrates": 2.9,
@@ -38,8 +38,8 @@
     {
       "name": "Шоколад Snaq Fabriq Milky молочный со сливочной начинкой без сахара, 34г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 34,
+      "weight": "34",
+      "nutrients": {
         "proteins": 9,
         "fats": 36,
         "carbohydrates": 11,
@@ -49,8 +49,8 @@
     {
       "name": "Батончик протеиновый Bombbar Фундучное пралине в шоколаде, 40г x 30 шт",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 25,
         "fats": 6.8,
         "carbohydrates": 17.1,
@@ -60,8 +60,8 @@
     {
       "name": "Пирожное протеиновое Nuttiness Брауни-кофе без сахара, 50г",
       "brand": "NUTTINESS",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 15,
         "fats": 26,
         "carbohydrates": 34,
@@ -71,8 +71,8 @@
     {
       "name": "Батончик протеиновый Chikalab Печенье-шоколад без сахара, 60г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 15,
         "fats": 12,
         "carbohydrates": 4.3,
@@ -82,8 +82,8 @@
     {
       "name": "Батончик протеиновый Snaq Fabriq Арахис-карамель-шоколаде без сахара, 50г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 20,
         "fats": 32,
         "carbohydrates": 8,
@@ -93,8 +93,8 @@
     {
       "name": "Шоколад протеиновый Chikalab Chikasport молочный без сахара, 100г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 21,
         "fats": 38,
         "carbohydrates": 8.4,
@@ -104,8 +104,8 @@
     {
       "name": "Панкейк Snaq Fabriq малиновый джем без сахара, 45г x 10 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 5.1,
         "fats": 10,
         "carbohydrates": 29,
@@ -115,8 +115,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! Банан, 45г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 51,
@@ -126,8 +126,8 @@
     {
       "name": "Отруби Nordic овсяные, 500г",
       "brand": "NORDIC",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14,
         "fats": 7.9,
         "carbohydrates": 48,
@@ -137,8 +137,8 @@
     {
       "name": "Печенье протеиновое Snaq Fabriq Шоколад-фундук без сахара, 35г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 19,
         "fats": 22,
         "carbohydrates": 12,
@@ -148,8 +148,8 @@
     {
       "name": "Батончик протеиновый Smartbar Protein Банан без глютена, 40г",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 20,
         "fats": 9,
         "carbohydrates": 38,
@@ -159,8 +159,8 @@
     {
       "name": "Батончик протеиновый Bombbar Фисташки-пломбир без сахара без глютена, 60г",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 33,
         "fats": 11,
         "carbohydrates": 3.7,
@@ -170,8 +170,8 @@
     {
       "name": "Батончик протеиновый Bombbar Фундук-пралине без сахара, 40г",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 25,
         "fats": 6.8,
         "carbohydrates": 17.1,
@@ -181,8 +181,8 @@
     {
       "name": "Батончик R.A.W. LIFE Макадамия без сахара без глютена, 47г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 47,
+      "weight": "47",
+      "nutrients": {
         "proteins": 9,
         "fats": 24,
         "carbohydrates": 50,
@@ -192,8 +192,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! Вишня-шоколад, 45г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 51.1,
@@ -203,8 +203,8 @@
     {
       "name": "Батончик протеиновый ProteinRex Кокос без сахара без глютена, 60г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 30,
         "fats": 15,
         "carbohydrates": 13.3,
@@ -214,8 +214,8 @@
     {
       "name": "Батончик протеиновый Nattys &Go Crunchy Шоколад-арахисовая хрустящая паста без сахара без глютена, 45г",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 16,
         "fats": 35,
         "carbohydrates": 46,
@@ -225,8 +225,8 @@
     {
       "name": "Батончик протеиновый Bombbar Малина-чизкейк без сахара без глютена, 60г",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 33,
         "fats": 8.5,
         "carbohydrates": 5.8,
@@ -236,8 +236,8 @@
     {
       "name": "Панкейк Snaq Fabriq Малиновый джем без сахара, 45г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 5.1,
         "fats": 10,
         "carbohydrates": 29,
@@ -247,8 +247,8 @@
     {
       "name": "Пирожное протеиновое ProteinRex Брауни-вишня без сахара, 50г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 11,
         "fats": 24,
         "carbohydrates": 12,
@@ -258,8 +258,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! Карамель, 45г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 47.2,
@@ -269,8 +269,8 @@
     {
       "name": "Батончик Bionova №7 Инжир-орехи без сахара, 35г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 2,
         "fats": 3.5,
         "carbohydrates": 18,
@@ -280,8 +280,8 @@
     {
       "name": "Батончик протеиновый Chikalab Chika Layers Печенье-шоколад без сахара, 60г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 30,
         "fats": 12.6,
         "carbohydrates": 5.9,
@@ -291,8 +291,8 @@
     {
       "name": "Батончик R.A.W. LIFE Соленая карамель без сахара без глютена, 47г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 47,
+      "weight": "47",
+      "nutrients": {
         "proteins": 5,
         "fats": 22,
         "carbohydrates": 29,
@@ -302,8 +302,8 @@
     {
       "name": "Батончик протеиновый Smartbar Protein Двойной шоколад без глютена, 40г",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 9,
         "fats": 20,
         "carbohydrates": 49,
@@ -313,8 +313,8 @@
     {
       "name": "Шоколад протеиновый Chikalab Chikasport молочный с фундуком без сахара, 100г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 20,
         "fats": 20,
         "carbohydrates": 10.2,
@@ -324,8 +324,8 @@
     {
       "name": "Батончик протеиновый Chikalab Кокос-шоколад без сахара, 60г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 15,
         "fats": 12,
         "carbohydrates": 3.5,
@@ -335,8 +335,8 @@
     {
       "name": "Батончик протеиновый Bombbar Кокосовый торт-шоколад без сахара, 40г",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 25,
         "fats": 17.1,
         "carbohydrates": 6.5,
@@ -346,8 +346,8 @@
     {
       "name": "Батончик Bionova №1 Яблоко-клубника без сахара, 35г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 2,
         "fats": 3,
         "carbohydrates": 19,
@@ -357,8 +357,8 @@
     {
       "name": "Батончик протеиновый Fit Kit Wellnut Арахис-карамель без сахара, 45г",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 4,
@@ -368,8 +368,8 @@
     {
       "name": "Отруби Ого! ржаные, 200г",
       "brand": "ОГО!",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 13,
         "fats": 2,
         "carbohydrates": 40,
@@ -379,8 +379,8 @@
     {
       "name": "Батончик Bionova №8 Шоколад-орехи, 35г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 2,
         "fats": 3,
         "carbohydrates": 18,
@@ -390,8 +390,8 @@
     {
       "name": "Батончик протеиновый Nattys &Go Crispy Шоколад-арахис-карамель-изюм без сахара без глютена, 45г",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 13,
         "fats": 29,
         "carbohydrates": 49,
@@ -401,8 +401,8 @@
     {
       "name": "Батончик протеиновый Nattys Brownie Шоколад-арахисовая паста-какао без сахара без глютена, 45г",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 16,
         "fats": 35,
         "carbohydrates": 43,
@@ -412,8 +412,8 @@
     {
       "name": "Хлебцы протеино-злаковые ProteinRex Crispy Шоколадный брауни без сахара без глютена, 55г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 11,
         "fats": 9,
         "carbohydrates": 11,
@@ -423,8 +423,8 @@
     {
       "name": "Кисель Леовит Желудочный, 400г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 95,
@@ -434,8 +434,8 @@
     {
       "name": "Батончик протеиновый Nattys Pro Шоколад-арахисовая паста без сахара без глютена, 45г",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 21,
         "fats": 30,
         "carbohydrates": 39,
@@ -445,8 +445,8 @@
     {
       "name": "Чай Худеем за неделю Жиросжигающий комплекс, 50г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 0.0,
@@ -456,8 +456,8 @@
     {
       "name": "Хлебцы протеино-злаковые ProteinRex Crispy Кокосовый крамбл без сахара без глютена, 55г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 11,
         "fats": 8,
         "carbohydrates": 12,
@@ -467,8 +467,8 @@
     {
       "name": "Батончик R.A.W. LIFE Кокос без сахара без глютена, 47г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 47,
+      "weight": "47",
+      "nutrients": {
         "proteins": 8,
         "fats": 24,
         "carbohydrates": 51,
@@ -478,8 +478,8 @@
     {
       "name": "Батончик протеиновый Racionika Protein Клубничный йогурт без сахара, 45г",
       "brand": "RACIONIKA",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 5.6,
         "carbohydrates": 5.7,
@@ -489,8 +489,8 @@
     {
       "name": "Капуччино Худеем за неделю Жиросжигающий комплекс, 14г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 14,
+      "weight": "14",
+      "nutrients": {
         "proteins": 6,
         "fats": 12,
         "carbohydrates": 68,
@@ -500,8 +500,8 @@
     {
       "name": "Кейс Леовит Худеем за неделю Средиземноморское меню для снижения веса, 708г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 708,
+      "weight": "708",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 14.5,
         "carbohydrates": 48.5,
@@ -511,8 +511,8 @@
     {
       "name": "Десерт Ёбатон Мусс с двойным шоколадом, 40г x 8 шт",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 20,
         "fats": 25,
         "carbohydrates": 17.5,
@@ -522,8 +522,8 @@
     {
       "name": "Печенье Ёбатон Суфле-шоколад, 50г",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 20,
         "fats": 10,
         "carbohydrates": 23,
@@ -533,8 +533,8 @@
     {
       "name": "Десерт Ёбатон Мусс с кокосом и лимоном, 40г x 8 шт",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 20,
         "fats": 25,
         "carbohydrates": 17.5,
@@ -544,8 +544,8 @@
     {
       "name": "Батончик протеиновый Fit Kit Hazels Фундук-карамель без сахара, 45г",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 8,
         "fats": 9,
         "carbohydrates": 14,
@@ -555,8 +555,8 @@
     {
       "name": "Батончик протеиновый Beauty.Fit вафельный Миндаль-клубника без сахара, 40г",
       "brand": "BEAUTY.FIT",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 27,
         "fats": 30,
         "carbohydrates": 16,
@@ -566,8 +566,8 @@
     {
       "name": "Батончик протеиновый ProteinRex SNEX Соленая карамель-арахис без сахара, 50г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 11,
         "carbohydrates": 12.5,
@@ -577,8 +577,8 @@
     {
       "name": "Комплекс предтренировочный Prime Kraft Pre-Workout Boost Кола, 300г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 4.7,
@@ -588,8 +588,8 @@
     {
       "name": "Батончик Nattys Brownie шоколадный с арахисовой пастой и какао без сахара, 45г x 12 шт",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 540,
+      "weight": "540",
+      "nutrients": {
         "proteins": 16,
         "fats": 35,
         "carbohydrates": 43,
@@ -599,8 +599,8 @@
     {
       "name": "Батончик фруктово-ореховый Bionova №1 с яблоком и клубникой, 35г x 24 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 2,
         "fats": 3,
         "carbohydrates": 19,
@@ -610,8 +610,8 @@
     {
       "name": "Шоколад Chikalab с фисташковой пастой и хрустящим тестом, 100г x 4 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 19,
         "fats": 37,
         "carbohydrates": 18,
@@ -621,8 +621,8 @@
     {
       "name": "Десерт протеиновый Ёбатон Мусс Двойной шоколад без сахара, 40г",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 20,
         "fats": 25,
         "carbohydrates": 17.5,
@@ -632,8 +632,8 @@
     {
       "name": "Батончик протеиновый O12 Кокос-миндаль без сахара, 50г",
       "brand": "O12",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 23,
         "fats": 29.5,
         "carbohydrates": 35.8,
@@ -643,8 +643,8 @@
     {
       "name": "Коктейль жиросжигающий Prime Kraft L-Carnitine L-Tartrate Черная смородина, 200г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 4,
@@ -654,8 +654,8 @@
     {
       "name": "Десерт Fit Kit Protein Cake Extra Тройной шоколад, 50г",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 26,
         "fats": 10,
         "carbohydrates": 24,
@@ -665,8 +665,8 @@
     {
       "name": "Батончик протеиновый Rexy Protein Night Орехи без сахара, 40г",
       "brand": "REXY",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 11,
         "fats": 9.2,
         "carbohydrates": 9.9,
@@ -676,8 +676,8 @@
     {
       "name": "Печенье Ёбатон Суфле-клубника, 50г",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 20,
         "fats": 10,
         "carbohydrates": 23,
@@ -687,8 +687,8 @@
     {
       "name": "Кейс Леовит Худеем за неделю Традиционное меню с мясом для снижения веса, 718г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 718,
+      "weight": "718",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 4.5,
         "carbohydrates": 80.3,
@@ -698,8 +698,8 @@
     {
       "name": "Кисель Леовит Форте витаминный, 400г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 91,
@@ -709,8 +709,8 @@
     {
       "name": "Десерт Fit Kit Protein Cake Тропический кокос, 50г",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 26,
         "fats": 8,
         "carbohydrates": 24,
@@ -720,8 +720,8 @@
     {
       "name": "Батончик протеиновый Beauty.Fit вафельный Фундук-шоколад без сахара, 40г",
       "brand": "BEAUTY.FIT",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 27,
         "fats": 32,
         "carbohydrates": 15,
@@ -731,8 +731,8 @@
     {
       "name": "Батончик протеиновый Smartbar Protein двойной шоколад, 40г x 25 шт",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 9,
         "fats": 20,
         "carbohydrates": 49,
@@ -742,8 +742,8 @@
     {
       "name": "Батончик фруктово-ореховый Bionova №8 с шоколадом, 35г x 24 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 2,
         "fats": 3,
         "carbohydrates": 18,
@@ -753,8 +753,8 @@
     {
       "name": "Батончик протеиновый Chikalab Chika Layers Лесной орех-карамель-шоколад без сахара, 60г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 30,
         "fats": 14.2,
         "carbohydrates": 4.5,
@@ -764,8 +764,8 @@
     {
       "name": "Батончик глазированный Snaq Fabriq Кокос, 40г x 30 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 2.8,
         "fats": 11.9,
         "carbohydrates": 2.9,
@@ -775,8 +775,8 @@
     {
       "name": "Протеиновые батончики Nattys&Go Mini Mix Peanut, Brownie, Coconattys без сахара, 20г х 18 шт",
       "brand": "NATTYS&GO",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 9,
         "fats": 41,
         "carbohydrates": 51,
@@ -786,8 +786,8 @@
     {
       "name": "Пирожное протеиновое ProteinRex Брауни без сахара, 50г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 12,
         "fats": 26,
         "carbohydrates": 7,
@@ -797,8 +797,8 @@
     {
       "name": "Батончик протеиновый Smartbar Pro Кокос, 35г",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 41,
         "fats": 11,
         "carbohydrates": 38,
@@ -808,8 +808,8 @@
     {
       "name": "Кисель Леовит Очищающий, 400г",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 89,
@@ -819,8 +819,8 @@
     {
       "name": "Батончик Bionova №3 Клюква-орехи без сахара, 35г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 2,
         "fats": 4,
         "carbohydrates": 18,
@@ -830,8 +830,8 @@
     {
       "name": "Батончик протеиновый ProteinRex Малина-йогурт без сахара без глютена, 60г",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 30,
         "fats": 13.3,
         "carbohydrates": 14.2,
@@ -841,8 +841,8 @@
     {
       "name": "Суп Леовит Худеем за неделю Мисо, 15г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 15,
+      "weight": "15",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 9.5,
         "carbohydrates": 54.5,
@@ -852,8 +852,8 @@
     {
       "name": "Батончик протеиновый Rexy Protein Night Малина без сахара, 40г",
       "brand": "REXY",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 10.7,
         "fats": 9.1,
         "carbohydrates": 9.8,
@@ -863,8 +863,8 @@
     {
       "name": "Батончик протеиновый Racionika Protein Шоколадный брауни без сахара, 45г",
       "brand": "RACIONIKA",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 5.5,
         "carbohydrates": 6.3,
@@ -874,8 +874,8 @@
     {
       "name": "Батончик фруктово-ореховый Bionova №3 с клюквой, 35г x 24 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 2,
         "fats": 4,
         "carbohydrates": 18,
@@ -885,8 +885,8 @@
     {
       "name": "Пирожное протеиновое ProteinRex Брауни Классический без сахара, 50г x 12 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 6,
         "fats": 13,
         "carbohydrates": 3.5,
@@ -896,8 +896,8 @@
     {
       "name": "Батончик протеиновый Fit Kit Hazels фундук-карамель в глазури без сахара, 45г х 15 шт",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 675,
+      "weight": "675",
+      "nutrients": {
         "proteins": 8,
         "fats": 9,
         "carbohydrates": 9,
@@ -907,8 +907,8 @@
     {
       "name": "Батончик R.A.W. LIFE орехово-фруктовый Макадамия, 47г x 15 шт",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 705,
+      "weight": "705",
+      "nutrients": {
         "proteins": 9,
         "fats": 24,
         "carbohydrates": 50,
@@ -918,8 +918,8 @@
     {
       "name": "Батончик протеиновый ProteinRex Кокос без сахара, 60г x 15 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 20,
         "fats": 6.5,
         "carbohydrates": 5,
@@ -929,8 +929,8 @@
     {
       "name": "Батончик протеиновый Chikalab Chika Layers Лесной орех с карамелью, 60г х 20 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 18,
         "fats": 8.5,
         "carbohydrates": 2.7,
@@ -940,8 +940,8 @@
     {
       "name": "Комплексная пищевая добавка Prime Kraft Коллаген Киви-клубника, 200г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 75,
         "fats": 0.0,
         "carbohydrates": 11,
@@ -951,8 +951,8 @@
     {
       "name": "Аскорбинка Racionika Апельсин без сахара (3г х 10шт), 30г",
       "brand": "RACIONIKA",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 78.8,
@@ -962,8 +962,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! банановый, 45г x 18 шт",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 810,
+      "weight": "810",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 51,
@@ -973,8 +973,8 @@
     {
       "name": "Батончик протеиновый Rexy Protein Night ореховый, 40г х 18 шт",
       "brand": "REXY",
-      "attributes": {
-        "weight": 720,
+      "weight": "720",
+      "nutrients": {
         "proteins": 27.5,
         "fats": 25.4,
         "carbohydrates": 24.8,
@@ -984,8 +984,8 @@
     {
       "name": "Пирожное протеиновое ProteinRex Брауни вишневое без сахара, 50г x 12 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 12,
         "carbohydrates": 6,
@@ -995,8 +995,8 @@
     {
       "name": "Батончик протеиновый Smartbar Protein банан в темной глазури, 40г x 25 шт",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 20,
         "fats": 9,
         "carbohydrates": 38,
@@ -1006,8 +1006,8 @@
     {
       "name": "Шоколад Chikalab с фисташковой пастой и хрустящим тестом, 100г",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 19,
         "fats": 37,
         "carbohydrates": 18,
@@ -1017,8 +1017,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! шоколадный, 45г x 18 шт",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 810,
+      "weight": "810",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 51.1,
@@ -1028,8 +1028,8 @@
     {
       "name": "Печенье-сэндвич O12 с белковой начинкой без сахара,40г",
       "brand": "O12",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 15,
         "fats": 21,
         "carbohydrates": 27,
@@ -1039,8 +1039,8 @@
     {
       "name": "Кейс Леовит Худеем за неделю Снижение веса, 697г",
       "brand": "ХУДЕЕМ ЗА НЕДЕЛЮ",
-      "attributes": {
-        "weight": 697,
+      "weight": "697",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 4.5,
         "carbohydrates": 80.3,
@@ -1050,8 +1050,8 @@
     {
       "name": "Батончик протеиновый Nattys&Go Mini Mix Арахис-брауни-кокос без сахара без глютена, 20г",
       "brand": "NATTYS&GO",
-      "attributes": {
-        "weight": 20,
+      "weight": "20",
+      "nutrients": {
         "proteins": 15,
         "fats": 34,
         "carbohydrates": 39,
@@ -1061,8 +1061,8 @@
     {
       "name": "Батончик шоколадный Nattys&Go Sunny Халва, 45г",
       "brand": "NATTYS&GO",
-      "attributes": {
-        "weight": 45,
+      "weight": "45",
+      "nutrients": {
         "proteins": 15,
         "fats": 35,
         "carbohydrates": 44,
@@ -1072,8 +1072,8 @@
     {
       "name": "Батончик Snaq Fabriq Арахис и карамель в шоколаде, 50г x 30 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 10,
         "fats": 16,
         "carbohydrates": 4,
@@ -1083,8 +1083,8 @@
     {
       "name": "Батончик шоколадный Nattys &Go Crunchy с арахисовой хрустящей пастой в молочном шоколаде, 45г x 12 шт",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 540,
+      "weight": "540",
+      "nutrients": {
         "proteins": 16,
         "fats": 35,
         "carbohydrates": 46,
@@ -1094,8 +1094,8 @@
     {
       "name": "Батончик ореховый Bombbar Фисташки и пломбир неглазированный, 60г x 20 шт",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 33,
         "fats": 11,
         "carbohydrates": 3.7,
@@ -1105,8 +1105,8 @@
     {
       "name": "Батончик шоколадный Nattys &Go Crispy с арахисовой пастой, карамелью и изюмом в молочном шоколаде, 45г x 12 шт",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 540,
+      "weight": "540",
+      "nutrients": {
         "proteins": 13,
         "fats": 29,
         "carbohydrates": 49,
@@ -1116,8 +1116,8 @@
     {
       "name": "Десерт протеиновый Ёбатон Мусс Кокос-лимон без сахара, 40г",
       "brand": "ЁБАТОН",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 20,
         "fats": 25,
         "carbohydrates": 17.5,
@@ -1127,8 +1127,8 @@
     {
       "name": "Батончик Snaq Fabriq глазированный с арахисом фисташкой и хрустящим тестом, 50г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 16,
         "carbohydrates": 7,
@@ -1138,8 +1138,8 @@
     {
       "name": "Батончик протеиновый Chikalab Печенье с кремом, 60г x 20 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 15,
         "fats": 12,
         "carbohydrates": 4.3,
@@ -1149,8 +1149,8 @@
     {
       "name": "Шоколад Snaq Fabriq Milky молочный с шоколадно-ореховой пастой без сахара, 55г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 10,
         "fats": 35,
         "carbohydrates": 12,
@@ -1160,8 +1160,8 @@
     {
       "name": "Печенье протеиновое Snaq Fabriq Арахис-соленая карамель без сахара, 35г",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 35,
+      "weight": "35",
+      "nutrients": {
         "proteins": 20,
         "fats": 21,
         "carbohydrates": 13,
@@ -1171,8 +1171,8 @@
     {
       "name": "Батончик протеиновый O12 кокос-миндаль без сахара, 50г х 12 шт",
       "brand": "O12",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 23,
         "fats": 29.5,
         "carbohydrates": 35.8,
@@ -1182,8 +1182,8 @@
     {
       "name": "Печенье Snaq Fabriq шоколад-фундук без сахара, 35г x 12 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 19,
         "fats": 22,
         "carbohydrates": 12,
@@ -1193,8 +1193,8 @@
     {
       "name": "Батончик R.A.W. LIFE Яблочный штрудель без сахара без глютена, 47г",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 47,
+      "weight": "47",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 46,
@@ -1204,8 +1204,8 @@
     {
       "name": "Отруби Ого! пшеничные, 200г",
       "brand": "ОГО!",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 14,
         "fats": 3,
         "carbohydrates": 40,
@@ -1215,8 +1215,8 @@
     {
       "name": "Батончик протеиновый ProteinRex Малина-йогурт без сахара, 60г x 15 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 20,
         "fats": 6,
         "carbohydrates": 5.5,
@@ -1226,8 +1226,8 @@
     {
       "name": "Батончик протеиновый Beauty.Fit с фундуком и шоколадом, 40г x 21 шт",
       "brand": "BEAUTY.FIT",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 27,
         "fats": 32,
         "carbohydrates": 15,
@@ -1237,8 +1237,8 @@
     {
       "name": "Батончик R.A.W. LIFE орехово-фруктовый Кокос, 47г x 15 шт",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 705,
+      "weight": "705",
+      "nutrients": {
         "proteins": 8,
         "fats": 24,
         "carbohydrates": 51,
@@ -1248,8 +1248,8 @@
     {
       "name": "Батончик протеиновый Chikalab Chika Layers Crispy Cookies, 60г х 20 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 25,
         "fats": 20,
         "carbohydrates": 7.2,
@@ -1259,8 +1259,8 @@
     {
       "name": "Батончик протеиновый Bionova Protein соленый крем-ирис, 50г x 20 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -1270,8 +1270,8 @@
     {
       "name": "Батончик протеиновый Rollberry Миндаль-арахис-клюква, 40г",
       "brand": "ROLLBERRY",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 11,
         "fats": 20,
         "carbohydrates": 51,
@@ -1281,8 +1281,8 @@
     {
       "name": "Батончик протеиновый Fit Kit Wellnut арахис-карамель в глазури без сахара, 45г х 15 шт",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 675,
+      "weight": "675",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 4,
@@ -1292,8 +1292,8 @@
     {
       "name": "Батончик протеиновый Rexy Protein Night малиновый, 40г х 18 шт",
       "brand": "REXY",
-      "attributes": {
-        "weight": 720,
+      "weight": "720",
+      "nutrients": {
         "proteins": 26.8,
         "fats": 22.8,
         "carbohydrates": 24.6,
@@ -1303,8 +1303,8 @@
     {
       "name": "Батончик протеиновый Леовит Champ! карамельный, 45г x 18 шт",
       "brand": "ЛЕОВИТ",
-      "attributes": {
-        "weight": 810,
+      "weight": "810",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 10,
         "carbohydrates": 47.2,
@@ -1314,8 +1314,8 @@
     {
       "name": "Шоколад молочный Snaq Fabriq Milky со сливочной начинкой, 34г х 40 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 1360,
+      "weight": "1360",
+      "nutrients": {
         "proteins": 9,
         "fats": 36,
         "carbohydrates": 11,
@@ -1325,8 +1325,8 @@
     {
       "name": "Коктейль протеиновый Prime Kraft Whey Shake Шоколад, 900г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 61,
         "fats": 3.4,
         "carbohydrates": 16.9,
@@ -1336,8 +1336,8 @@
     {
       "name": "Печенье Snaq Fabriq арахис-соленая карамель без сахара, 35г x 12 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 20,
         "fats": 21,
         "carbohydrates": 13,
@@ -1347,8 +1347,8 @@
     {
       "name": "Шоколад молочный Snaq Fabriq Milky с шоколадно-ореховой пастой без сахара, 55г х 30 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 1650,
+      "weight": "1650",
+      "nutrients": {
         "proteins": 10,
         "fats": 35,
         "carbohydrates": 12,
@@ -1358,8 +1358,8 @@
     {
       "name": "Батончик протеиновый Rollberry Миндаль-арахис-соленая карамель, 40г",
       "brand": "ROLLBERRY",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 15,
         "fats": 32,
         "carbohydrates": 35,
@@ -1369,8 +1369,8 @@
     {
       "name": "Батончик протеиновый Smartbar Pro кокосовый, 35г x 25 шт",
       "brand": "SMARTBAR",
-      "attributes": {
-        "weight": 875,
+      "weight": "875",
+      "nutrients": {
         "proteins": 41,
         "fats": 11,
         "carbohydrates": 38,
@@ -1380,8 +1380,8 @@
     {
       "name": "Батончик Snaq Fabriq глазированный с арахисом фисташкой и хрустящим тестом, 50г x 30 шт",
       "brand": "SNAQ FABRIQ",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 16,
         "carbohydrates": 7,
@@ -1391,8 +1391,8 @@
     {
       "name": "Коктейль протеиновый Prime Kraft Micellar Casein Молочный шоколад, 900г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 73,
         "fats": 2.5,
         "carbohydrates": 8,
@@ -1402,8 +1402,8 @@
     {
       "name": "Печенье-сэндвич O12 с белковой начинкой без сахара, 40г x 12 шт",
       "brand": "O12",
-      "attributes": {
-        "weight": 480,
+      "weight": "480",
+      "nutrients": {
         "proteins": 15,
         "fats": 21,
         "carbohydrates": 27,
@@ -1413,8 +1413,8 @@
     {
       "name": "Шоколад протеиновый Chikalab Chika Sport молочный с фундуком без сахара, 100г х 12 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 20,
         "fats": 42.5,
         "carbohydrates": 10.1,
@@ -1424,8 +1424,8 @@
     {
       "name": "Хлебцы протеино-злаковые ProteinRex Crispy Кокосовый крамбл, 55г х 12 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 20,
         "fats": 15,
         "carbohydrates": 22,
@@ -1435,8 +1435,8 @@
     {
       "name": "Шоколад протеиновый Chikalab Chika Sport молочный без сахара, 100г х 12 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 21,
         "fats": 38,
         "carbohydrates": 8.4,
@@ -1446,8 +1446,8 @@
     {
       "name": "Хлебцы протеино-злаковые ProteinRex Crispy Шоколадный Брауни, 55г х 12 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 20,
         "fats": 15,
         "carbohydrates": 20,
@@ -1457,8 +1457,8 @@
     {
       "name": "Десерт Fit Kit Protein Cake Тропический кокос, 50г x 10 шт",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 26,
         "fats": 8,
         "carbohydrates": 24,
@@ -1468,8 +1468,8 @@
     {
       "name": "Аминокислоты Prime Kraft BCAA 2:1:1 Зеленое яблоко, 500г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 14,
@@ -1479,8 +1479,8 @@
     {
       "name": "Батончик протеиновый ProteinRex SNEX Соленая карамель, 50г х 12 шт",
       "brand": "PROTEINREX",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 15,
         "fats": 22,
         "carbohydrates": 25,
@@ -1490,8 +1490,8 @@
     {
       "name": "Батончик протеиновый Bionova Shiny глазированный персик-манго, 40г x 20 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -1501,8 +1501,8 @@
     {
       "name": "Батончик протеиновый Rollberry Миндаль-арахис-кокосовая стружка, 40г",
       "brand": "ROLLBERRY",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 12,
         "fats": 31,
         "carbohydrates": 40,
@@ -1512,8 +1512,8 @@
     {
       "name": "Коктейль жиросжигающий Prime Kraft L-Carnitine L-Tartrate Лайм, 200г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 4,
@@ -1523,8 +1523,8 @@
     {
       "name": "Батончик протеиновый Beauty.Fit с миндалем и клубникой, 40г x 21 шт",
       "brand": "BEAUTY.FIT",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 27,
         "fats": 30,
         "carbohydrates": 16,
@@ -1534,8 +1534,8 @@
     {
       "name": "Батончик протеиновый Chikalab Кокос с шоколадной начинкой, 60г x 20 шт",
       "brand": "CHIKALAB",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 15,
         "fats": 12,
         "carbohydrates": 3.5,
@@ -1545,8 +1545,8 @@
     {
       "name": "Батончик протеиновый Bionova Shiny глазированный персик-манго, 40г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -1556,8 +1556,8 @@
     {
       "name": "Батончик фруктово-ореховый Bionova №7 с инжиром, 35г x 24 шт",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": 840,
+      "weight": "840",
+      "nutrients": {
         "proteins": 2,
         "fats": 3.5,
         "carbohydrates": 18,
@@ -1567,8 +1567,8 @@
     {
       "name": "Батончик R.A.W. LIFE орехово-фруктовый Яблочный штрудель, 47г x 15 шт",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 705,
+      "weight": "705",
+      "nutrients": {
         "proteins": 7,
         "fats": 22,
         "carbohydrates": 46,
@@ -1578,8 +1578,8 @@
     {
       "name": "Батончик R.A.W. LIFE орехово-фруктовый Соленая карамель, 47г x 15 шт",
       "brand": "R.A.W. LIFE",
-      "attributes": {
-        "weight": 705,
+      "weight": "705",
+      "nutrients": {
         "proteins": 5,
         "fats": 22,
         "carbohydrates": 29,
@@ -1589,8 +1589,8 @@
     {
       "name": "Батончик протеиновый Bombbar Кокосовый торт в шоколаде, 40г x 30 шт",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 25,
         "fats": 17.1,
         "carbohydrates": 6.5,
@@ -1600,8 +1600,8 @@
     {
       "name": "Коктейль протеиновый Prime Kraft Whey Shake Клубника, 900г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 77,
         "fats": 6,
         "carbohydrates": 9,
@@ -1611,8 +1611,8 @@
     {
       "name": "Аминокислоты Prime Kraft BCAA 2:1:1 Клубника, 500г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 0.0,
         "fats": 0.0,
         "carbohydrates": 14,
@@ -1622,8 +1622,8 @@
     {
       "name": "Батончик шоколадный Nattys&Go Sunny Халва, 45г x 12 шт",
       "brand": "NATTYS&GO",
-      "attributes": {
-        "weight": 540,
+      "weight": "540",
+      "nutrients": {
         "proteins": 15,
         "fats": 35,
         "carbohydrates": 44,
@@ -1633,8 +1633,8 @@
     {
       "name": "Батончик протеиновый Bionova Protein соленый крем-ирис, 50г",
       "brand": "BIONOVA",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -1644,8 +1644,8 @@
     {
       "name": "Батончик Nattys Pro шоколадный с арахисовой пастой без сахара, 45г x 12 шт",
       "brand": "NATTYS",
-      "attributes": {
-        "weight": 540,
+      "weight": "540",
+      "nutrients": {
         "proteins": 21,
         "fats": 30,
         "carbohydrates": 39,
@@ -1655,8 +1655,8 @@
     {
       "name": "Батончик протеиновый Bombbar Малиновый чизкейк неглазированный, 60г x 20 шт",
       "brand": "BOMBBAR",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 33,
         "fats": 8.5,
         "carbohydrates": 5.8,
@@ -1666,8 +1666,8 @@
     {
       "name": "Коктейль протеиновый Prime Kraft Multi Молочный шоколад, 900г",
       "brand": "PRIME KRAFT",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 74,
         "fats": 5,
         "carbohydrates": 9,
@@ -1677,8 +1677,8 @@
     {
       "name": "Десерт Fit Kit Protein Cake Extra Тройной шоколад, 50г x 10 шт",
       "brand": "FIT KIT",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 26,
         "fats": 10,
         "carbohydrates": 24,

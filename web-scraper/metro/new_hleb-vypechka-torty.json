@@ -5,8 +5,8 @@
     {
       "name": "Пирожки карельские Калитка Я пекарь с картофелем замороженная (87г x 4шт), 348г",
       "brand": "Я ПЕКАРЬ",
-      "attributes": {
-        "weight": 348,
+      "weight": "348",
+      "nutrients": {
         "proteins": 4,
         "fats": 6.5,
         "carbohydrates": 23,
@@ -16,8 +16,8 @@
     {
       "name": "Пирожок карельский Я пекарь с брусникой замороженный (87г x 4шт), 348г",
       "brand": "Я ПЕКАРЬ",
-      "attributes": {
-        "weight": 348,
+      "weight": "348",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 5,
         "carbohydrates": 30,
@@ -27,8 +27,8 @@
     {
       "name": "METRO Chef Лепешка Роти Халяль слоеная замороженная (90г x 5шт), 450г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 15,
         "carbohydrates": 37.8,
@@ -38,8 +38,8 @@
     {
       "name": "Хлеб Harry's American Sandwich сэндвичный пшеничный в нарезке, 470г",
       "brand": "HARRY'S",
-      "attributes": {
-        "weight": 470,
+      "weight": "470",
+      "nutrients": {
         "proteins": 8,
         "fats": 6,
         "carbohydrates": 48,
@@ -49,8 +49,8 @@
     {
       "name": "METRO Chef Круассаны замороженные (60г x 20шт), 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 25.9,
         "carbohydrates": 41.8,
@@ -60,8 +60,8 @@
     {
       "name": "METRO Chef Чизкейк ассорти 12 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 28.9,
         "carbohydrates": 20.7,
@@ -71,8 +71,8 @@
     {
       "name": "METRO Chef Чизкейк ягодный элитный замороженный 12 порций, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 15.8,
         "carbohydrates": 31.4,
@@ -82,8 +82,8 @@
     {
       "name": "METRO Chef Тесто Фило 11-13шт замороженное, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 11,
         "fats": 2.5,
         "carbohydrates": 63,
@@ -93,8 +93,8 @@
     {
       "name": "Батон Коломенский Нарезной нарезанный, 400г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.9,
         "carbohydrates": 51.4,
@@ -104,8 +104,8 @@
     {
       "name": "METRO Chef Торт Лимончелло 12 порций замороженный, 1.3кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1300,
+      "weight": "1300",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 25.8,
         "carbohydrates": 37,
@@ -115,8 +115,8 @@
     {
       "name": "METRO Chef Чизкейк New York 12 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 7,
         "fats": 23,
         "carbohydrates": 29,
@@ -126,8 +126,8 @@
     {
       "name": "METRO Chef Тесто слоеное бездрожжевое замороженное, 2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 2000,
+      "weight": "2000",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 16,
         "carbohydrates": 38,
@@ -137,8 +137,8 @@
     {
       "name": "METRO Chef Булочки для хот-догов замороженные 165мм (63г x 16шт), 1.008кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1008,
+      "weight": "1008",
+      "nutrients": {
         "proteins": 8,
         "fats": 4.5,
         "carbohydrates": 54,
@@ -148,8 +148,8 @@
     {
       "name": "METRO Chef Тесто слоеное дрожжевое замороженное, 2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 2000,
+      "weight": "2000",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 16,
         "carbohydrates": 41,
@@ -159,8 +159,8 @@
     {
       "name": "Лепешка мексиканская Delicados Тортилья пшеничная со вкусом сыра, 400г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7,
         "fats": 6.5,
         "carbohydrates": 48,
@@ -170,8 +170,8 @@
     {
       "name": "Чиабатта рустик, 290г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 290,
+      "weight": "290",
+      "nutrients": {
         "proteins": 7.82,
         "fats": 0.83,
         "carbohydrates": 42.17,
@@ -181,8 +181,8 @@
     {
       "name": "METRO Chef Профитроли какао замороженные 8 порций, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 23,
         "carbohydrates": 29,
@@ -192,8 +192,8 @@
     {
       "name": "METRO Chef Пирожное Фондан шоколадный замороженный (110г x 18шт), 1.98кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1980,
+      "weight": "1980",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 21,
         "carbohydrates": 43,
@@ -203,8 +203,8 @@
     {
       "name": "aro Чизкейк New York замороженный, 1.2кг",
       "brand": "ARO",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 7,
         "fats": 23,
         "carbohydrates": 29,
@@ -214,8 +214,8 @@
     {
       "name": "Тесто Bontier Kataifi замороженное, 450г",
       "brand": "BONTIER",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -225,8 +225,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера с кунжутом замороженная 125мм (89г x 12шт), 1.068кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1068,
+      "weight": "1068",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 4,
         "carbohydrates": 5.3,
@@ -236,8 +236,8 @@
     {
       "name": "METRO Chef Тесто слоеное бездрожжевое замороженное, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 21.9,
         "carbohydrates": 39.5,
@@ -247,8 +247,8 @@
     {
       "name": "METRO Chef Торт морковный 12 порций замороженный, 1.3кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1300,
+      "weight": "1300",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 23.7,
         "carbohydrates": 38,
@@ -258,8 +258,8 @@
     {
       "name": "METRO Chef Профитроли Латте замороженные 8 порций, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 23,
         "carbohydrates": 30,
@@ -269,8 +269,8 @@
     {
       "name": "METRO Chef Торт малина-фисташка 12 порций замороженный, 1.35кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1350,
+      "weight": "1350",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 13.1,
         "carbohydrates": 30.7,
@@ -280,8 +280,8 @@
     {
       "name": "METRO Chef Торт медовик 12 порций замороженный, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 17,
         "carbohydrates": 46,
@@ -291,8 +291,8 @@
     {
       "name": "Лапша Тестов Домашняя лагманная замороженная, 600г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -302,8 +302,8 @@
     {
       "name": "Хлеб Еврохлеб Чиабатта замороженная, 150г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 10,
         "fats": 3,
         "carbohydrates": 43,
@@ -313,8 +313,8 @@
     {
       "name": "METRO Chef Торт яблочный Элитный замороженный 12 порций, 1.45кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1450,
+      "weight": "1450",
+      "nutrients": {
         "proteins": 2,
         "fats": 6.4,
         "carbohydrates": 32.7,
@@ -324,8 +324,8 @@
     {
       "name": "RIOBA Маффины шоколадные замороженные (85г x 6шт), 510г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 510,
+      "weight": "510",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 27,
         "carbohydrates": 50,
@@ -335,8 +335,8 @@
     {
       "name": "METRO Chef Штрудель яблочный 8 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 2.4,
         "carbohydrates": 33.4,
@@ -346,8 +346,8 @@
     {
       "name": "Пирожное Orion Choco Pie бисквитное в глазури, 360г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 18,
         "carbohydrates": 67,
@@ -357,8 +357,8 @@
     {
       "name": "Лепешка мексиканская Delicados Тортилья пшеничная Оригинальная, 400г",
       "brand": "DELICADOS",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7,
         "fats": 7,
         "carbohydrates": 48,
@@ -368,8 +368,8 @@
     {
       "name": "METRO Chef Пирожное Тирамису бисквит замороженное 11 порций, 1.1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1100,
+      "weight": "1100",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 19,
         "carbohydrates": 28,
@@ -379,8 +379,8 @@
     {
       "name": "Лепешка Mission Тортилья пшеничная 6шт по 20см, 250г",
       "brand": "MISSION",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7,
         "fats": 7,
         "carbohydrates": 46,
@@ -390,8 +390,8 @@
     {
       "name": "RIOBA Донаты с глазурью и ванильным кремом замороженные (76г x 12шт), 912г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 912,
+      "weight": "912",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 24,
         "carbohydrates": 43,
@@ -401,8 +401,8 @@
     {
       "name": "Батон Черемушки нарезной высший сорт в нарезке, 400г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 3,
         "carbohydrates": 51,
@@ -412,8 +412,8 @@
     {
       "name": "Багет Еврохлеб Французский замороженный (230г х 2шт), 460г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 460,
+      "weight": "460",
+      "nutrients": {
         "proteins": 11,
         "fats": 0.3,
         "carbohydrates": 43,
@@ -423,8 +423,8 @@
     {
       "name": "METRO Chef Пирожное Тирамису Савоярди замороженное 11 порций, 1.1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1100,
+      "weight": "1100",
+      "nutrients": {
         "proteins": 8,
         "fats": 15,
         "carbohydrates": 45,
@@ -434,8 +434,8 @@
     {
       "name": "Чизкейк Cheeseberry New York без нарезки замороженный, 400г",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7,
         "fats": 23,
         "carbohydrates": 35,
@@ -445,8 +445,8 @@
     {
       "name": "Круассаны Еврохлеб замороженный (85г x 3шт), 255г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 255,
+      "weight": "255",
+      "nutrients": {
         "proteins": 5,
         "fats": 18,
         "carbohydrates": 36,
@@ -456,8 +456,8 @@
     {
       "name": "Булочка для гамбургера Bimbo макси с кунжутом, 252г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 9,
         "fats": 3,
         "carbohydrates": 54,
@@ -467,8 +467,8 @@
     {
       "name": "Булочка Еврохлеб Французская замороженная (40г x 7шт), 280г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 0.8,
         "carbohydrates": 45.6,
@@ -478,8 +478,8 @@
     {
       "name": "Чизкейк Cheeseberry с клубникой замороженный, 700г",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 24,
         "carbohydrates": 33,
@@ -489,8 +489,8 @@
     {
       "name": "METRO Chef Чизкейк клубничный Элитный замороженный 12 порций, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 13.1,
         "carbohydrates": 30.7,
@@ -500,8 +500,8 @@
     {
       "name": "METRO Chef Штрудель вишневый 8 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 2.4,
         "carbohydrates": 37,
@@ -511,8 +511,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера замороженная 125мм (85г x 12шт), 1.02кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1020,
+      "weight": "1020",
+      "nutrients": {
         "proteins": 8,
         "fats": 4.5,
         "carbohydrates": 54,
@@ -522,8 +522,8 @@
     {
       "name": "Булочка для гамбургера Bimbo с кунжутом, 240г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 9,
         "fats": 2.5,
         "carbohydrates": 53,
@@ -533,8 +533,8 @@
     {
       "name": "METRO Chef Пирог сливовый песочный 12 порций замороженный, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 3,
         "fats": 10.5,
         "carbohydrates": 40,
@@ -544,8 +544,8 @@
     {
       "name": "Булочка Еврохлеб Пражская замороженная (40г х 7шт), 280г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 6.3,
         "carbohydrates": 53.6,
@@ -555,8 +555,8 @@
     {
       "name": "Хлеб Коломенский ржаной край зерновой, 300г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 10,
         "fats": 12,
         "carbohydrates": 43,
@@ -566,8 +566,8 @@
     {
       "name": "Хлеб Коломенский ржаной край заварной, 300г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7,
         "fats": 1,
         "carbohydrates": 60,
@@ -577,8 +577,8 @@
     {
       "name": "METRO Chef Макарони замороженные (10г x 36шт), 360г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 23,
         "carbohydrates": 61,
@@ -588,8 +588,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера бриошь замороженная 125мм (89г x 12шт), 1.068кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1068,
+      "weight": "1068",
+      "nutrients": {
         "proteins": 9,
         "fats": 3.5,
         "carbohydrates": 56,
@@ -599,8 +599,8 @@
     {
       "name": "METRO Chef Пирог вишневый песочный 12 порций замороженный, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 7,
         "carbohydrates": 33,
@@ -610,8 +610,8 @@
     {
       "name": "Торт Черемушки Птичье молоко Советская классика, 600г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 3,
         "fats": 20,
         "carbohydrates": 60,
@@ -621,8 +621,8 @@
     {
       "name": "Чизкейк Cheeseberry ассорти замороженный 16 порций 4 вкуса, 1.66кг",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 1660,
+      "weight": "1660",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 27.5,
         "carbohydrates": 36,
@@ -632,8 +632,8 @@
     {
       "name": "Лаваш Mission Оригинальный пшеничный, 270г",
       "brand": "MISSION",
-      "attributes": {
-        "weight": 270,
+      "weight": "270",
+      "nutrients": {
         "proteins": 8,
         "fats": 7,
         "carbohydrates": 47,
@@ -643,8 +643,8 @@
     {
       "name": "METRO Chef Хлеб тостовый пшеничный нарезка, 520г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 520,
+      "weight": "520",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 7,
         "carbohydrates": 58,
@@ -654,8 +654,8 @@
     {
       "name": "METRO Chef Пирожное Тарталетка с малиной замороженное 9 порций, 1.08кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1080,
+      "weight": "1080",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 12,
         "carbohydrates": 22,
@@ -665,8 +665,8 @@
     {
       "name": "Хлеб сэндвичный Harry's (Harrys) American Sandwich пшеничный с отрубями в нарезке 515г",
       "brand": "HARRY'S",
-      "attributes": {
-        "weight": 515,
+      "weight": "515",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 4.5,
         "carbohydrates": 43,
@@ -676,8 +676,8 @@
     {
       "name": "Хлебцы Круазетт хрустящие тонкие ржаные, 200г",
       "brand": "КРУАЗЕТТ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 8,
         "fats": 3,
         "carbohydrates": 45,
@@ -687,8 +687,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера замороженная 100мм (53г x 24шт), 1.272кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1272,
+      "weight": "1272",
+      "nutrients": {
         "proteins": 8,
         "fats": 4.5,
         "carbohydrates": 54,
@@ -698,8 +698,8 @@
     {
       "name": "Багет изысканный, 250г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 1,
         "carbohydrates": 56.1,
@@ -709,8 +709,8 @@
     {
       "name": "METRO Chef Чизкейк шоколадный торт крошковый замороженный 12 порций, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 8.1,
         "fats": 16.9,
         "carbohydrates": 42,
@@ -720,8 +720,8 @@
     {
       "name": "METRO Chef Лепешка Пита арабский хлеб замороженный (60г x 5шт), 300г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7,
         "fats": 1,
         "carbohydrates": 47,
@@ -731,8 +731,8 @@
     {
       "name": "RIOBA Донаты с белой глазурью замороженные (55г x 12шт), 660г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 24,
         "carbohydrates": 43,
@@ -742,8 +742,8 @@
     {
       "name": "METRO Chef Штрудель грушевый 8 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 2.2,
         "fats": 2.6,
         "carbohydrates": 30.4,
@@ -753,8 +753,8 @@
     {
       "name": "Лепешка Mission Тортилья гриль 6 шт по 20 см, 250г",
       "brand": "MISSION",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7,
         "fats": 7,
         "carbohydrates": 46,
@@ -764,8 +764,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера с кунжутом замороженная 100мм (55г x 24шт), 1.32кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1320,
+      "weight": "1320",
+      "nutrients": {
         "proteins": 8,
         "fats": 4.5,
         "carbohydrates": 54,
@@ -775,8 +775,8 @@
     {
       "name": "Хлебцы Dr. Korner гречневые с витаминами без глютена, 100г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 12,
         "fats": 3,
         "carbohydrates": 52,
@@ -786,8 +786,8 @@
     {
       "name": "RIOBA Донаты с темной глазурью замороженные (55г x 12шт), 660г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 28.4,
         "carbohydrates": 44.9,
@@ -797,8 +797,8 @@
     {
       "name": "Хлебцы Wasa Original ржаные цельнозерновые, 275г",
       "brand": "WASA",
-      "attributes": {
-        "weight": 275,
+      "weight": "275",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 13.5,
         "carbohydrates": 59,
@@ -808,8 +808,8 @@
     {
       "name": "Булочки для хот-догов Bimbo 200г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 9,
         "fats": 2.5,
         "carbohydrates": 53,
@@ -819,8 +819,8 @@
     {
       "name": "Хлеб Черемушки Бородинский, 800г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 7,
         "fats": 2,
         "carbohydrates": 40,
@@ -830,8 +830,8 @@
     {
       "name": "Багет Еврохлеб Мультизлаковый замороженная (125г х 2шт), 250г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 3.29,
         "carbohydrates": 45.55,
@@ -841,8 +841,8 @@
     {
       "name": "Хлебцы Коломенский Здоровый край зерновые мягкие, 260г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 13,
         "fats": 13,
         "carbohydrates": 46,
@@ -852,8 +852,8 @@
     {
       "name": "Тесто слоеное Хлебный дом Звездное бездрожжевое замороженное, 500г x 2 шт",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 7.2,
         "fats": 24.6,
         "carbohydrates": 47.8,
@@ -863,8 +863,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с шоколадной начинкой, 240г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 5,
         "fats": 15,
         "carbohydrates": 55,
@@ -874,8 +874,8 @@
     {
       "name": "Хлеб Хлебный дом тостовый, 350г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 8,
         "fats": 3.5,
         "carbohydrates": 49.5,
@@ -885,8 +885,8 @@
     {
       "name": "METRO Chef Торт Прага замороженный 14 порций, 1.6кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1600,
+      "weight": "1600",
+      "nutrients": {
         "proteins": 4,
         "fats": 15,
         "carbohydrates": 47,
@@ -896,8 +896,8 @@
     {
       "name": "METRO Chef Штрудель яблоко-корица замороженный, 600г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 2.8,
         "carbohydrates": 31,
@@ -907,8 +907,8 @@
     {
       "name": "Булочка для гамбургера Roberto макси с кунжутом (75г x 4шт), 300г",
       "brand": "ROBERTO",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8.7,
         "fats": 5,
         "carbohydrates": 51,
@@ -918,8 +918,8 @@
     {
       "name": "Тесто Талосто слоеное дрожжевое замороженное, 500г",
       "brand": "ТАЛОСТО",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6,
         "fats": 22,
         "carbohydrates": 37,
@@ -929,8 +929,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с молочной начинкой, 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6,
         "fats": 15,
         "carbohydrates": 53,
@@ -940,8 +940,8 @@
     {
       "name": "Батон Хлебный дом Утренний, 400г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 2.3,
         "carbohydrates": 51.3,
@@ -951,8 +951,8 @@
     {
       "name": "Тесто Тестов для пельменей замороженное, 500г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -962,8 +962,8 @@
     {
       "name": "METRO Chef Торт рикотта-груша 12 порций замороженный, 1.3кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1300,
+      "weight": "1300",
+      "nutrients": {
         "proteins": 4,
         "fats": 16,
         "carbohydrates": 35,
@@ -973,8 +973,8 @@
     {
       "name": "METRO Chef Торт Миндальный замороженный, 330г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 330,
+      "weight": "330",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 37,
         "carbohydrates": 43,
@@ -984,8 +984,8 @@
     {
       "name": "Миничиабатта Хлебный дом замороженная (100г x 2шт), 200г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 2.1,
         "carbohydrates": 44.7,
@@ -995,8 +995,8 @@
     {
       "name": "METRO Chef Торт Красный бархат 12 порций замороженный, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 5,
         "fats": 23,
         "carbohydrates": 44,
@@ -1006,8 +1006,8 @@
     {
       "name": "Половинка багета с чесноком, 155г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 155,
+      "weight": "155",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -1017,8 +1017,8 @@
     {
       "name": "Батон Хлебный дом Звездный, 350г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 7.8,
         "fats": 2.7,
         "carbohydrates": 52.9,
@@ -1028,8 +1028,8 @@
     {
       "name": "Пирожное Orion Choco Pie Клубника бисквитное, 360г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 4,
         "fats": 18,
         "carbohydrates": 61,
@@ -1039,8 +1039,8 @@
     {
       "name": "aro Хлеб Дарницкий ржано-пшеничный, 700г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 41,
@@ -1050,8 +1050,8 @@
     {
       "name": "METRO Chef Пирог яблочный песочный 12 порций замороженный, 1.4кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 3,
         "fats": 10.5,
         "carbohydrates": 41,
@@ -1061,8 +1061,8 @@
     {
       "name": "aro Круассаны с шоколадной начинкой замороженные (70г x 6шт), 420г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 23.9,
         "carbohydrates": 51.1,
@@ -1072,8 +1072,8 @@
     {
       "name": "Торт У Палыча Наполеон, 400г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 15,
         "carbohydrates": 35,
@@ -1083,8 +1083,8 @@
     {
       "name": "Чизкейк Cheeseberry New York с малиной замороженный 16 порций, 1.66кг",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 1660,
+      "weight": "1660",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 21,
         "carbohydrates": 30,
@@ -1094,8 +1094,8 @@
     {
       "name": "aro Тесто слоеное дрожжевое замороженное, 500г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 14.3,
         "carbohydrates": 41,
@@ -1105,8 +1105,8 @@
     {
       "name": "Хлеб Рижский хлеб Цельнозерновой, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9,
         "fats": 1.5,
         "carbohydrates": 43,
@@ -1116,8 +1116,8 @@
     {
       "name": "METRO Chef Торт шоколадный замороженный 8 порций, 600г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 17,
         "carbohydrates": 33,
@@ -1127,8 +1127,8 @@
     {
       "name": "Хлебцы рисовые Dr. Korner Сметана-зелень без глютена, 80г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 0.4,
         "fats": 1,
         "carbohydrates": 4.5,
@@ -1138,8 +1138,8 @@
     {
       "name": "Мини-круассаны 7 Days Какао, 335г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 46,
@@ -1149,8 +1149,8 @@
     {
       "name": "Пирожное Orion Choco Pie Chocochip бисквитное c апельсиновым джемом и шоколадной крошкой, 360г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 5,
         "fats": 21,
         "carbohydrates": 62,
@@ -1160,8 +1160,8 @@
     {
       "name": "Пирожное Orion Choco Pie Манго бисквитное, 360г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 5,
         "fats": 18,
         "carbohydrates": 61,
@@ -1171,8 +1171,8 @@
     {
       "name": "Чиабатта, 230г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -1182,8 +1182,8 @@
     {
       "name": "Хлеб Коломенское Даниловский зерновой в нарезке, 300г",
       "brand": "ДАНИЛОВСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 6,
         "carbohydrates": 46,
@@ -1193,8 +1193,8 @@
     {
       "name": "Торт Черемушки Чародейка, 650г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 650,
+      "weight": "650",
+      "nutrients": {
         "proteins": 4,
         "fats": 18,
         "carbohydrates": 55,
@@ -1204,8 +1204,8 @@
     {
       "name": "Булочки для хот-догов Roberto (62.5г x 4шт), 250г",
       "brand": "ROBERTO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 9.9,
         "fats": 4.8,
         "carbohydrates": 50,
@@ -1215,8 +1215,8 @@
     {
       "name": "Чиабатта с оливками, 270г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 270,
+      "weight": "270",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -1226,8 +1226,8 @@
     {
       "name": "Хлебцы Wasa Delicate Crisp пшеничные тонкие цельнозерновые с розмарином и морской солью, 190г",
       "brand": "WASA",
-      "attributes": {
-        "weight": 190,
+      "weight": "190",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 13.5,
         "carbohydrates": 59,
@@ -1237,8 +1237,8 @@
     {
       "name": "METRO Chef Лепешка мексиканская Тортилья 23-25см (69г x 5шт), 345г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 345,
+      "weight": "345",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 7,
         "carbohydrates": 55,
@@ -1248,8 +1248,8 @@
     {
       "name": "Тесто Талосто 256 слоев слоеное бездрожжевое замороженное, 500г",
       "brand": "ТАЛОСТО",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 16,
         "carbohydrates": 38,
@@ -1259,8 +1259,8 @@
     {
       "name": "Хлеб Хлебный дом Геркулес зерновой формовой, 250г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 10.1,
         "fats": 5.1,
         "carbohydrates": 49,
@@ -1270,8 +1270,8 @@
     {
       "name": "Тесто слоеное Хлебный дом Звездное дрожжевое замороженное, 500г x 2 шт",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 7.3,
         "fats": 20.9,
         "carbohydrates": 48.6,
@@ -1281,8 +1281,8 @@
     {
       "name": "Хлеб Еврохлеб зерновой замороженный, 265г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 12,
         "fats": 3,
         "carbohydrates": 46,
@@ -1292,8 +1292,8 @@
     {
       "name": "Торт вафельный Красный Октябрь Мишка косолапый, 250г",
       "brand": "КРАСНЫЙ ОКТЯБРЬ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 30,
         "carbohydrates": 59,
@@ -1303,8 +1303,8 @@
     {
       "name": "Хлебцы Wasa Fiber ржаные цельнозерновые с отрубями, кунжутом и овсяными хлопьями, 230г",
       "brand": "WASA",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 13,
         "fats": 5,
         "carbohydrates": 46,
@@ -1314,8 +1314,8 @@
     {
       "name": "Торт Черемушки Птичье молоко с халвой, 600г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 4,
         "fats": 20,
         "carbohydrates": 59,
@@ -1325,8 +1325,8 @@
     {
       "name": "Хлеб Хлебный дом Бородинский, 400г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 1.3,
         "carbohydrates": 39.8,
@@ -1336,8 +1336,8 @@
     {
       "name": "METRO Chef Тесто имбирное замороженное, 450г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 19.2,
         "carbohydrates": 55.8,
@@ -1347,8 +1347,8 @@
     {
       "name": "METRO Chef Штрудель яблоко-вишня замороженный, 600г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 2.7,
         "fats": 6.3,
         "carbohydrates": 34.3,
@@ -1358,8 +1358,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с шоколадной начинкой, 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 15.2,
         "carbohydrates": 59.1,
@@ -1369,8 +1369,8 @@
     {
       "name": "Багет мини Хлебный дом Барра быстрозамороженный (110г x 2шт), 220г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 0.9,
         "carbohydrates": 47.3,
@@ -1380,8 +1380,8 @@
     {
       "name": "Торт У Палыча ассорти, 1.1кг",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 1100,
+      "weight": "1100",
+      "nutrients": {
         "proteins": 7.2,
         "fats": 26.8,
         "carbohydrates": 54,
@@ -1391,8 +1391,8 @@
     {
       "name": "Лаваш Ватутинки хлеб армянский тонкий, 200г",
       "brand": "ВАТУТИНКИ ХЛЕБ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 1.2,
         "carbohydrates": 55.8,
@@ -1402,8 +1402,8 @@
     {
       "name": "Торт У Палыча Киевский, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 23,
         "carbohydrates": 37,
@@ -1413,8 +1413,8 @@
     {
       "name": "Пирожное Фили Бейкер Эклеры заварное, 250г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 15.7,
         "carbohydrates": 31.4,
@@ -1424,8 +1424,8 @@
     {
       "name": "Пирожное Черемушки Картошка, 300г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7,
         "fats": 19,
         "carbohydrates": 48,
@@ -1435,8 +1435,8 @@
     {
       "name": "Багет Еврохлеб Французский замороженный (125г x 2шт), 250г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.37,
         "fats": 1.58,
         "carbohydrates": 52,
@@ -1446,8 +1446,8 @@
     {
       "name": "Хлебцы Dr. Korner рисовые с морской солью без глютена, 100г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 1,
         "carbohydrates": 68,
@@ -1457,8 +1457,8 @@
     {
       "name": "Круассаны 7 Days с кремом какао (4шт х 65г), 260г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 44,
@@ -1468,8 +1468,8 @@
     {
       "name": "Круассаны Еврохлеб с шоколадным кремом замороженные (90г x 3шт), 270г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 270,
+      "weight": "270",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 14,
         "carbohydrates": 40,
@@ -1479,8 +1479,8 @@
     {
       "name": "aro Тесто слоеное бездрожжевое замороженное, 500г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 17.2,
         "carbohydrates": 47.3,
@@ -1490,8 +1490,8 @@
     {
       "name": "Багет трианон, 290г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 290,
+      "weight": "290",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -1501,8 +1501,8 @@
     {
       "name": "Кекс Полет Мини с изюмом, 500г",
       "brand": "ПОЛЕТ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 7,
         "fats": 16,
         "carbohydrates": 58,
@@ -1512,8 +1512,8 @@
     {
       "name": "Хлеб Фермерский, 335г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 0.7,
         "carbohydrates": 41,
@@ -1523,8 +1523,8 @@
     {
       "name": "METRO Chef Пирожное Фондан шоколадный замороженный (100г x 2шт), 200г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 20.9,
         "carbohydrates": 43,
@@ -1534,8 +1534,8 @@
     {
       "name": "Хлеб Деревенский, 290г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 290,
+      "weight": "290",
+      "nutrients": {
         "proteins": 7,
         "fats": 0.7,
         "carbohydrates": 50,
@@ -1545,8 +1545,8 @@
     {
       "name": "Кекс Хлебный дом Творожный, 400г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 15.7,
         "carbohydrates": 54.7,
@@ -1556,8 +1556,8 @@
     {
       "name": "Хлеб Ржаной край цельнозерновой в нарезке, 300г",
       "brand": "РЖАНОЙ КРАЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 10,
         "carbohydrates": 31,
@@ -1567,8 +1567,8 @@
     {
       "name": "RIOBA Маффины с черной смородиной замороженные (85г x 6шт), 510г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 510,
+      "weight": "510",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 24,
         "carbohydrates": 45,
@@ -1578,8 +1578,8 @@
     {
       "name": "Хлебцы Круазетт хрустящие тонкие с прованскими травами, 200г",
       "brand": "КРУАЗЕТТ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 1.1,
         "carbohydrates": 79.6,
@@ -1589,8 +1589,8 @@
     {
       "name": "Пирожные Фили Бейкер заварные кольца, 300г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 12,
         "carbohydrates": 36.7,
@@ -1600,8 +1600,8 @@
     {
       "name": "Торт Фили Бейкер Панчо, 1кг",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 11.8,
         "carbohydrates": 29.8,
@@ -1611,8 +1611,8 @@
     {
       "name": "Рулет Сдобная Особа Черемушки с маковой начинкой 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 18,
         "carbohydrates": 50,
@@ -1622,8 +1622,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с молочной начинкой, 240г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 15,
         "carbohydrates": 54,
@@ -1633,8 +1633,8 @@
     {
       "name": "Хлеб Черемушки Зерновик ржано-пшеничный нарезной, 460г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 460,
+      "weight": "460",
+      "nutrients": {
         "proteins": 10,
         "fats": 8,
         "carbohydrates": 32,
@@ -1644,8 +1644,8 @@
     {
       "name": "METRO Chef Штрудель маковый 8 порций замороженный, 1.2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 6.1,
         "carbohydrates": 47.5,
@@ -1655,8 +1655,8 @@
     {
       "name": "METRO Chef Хлеб тостовый ржано-пшеничный нарезка, 550г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 550,
+      "weight": "550",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 7,
         "carbohydrates": 58,
@@ -1666,8 +1666,8 @@
     {
       "name": "Булочка Черемушки Улитка крем-изюм, 100г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6,
         "fats": 11,
         "carbohydrates": 49,
@@ -1677,8 +1677,8 @@
     {
       "name": "Булочки для бургера Коломенский Вкусно и просто с кунжутом, 180г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 9,
         "fats": 6.5,
         "carbohydrates": 59,
@@ -1688,8 +1688,8 @@
     {
       "name": "Хлеб Коломенский Тостовый пшеничный, 320г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 8,
         "fats": 3,
         "carbohydrates": 56,
@@ -1699,8 +1699,8 @@
     {
       "name": "Торт Mirel Три шоколада, 750г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 21,
         "carbohydrates": 40,
@@ -1710,8 +1710,8 @@
     {
       "name": "Пирожное бисквитное Барни с шоколадной начинкой, 300г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 15,
         "carbohydrates": 54,
@@ -1721,8 +1721,8 @@
     {
       "name": "Чиабатта ржаная, 240г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -1732,8 +1732,8 @@
     {
       "name": "Торт Cheeseberry Тройной шоколад замороженный 12 порций, 1.4кг",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 1400,
+      "weight": "1400",
+      "nutrients": {
         "proteins": 5.3,
         "fats": 18,
         "carbohydrates": 32.9,
@@ -1743,8 +1743,8 @@
     {
       "name": "Хлеб Коломенский Даниловский ржано-пшеничный бездрожжевой, 350г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 1.1,
         "carbohydrates": 41,
@@ -1754,8 +1754,8 @@
     {
       "name": "Хлебцы Dr. Korner хрустящие 7 злаков, 100г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 10,
         "fats": 2,
         "carbohydrates": 57,
@@ -1765,8 +1765,8 @@
     {
       "name": "METRO Chef Пирожное Тарталетка с клубникой замороженное 9 порций, 1.26кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1260,
+      "weight": "1260",
+      "nutrients": {
         "proteins": 3,
         "fats": 10,
         "carbohydrates": 27,
@@ -1776,8 +1776,8 @@
     {
       "name": "Торт У Палыча Прага оригинальная, 900г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 4.6,
         "fats": 26.5,
         "carbohydrates": 65.1,
@@ -1787,8 +1787,8 @@
     {
       "name": "Хлебцы Wasa Delicate Crisp пшеничные тонкие цельнозерновые с кунжутом и морской солью, 190г",
       "brand": "WASA",
-      "attributes": {
-        "weight": 190,
+      "weight": "190",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 13.5,
         "carbohydrates": 59,
@@ -1798,8 +1798,8 @@
     {
       "name": "Мини-кексы Юбилейное с кусочками темного шоколада и какао (28г x 5шт), 140г",
       "brand": "ЮБИЛЕЙНОЕ",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 22,
         "carbohydrates": 53,
@@ -1809,8 +1809,8 @@
     {
       "name": "Лаваш Mission Деревенский, 270г",
       "brand": "MISSION",
-      "attributes": {
-        "weight": 270,
+      "weight": "270",
+      "nutrients": {
         "proteins": 8,
         "fats": 7,
         "carbohydrates": 47,
@@ -1820,8 +1820,8 @@
     {
       "name": "Хлеб Хлебозавод №22 Дарницкий нарезанный, 700г",
       "brand": "ХЛЕБОЗАВОД №22",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 7,
         "fats": 1,
         "carbohydrates": 48,
@@ -1831,8 +1831,8 @@
     {
       "name": "Хлеб Коломенский тостовый злаковый, 250г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 1.1,
         "carbohydrates": 51.5,
@@ -1842,8 +1842,8 @@
     {
       "name": "Хлеб Рижский хлеб Бородинский бездрожжевой, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 52,
@@ -1853,8 +1853,8 @@
     {
       "name": "Хлеб Черемушки Столичный половинка нарезка, 330г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 330,
+      "weight": "330",
+      "nutrients": {
         "proteins": 7,
         "fats": 1.2,
         "carbohydrates": 45.8,
@@ -1864,8 +1864,8 @@
     {
       "name": "Хлеб Хлебный дом Марьин заварной в нарезке, 350г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 1,
         "carbohydrates": 43.9,
@@ -1875,8 +1875,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с бананово-йогуртовой начинкой, 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.2,
         "fats": 15,
         "carbohydrates": 52,
@@ -1886,8 +1886,8 @@
     {
       "name": "Хлебцы Щедрые тонкие ржаные, 170г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 11,
         "fats": 2.5,
         "carbohydrates": 64,
@@ -1897,8 +1897,8 @@
     {
       "name": "Круассаны 7 Days с кремом ваниль (4шт х 65г), 260г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 45,
@@ -1908,8 +1908,8 @@
     {
       "name": "Тесто Морозко дрожжевое замороженное, 1кг",
       "brand": "МОРОЗКО",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 5.3,
         "carbohydrates": 49,
@@ -1919,8 +1919,8 @@
     {
       "name": "Чизкейк Cheeseberry New York классический замороженный 16 порций, 1.66кг",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 1660,
+      "weight": "1660",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 23.9,
         "carbohydrates": 26.8,
@@ -1930,8 +1930,8 @@
     {
       "name": "RIOBA Сингл круассан с какао, 65г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 42,
@@ -1941,8 +1941,8 @@
     {
       "name": "Пирожные Mirel Профитроли с пломбирным кремом замороженные, 180г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 7,
         "fats": 32,
         "carbohydrates": 31,
@@ -1952,8 +1952,8 @@
     {
       "name": "Пирожное Kinder Delice бисквитное с молочной начинкой, 39г",
       "brand": "KINDER DELICE",
-      "attributes": {
-        "weight": 39,
+      "weight": "39",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 22.6,
         "carbohydrates": 58.8,
@@ -1963,8 +1963,8 @@
     {
       "name": "Торт Bakers Boutique Красный Вельвет замороженный 16 порций, 1.7кг",
       "brand": "BAKERS BOUTIQUE",
-      "attributes": {
-        "weight": 1700,
+      "weight": "1700",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 5.5,
         "carbohydrates": 51.8,
@@ -1974,8 +1974,8 @@
     {
       "name": "Пирог Тирольские пироги ягодная поляна, 600г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 4.33,
         "fats": 9.57,
         "carbohydrates": 30,
@@ -1985,8 +1985,8 @@
     {
       "name": "Хлеб геркулес Хлебный дом с кукурузой, 255г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 255,
+      "weight": "255",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 3.2,
         "carbohydrates": 50.4,
@@ -1996,8 +1996,8 @@
     {
       "name": "Десерт Хлебный дом Ягодное Лукошко с вишней, 140г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 15,
         "carbohydrates": 45.1,
@@ -2007,8 +2007,8 @@
     {
       "name": "Круассан 7 Days миди с кремом какао, 65г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 42,
@@ -2018,8 +2018,8 @@
     {
       "name": "METRO Chef Торт брусничный с белым шоколадом 12 порций замороженный, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 17,
         "carbohydrates": 34,
@@ -2029,8 +2029,8 @@
     {
       "name": "METRO Chef Лепешка мексиканская Тортилья сырная 23-25см, 345г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 345,
+      "weight": "345",
+      "nutrients": {
         "proteins": 8,
         "fats": 9,
         "carbohydrates": 50,
@@ -2040,8 +2040,8 @@
     {
       "name": "Торт Фили Бейкер Наполеон деревенский, 800г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 39,
         "carbohydrates": 27.4,
@@ -2051,8 +2051,8 @@
     {
       "name": "Торт У Палыча сливочная птичка классическая, 600г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 3.2,
         "fats": 16.9,
         "carbohydrates": 54.4,
@@ -2062,8 +2062,8 @@
     {
       "name": "Половинка ржаного багета с чесноком, 180г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -2073,8 +2073,8 @@
     {
       "name": "RIOBA Сингл круассан с клубникой, 65г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 7,
         "fats": 21,
         "carbohydrates": 49,
@@ -2084,8 +2084,8 @@
     {
       "name": "Рулет Сдобная Особа с маком и изюмом, 300г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 16.5,
         "carbohydrates": 52,
@@ -2095,8 +2095,8 @@
     {
       "name": "Хлебцы Dr. Korner кукурузно-рисовые с прованскими травами без глютена, 100г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 8,
         "fats": 3,
         "carbohydrates": 59,
@@ -2106,8 +2106,8 @@
     {
       "name": "Торт У Палыча Полет оригинальный, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6,
         "fats": 28,
         "carbohydrates": 48,
@@ -2117,8 +2117,8 @@
     {
       "name": "Набор пирожных Mirel Муравейник, 340г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 340,
+      "weight": "340",
+      "nutrients": {
         "proteins": 6,
         "fats": 16.3,
         "carbohydrates": 58.9,
@@ -2128,8 +2128,8 @@
     {
       "name": "Хлеб Черемушки Дарницкий, 340г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 340,
+      "weight": "340",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 1.1,
         "carbohydrates": 41,
@@ -2139,8 +2139,8 @@
     {
       "name": "Торт Mirel Прага, 660г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 6.45,
         "fats": 23.66,
         "carbohydrates": 39.29,
@@ -2150,8 +2150,8 @@
     {
       "name": "Батон Пеко нарезной ГОСТ, 400г",
       "brand": "ПЕКО",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.6,
         "carbohydrates": 51.4,
@@ -2161,8 +2161,8 @@
     {
       "name": "METRO Chef Торт Захер замороженный 14 порций, 1.65кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1650,
+      "weight": "1650",
+      "nutrients": {
         "proteins": 4.6,
         "fats": 13.6,
         "carbohydrates": 49.1,
@@ -2172,8 +2172,8 @@
     {
       "name": "Торт Фили Бейкер Народная птичка, 500г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 19.7,
         "carbohydrates": 59.2,
@@ -2183,8 +2183,8 @@
     {
       "name": "Хлеб Черемушки Бородинский в нарезке, 390г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 1.3,
         "carbohydrates": 41.5,
@@ -2194,8 +2194,8 @@
     {
       "name": "Торт У Палыча ореховый оригинальный, 900г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 32.4,
         "carbohydrates": 42.7,
@@ -2205,8 +2205,8 @@
     {
       "name": "Криспы Мистраль Мексиканские, 145г",
       "brand": "МИСТРАЛЬ",
-      "attributes": {
-        "weight": 145,
+      "weight": "145",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 1.2,
         "carbohydrates": 70.9,
@@ -2216,8 +2216,8 @@
     {
       "name": "Хлебцы Щедрые многозерновые тонкие, 170г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 14,
         "fats": 3,
         "carbohydrates": 68,
@@ -2227,8 +2227,8 @@
     {
       "name": "Пирожное Orion Choco Pie бисквитное в глазури, 180г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 16.1,
         "carbohydrates": 70.9,
@@ -2238,8 +2238,8 @@
     {
       "name": "Круассаны 7 Days ваниль, 265г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 45,
@@ -2249,8 +2249,8 @@
     {
       "name": "Хлебцы Dr. Korner карамельные кукурузно-рисовые хрустящие, 90г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 7,
         "fats": 2,
         "carbohydrates": 70,
@@ -2260,8 +2260,8 @@
     {
       "name": "RIOBA Печенье шоколадная крошка замороженное (70г x 4шт), 280г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 22,
         "carbohydrates": 57.7,
@@ -2271,8 +2271,8 @@
     {
       "name": "Хлебцы Круазетт тонкие мультизлаковые, 200г",
       "brand": "КРУАЗЕТТ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 12.3,
         "fats": 3,
         "carbohydrates": 65,
@@ -2282,8 +2282,8 @@
     {
       "name": "Десерт Хлебный дом Ягодное лукошко черника, 140г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 15,
         "carbohydrates": 46.7,
@@ -2293,8 +2293,8 @@
     {
       "name": "Хлеб Рижский хлеб Ароматный заварной подовый, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 1,
         "carbohydrates": 46,
@@ -2304,8 +2304,8 @@
     {
       "name": "Лепешка Ватутинки хлеб Пита, 400г",
       "brand": "ВАТУТИНКИ ХЛЕБ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 0.8,
         "carbohydrates": 45,
@@ -2315,8 +2315,8 @@
     {
       "name": "aro Тесто сдобное дрожжевое замороженное, 500г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 7,
         "fats": 10,
         "carbohydrates": 48,
@@ -2326,8 +2326,8 @@
     {
       "name": "Хлебцы Щедрые Бородинские тонкие, 170г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 1.3,
         "carbohydrates": 39.8,
@@ -2337,8 +2337,8 @@
     {
       "name": "Хлеб Рижский хлеб 100% ржаной, 220г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 6,
         "fats": 1.1,
         "carbohydrates": 42,
@@ -2348,8 +2348,8 @@
     {
       "name": "Торт Коломенское Шоколадница вафельный с фундуком, 230г",
       "brand": "КОЛОМЕНСКОЕ",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 9,
         "fats": 38,
         "carbohydrates": 48,
@@ -2359,8 +2359,8 @@
     {
       "name": "RIOBA Круассаны мини с клубникой, 200г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 16,
         "carbohydrates": 54,
@@ -2370,8 +2370,8 @@
     {
       "name": "Хлебцы Baker House с томатом и орегано, 250г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6,
         "fats": 12,
         "carbohydrates": 42,
@@ -2381,8 +2381,8 @@
     {
       "name": "Хлебцы кукурузно-рисовые Dr. Korner с клюквой без глютена, 90г",
       "brand": "DR. KORNER",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 68,
@@ -2392,8 +2392,8 @@
     {
       "name": "хлеб Рижский хлеб Юбилейный заварной подовый бездрожжевой, 205г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 205,
+      "weight": "205",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 7.5,
         "carbohydrates": 52,
@@ -2403,8 +2403,8 @@
     {
       "name": "Пирог Тирольские пироги Лесная ягода, 250г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3.27,
         "fats": 7.35,
         "carbohydrates": 33.8,
@@ -2414,8 +2414,8 @@
     {
       "name": "Пирожное У Палыча Картошка, 210г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 210,
+      "weight": "210",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 22.5,
         "carbohydrates": 44.1,
@@ -2425,8 +2425,8 @@
     {
       "name": "Основа для пиццы La Trattoria замороженная, 330г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 330,
+      "weight": "330",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 8.2,
         "carbohydrates": 46.4,
@@ -2436,8 +2436,8 @@
     {
       "name": "Хлеб Коломенский Бородинский нарезка, 400г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 42,
@@ -2447,8 +2447,8 @@
     {
       "name": "Торт Бабаевский Белочка вафельный, 250г",
       "brand": "БАБАЕВСКИЙ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6,
         "fats": 29,
         "carbohydrates": 59,
@@ -2458,8 +2458,8 @@
     {
       "name": "Хлебцы цельнозерновые Baker House овсяные лен-кунжут, 180г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 18,
         "fats": 7,
         "carbohydrates": 70,
@@ -2469,8 +2469,8 @@
     {
       "name": "Торт Bakers Boutique Чизкейк мраморный шоколадный 16 порций замороженный, 1.7кг",
       "brand": "BAKERS BOUTIQUE",
-      "attributes": {
-        "weight": 1700,
+      "weight": "1700",
+      "nutrients": {
         "proteins": 6,
         "fats": 1.9,
         "carbohydrates": 38.1,
@@ -2480,8 +2480,8 @@
     {
       "name": "Хлеб Рижский хлеб Деревенский бездрожжевой постный, 220г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 1.2,
         "carbohydrates": 41.2,
@@ -2491,8 +2491,8 @@
     {
       "name": "Хлеб Коломенский Дарницкий половина нарезка, 350г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 1.1,
         "carbohydrates": 41,
@@ -2502,8 +2502,8 @@
     {
       "name": "Торт У Палыча малиновый, 900г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 20.1,
         "carbohydrates": 33.9,
@@ -2513,8 +2513,8 @@
     {
       "name": "Пирожное У Палыча Корзиночка, 280г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 25,
         "carbohydrates": 31,
@@ -2524,8 +2524,8 @@
     {
       "name": "Мини-кексы Юбилейное кусочками молочного шоколада (28г x 5шт), 140г",
       "brand": "ЮБИЛЕЙНОЕ",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 5.2,
         "fats": 21,
         "carbohydrates": 53,
@@ -2535,8 +2535,8 @@
     {
       "name": "Лепешка Bimbo Тортилья из пшеничной муки 10Д, 390г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 4,
         "carbohydrates": 57,
@@ -2546,8 +2546,8 @@
     {
       "name": "Хлебец Хлебный дом Стройный рецепт, 350г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 0.9,
         "carbohydrates": 47.9,
@@ -2557,8 +2557,8 @@
     {
       "name": "Торт карамельный Mirel на сгущенке, 700г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 4,
         "fats": 14,
         "carbohydrates": 44,
@@ -2568,8 +2568,8 @@
     {
       "name": "Пирог Сдобная Особа Черемушки Австрийский штрудель вкус вишня и ваниль, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 15,
         "carbohydrates": 54,
@@ -2579,8 +2579,8 @@
     {
       "name": "Хлебцы Baker House с розмарином и чесноком, 250г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 2,
         "fats": 8,
         "carbohydrates": 75,
@@ -2590,8 +2590,8 @@
     {
       "name": "Хлеб Рижский хлеб Крестьянский бездрожжевой заварной подовый, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 46,
@@ -2601,8 +2601,8 @@
     {
       "name": "Торт У Палыча медовая фантазия с грецким орехом, 800г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 3.2,
         "fats": 23.8,
         "carbohydrates": 58.3,
@@ -2612,8 +2612,8 @@
     {
       "name": "Пирог Тирольские пироги клубничный, 600г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 3.29,
         "fats": 7.74,
         "carbohydrates": 28.66,
@@ -2623,8 +2623,8 @@
     {
       "name": "Торт Черемушки Медовик домашний, 480г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 480,
+      "weight": "480",
+      "nutrients": {
         "proteins": 5,
         "fats": 25,
         "carbohydrates": 44,
@@ -2634,8 +2634,8 @@
     {
       "name": "Круассаны 7 Days вареная сгущенка, 265г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 47,
@@ -2645,8 +2645,8 @@
     {
       "name": "Рулет Сдобная Особа Черемушки с лимоном, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6,
         "fats": 18,
         "carbohydrates": 49,
@@ -2656,8 +2656,8 @@
     {
       "name": "Батон Коломенское с отрубями, 300г",
       "brand": "КОЛОМЕНСКОЕ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 3.5,
         "carbohydrates": 50,
@@ -2667,8 +2667,8 @@
     {
       "name": "Хлебцы Здоровей кукурузные без глютена, 90г",
       "brand": "ЗДОРОВЕЙ",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 2.4,
         "fats": 16.23,
         "carbohydrates": 76.32,
@@ -2678,8 +2678,8 @@
     {
       "name": "Батон Черемушки Полюшко, 300г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.9,
         "carbohydrates": 51.4,
@@ -2689,8 +2689,8 @@
     {
       "name": "Слойка Мастер Пирогов Венский конвертик с вишней, 70г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 5,
         "fats": 16,
         "carbohydrates": 57,
@@ -2700,8 +2700,8 @@
     {
       "name": "Булочки для хот-догов Коломенский (60г х 3шт), 180г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 5,
         "carbohydrates": 55,
@@ -2711,8 +2711,8 @@
     {
       "name": "Торт Mirel Тирамису, 750г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 11,
         "carbohydrates": 31,
@@ -2722,8 +2722,8 @@
     {
       "name": "Пирог Сдобная Особа Черемушки Трюфельный пай, 380г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 380,
+      "weight": "380",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 27.5,
         "carbohydrates": 45.5,
@@ -2733,8 +2733,8 @@
     {
       "name": "Хлеб Даниловский пшеничный на закваске, 250г",
       "brand": "ДАНИЛОВСКИЙ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.5,
         "carbohydrates": 5.3,
@@ -2744,8 +2744,8 @@
     {
       "name": "Пирожное бисквитное Медвежонок Барни с начинкой со вкусом вареного сгущенного молока, 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6,
         "fats": 15,
         "carbohydrates": 53,
@@ -2755,8 +2755,8 @@
     {
       "name": "Хлебцы Щедрые гречневые, 200г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 13,
         "fats": 5.5,
         "carbohydrates": 59,
@@ -2766,8 +2766,8 @@
     {
       "name": "Хлебцы Бурже Шведские с семенами, 280г",
       "brand": "БУРЖЕ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 13,
         "fats": 16,
         "carbohydrates": 41,
@@ -2777,8 +2777,8 @@
     {
       "name": "Торт Фили Бейкер Новый Киевский, 500г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 21.7,
         "carbohydrates": 56,
@@ -2788,8 +2788,8 @@
     {
       "name": "Хлебцы Щедрые 5 злаков, 200г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 15,
         "fats": 7,
         "carbohydrates": 77,
@@ -2799,8 +2799,8 @@
     {
       "name": "Торт Добрынинский Креп де Пари карамельный, 1кг",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 4,
         "fats": 20,
         "carbohydrates": 31,
@@ -2810,8 +2810,8 @@
     {
       "name": "Лепешка Bimbo Тортилья из пшеничной муки 8Д, 228г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 228,
+      "weight": "228",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 4,
         "carbohydrates": 57,
@@ -2821,8 +2821,8 @@
     {
       "name": "RIOBA Сингл круассан с ванилью, 65г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 6,
         "fats": 28,
         "carbohydrates": 42,
@@ -2832,8 +2832,8 @@
     {
       "name": "Пирог Сдобная Особа Черемушки Итальянский пай с начинкой вишня, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 14,
         "carbohydrates": 66,
@@ -2843,8 +2843,8 @@
     {
       "name": "Пирог Тирольские пироги Черри бренди, 600г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 2.43,
         "fats": 7.92,
         "carbohydrates": 37.03,
@@ -2854,8 +2854,8 @@
     {
       "name": "Печенье Tondi choco Pie с маршмеллоу, 180г",
       "brand": "TONDI",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 16,
         "carbohydrates": 64,
@@ -2865,8 +2865,8 @@
     {
       "name": "Тесто Pa Food для пельменей Халяль замороженное, 300г",
       "brand": "PA FOOD",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 14.2,
         "fats": 11.8,
         "carbohydrates": 47.6,
@@ -2876,8 +2876,8 @@
     {
       "name": "aro Хлеб Дарницкий нарезанный ржано-пшеничный, 700г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 41,
@@ -2887,8 +2887,8 @@
     {
       "name": "Хлебцы Wasa Sesame пшеничные с кунжутом, 200г",
       "brand": "WASA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 13.5,
         "carbohydrates": 59,
@@ -2898,8 +2898,8 @@
     {
       "name": "Круассаны 7 Days вишня-ваниль, 265г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 6,
         "fats": 22,
         "carbohydrates": 50,
@@ -2909,8 +2909,8 @@
     {
       "name": "Круассаны 7 Days клубника, 265г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 5,
         "fats": 16,
         "carbohydrates": 52,
@@ -2920,8 +2920,8 @@
     {
       "name": "Пирожное Ама ореховое, 234г",
       "brand": "АМА",
-      "attributes": {
-        "weight": 234,
+      "weight": "234",
+      "nutrients": {
         "proteins": 10,
         "fats": 7,
         "carbohydrates": 71,
@@ -2931,8 +2931,8 @@
     {
       "name": "Слойка Мастер Пирогов Венский конвертик с грушей, 70г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6,
         "fats": 16,
         "carbohydrates": 57,
@@ -2942,8 +2942,8 @@
     {
       "name": "Пирожное Тирольские пироги воздушное клубника со сливками, 250г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5,
         "fats": 7.6,
         "carbohydrates": 50.6,
@@ -2953,8 +2953,8 @@
     {
       "name": "Слойка Мастер Пирогов Венский конвертик с черникой, 70г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 5,
         "fats": 16,
         "carbohydrates": 57,
@@ -2964,8 +2964,8 @@
     {
       "name": "Эклеры Mirel с шоколадным заварным кремом и соленой карамелью, 235г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 235,
+      "weight": "235",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 17.6,
         "carbohydrates": 35.3,
@@ -2975,8 +2975,8 @@
     {
       "name": "Пирог Сдобная Особа Черемушки Австрийский штрудель вкус лимон и апельсин, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 14.5,
         "carbohydrates": 54.5,
@@ -2986,8 +2986,8 @@
     {
       "name": "Хлебцы Щедрые ржаные хрустящие, 200г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 1,
         "fats": 4.5,
         "carbohydrates": 52,
@@ -2997,8 +2997,8 @@
     {
       "name": "Чиабатта, 100г x 3 шт",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -3008,8 +3008,8 @@
     {
       "name": "Торт Кондитерская Прохорова Тот самый Брауни, 500г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 7,
         "fats": 27,
         "carbohydrates": 47,
@@ -3019,8 +3019,8 @@
     {
       "name": "Пирог Baker House Kuchen Фисташковый бисквитный, 350г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 5,
         "fats": 17,
         "carbohydrates": 50,
@@ -3030,8 +3030,8 @@
     {
       "name": "Хлеб Коломенский Ароматный в нарезке, 400г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 8,
         "fats": 2.5,
         "carbohydrates": 52,
@@ -3041,8 +3041,8 @@
     {
       "name": "Рулет бисквитный Яшкино вишневый, 200г",
       "brand": "ЯШКИНО",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5,
         "fats": 13,
         "carbohydrates": 58,
@@ -3052,8 +3052,8 @@
     {
       "name": "METRO Chef Штрудель яблоко-черная смородина замороженный, 600г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 2.6,
         "fats": 7,
         "carbohydrates": 37.9,
@@ -3063,8 +3063,8 @@
     {
       "name": "Лепешки Хлебный дом Краюшки ржано-пшеничные, 240г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 8.6,
         "fats": 1.4,
         "carbohydrates": 43.4,
@@ -3074,8 +3074,8 @@
     {
       "name": "Пирожное Венский цех Корзиночка ягодная, 260г",
       "brand": "ВЕНСКИЙ ЦЕХ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 4,
         "fats": 20,
         "carbohydrates": 54,
@@ -3085,8 +3085,8 @@
     {
       "name": "RIOBA Круассаны мини с ванилью, 200г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 46,
@@ -3096,8 +3096,8 @@
     {
       "name": "Пирог Тирольские пироги малиновый, 600г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 3.66,
         "fats": 5.84,
         "carbohydrates": 31.16,
@@ -3107,8 +3107,8 @@
     {
       "name": "Торт Черемушки День торта Прага, 720г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 720,
+      "weight": "720",
+      "nutrients": {
         "proteins": 5,
         "fats": 25,
         "carbohydrates": 45,
@@ -3118,8 +3118,8 @@
     {
       "name": "Кремобон Сдобная Особа классический, 380г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 380,
+      "weight": "380",
+      "nutrients": {
         "proteins": 5,
         "fats": 19,
         "carbohydrates": 52,
@@ -3129,8 +3129,8 @@
     {
       "name": "Десерт Хлебный дом Ягодное лукошко с клубникой, 140г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 3.8,
         "fats": 15,
         "carbohydrates": 42.7,
@@ -3140,8 +3140,8 @@
     {
       "name": "RIOBA Круассаны мини с какао, 200г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 46,
@@ -3151,8 +3151,8 @@
     {
       "name": "Торт Mirel черничное молоко, 750г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 4,
         "fats": 14,
         "carbohydrates": 29,
@@ -3162,8 +3162,8 @@
     {
       "name": "Штрудель Черемушки с яблоком, 70г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 5,
         "fats": 19,
         "carbohydrates": 49,
@@ -3173,8 +3173,8 @@
     {
       "name": "Конвертик Мастер Пирогов абрикос-персик, 70г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 5,
         "fats": 16,
         "carbohydrates": 57,
@@ -3184,8 +3184,8 @@
     {
       "name": "Ватрушка Мастер Пирогов с творогом, 100г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 8,
         "fats": 8.5,
         "carbohydrates": 46,
@@ -3195,8 +3195,8 @@
     {
       "name": "Пирожное бисквитное Барни Клубника (30г x 5шт), 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 13,
         "carbohydrates": 61,
@@ -3206,8 +3206,8 @@
     {
       "name": "Круассан Черемушки с шоколадно-ореховой начинкой, 80г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 28.3,
         "carbohydrates": 46.2,
@@ -3217,8 +3217,8 @@
     {
       "name": "Пирожное Orion Fresh Pie Клубника-малина бисквитное (25г x 12шт), 300г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 5,
         "fats": 24,
         "carbohydrates": 50,
@@ -3228,8 +3228,8 @@
     {
       "name": "Хлебцы Fitstart Карамель рисовые, 100г",
       "brand": "FITSTART",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 0.9,
         "carbohydrates": 73.5,
@@ -3239,8 +3239,8 @@
     {
       "name": "Торт У Палыча Прага оригинальная, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 4.6,
         "fats": 26.5,
         "carbohydrates": 65.1,
@@ -3250,8 +3250,8 @@
     {
       "name": "Мини-круассаны 7 Days Ваниль, 105г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 46,
@@ -3261,8 +3261,8 @@
     {
       "name": "Торт Baker House Тирамису бисквитный, 350г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 3,
         "fats": 9.5,
         "carbohydrates": 61,
@@ -3272,8 +3272,8 @@
     {
       "name": "Хлебцы Fitstart Прованские травы, 90г",
       "brand": "FITSTART",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 1.1,
         "carbohydrates": 79.6,
@@ -3283,8 +3283,8 @@
     {
       "name": "Круассаны 7 Days какао, 265г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 265,
+      "weight": "265",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 47,
@@ -3294,8 +3294,8 @@
     {
       "name": "Чиабатта, 205г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 205,
+      "weight": "205",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 2.1,
         "carbohydrates": 44.7,
@@ -3305,8 +3305,8 @@
     {
       "name": "Пирожное Тирольские пироги профитроли с заварным кремом, 275г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 275,
+      "weight": "275",
+      "nutrients": {
         "proteins": 5.84,
         "fats": 11.46,
         "carbohydrates": 41.13,
@@ -3316,8 +3316,8 @@
     {
       "name": "Багет Традиционный, 240г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 1.2,
         "carbohydrates": 54.3,
@@ -3327,8 +3327,8 @@
     {
       "name": "Батон Черемушки с пшеничными отрубями, 350г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.9,
         "carbohydrates": 51.4,
@@ -3338,8 +3338,8 @@
     {
       "name": "Хлеб Хлебный дом Энергия Здоровья Хлебец подовый пшеничный с зернами и семенами, 300г",
       "brand": "ЭНЕРГИЯ ЗДОРОВЬЯ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.9,
         "fats": 6.4,
         "carbohydrates": 44.1,
@@ -3349,8 +3349,8 @@
     {
       "name": "Батон Черемушки Домашний молочный в нарезку, 350г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 13,
         "fats": 5,
         "carbohydrates": 52,
@@ -3360,8 +3360,8 @@
     {
       "name": "Кекс Рижский хлеб морковный с апельсином, 350г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 17.8,
         "carbohydrates": 42.2,
@@ -3371,8 +3371,8 @@
     {
       "name": "хлеб Рижский хлеб Ремесленный черный заварной формовой, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 0.5,
         "carbohydrates": 40,
@@ -3382,8 +3382,8 @@
     {
       "name": "Слойка Мастер Пирогов сырная, 70г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 10,
         "fats": 29,
         "carbohydrates": 48,
@@ -3393,8 +3393,8 @@
     {
       "name": "Булочки Коломенское сдобные с кардамоном, 200г",
       "brand": "КОЛОМЕНСКОЕ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 8,
         "fats": 7.5,
         "carbohydrates": 63,
@@ -3404,8 +3404,8 @@
     {
       "name": "Пирожные У Палыча оригинальные, 270г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 270,
+      "weight": "270",
+      "nutrients": {
         "proteins": 5.1,
         "fats": 30.2,
         "carbohydrates": 31.2,
@@ -3415,8 +3415,8 @@
     {
       "name": "Торт Renardi Карузель, 820г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 820,
+      "weight": "820",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 12.9,
         "carbohydrates": 40.8,
@@ -3426,8 +3426,8 @@
     {
       "name": "Пирожное картошка Добрынинский глазированная (80г x 5шт), 400г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6,
         "fats": 19,
         "carbohydrates": 53,
@@ -3437,8 +3437,8 @@
     {
       "name": "Торт Mirel Пломбирный, 750г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 9,
         "carbohydrates": 37,
@@ -3448,8 +3448,8 @@
     {
       "name": "Торт Черемушки День торта Персидская ночь, 660г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 660,
+      "weight": "660",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 27.5,
         "carbohydrates": 53.5,
@@ -3459,8 +3459,8 @@
     {
       "name": "Пирожное Le Tarti миндальное макарон манго-маракуйя, 60г",
       "brand": "LE TARTI",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 8,
         "fats": 18,
         "carbohydrates": 54,
@@ -3470,8 +3470,8 @@
     {
       "name": "Пирожное Le Tarti миндальное макарон с малиной, 60г",
       "brand": "LE TARTI",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 17.2,
         "carbohydrates": 55,
@@ -3481,8 +3481,8 @@
     {
       "name": "Рулет бисквитный Яшкино с вареной сгущенкой, 200г",
       "brand": "ЯШКИНО",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 11,
         "carbohydrates": 57,
@@ -3492,8 +3492,8 @@
     {
       "name": "Мини-круассаны 7 Days Вареная сгущенка, 105г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 47,
@@ -3503,8 +3503,8 @@
     {
       "name": "Пирожное бисквитное Milka Biscuits Милка с шоколадной начинкой и кусочками молочного шоколада, 175г",
       "brand": "MILKA",
-      "attributes": {
-        "weight": 175,
+      "weight": "175",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 21,
         "carbohydrates": 56.5,
@@ -3514,8 +3514,8 @@
     {
       "name": "Торт Коломенское Шоколадница классическая, 240г",
       "brand": "КОЛОМЕНСКОЕ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 9,
         "fats": 31,
         "carbohydrates": 54,
@@ -3525,8 +3525,8 @@
     {
       "name": "Рулет бисквитный Яшкино шоколадный, 200г",
       "brand": "ЯШКИНО",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 17,
         "carbohydrates": 54,
@@ -3536,8 +3536,8 @@
     {
       "name": "Хлебушек рижский особый, 285г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 285,
+      "weight": "285",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 1,
         "carbohydrates": 52.5,
@@ -3547,8 +3547,8 @@
     {
       "name": "Торт Коломенское Шоколадница Трюфель, 250г",
       "brand": "КОЛОМЕНСКОЕ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 12,
         "fats": 34,
         "carbohydrates": 47,
@@ -3558,8 +3558,8 @@
     {
       "name": "Пирожное У Палыча Меренги Ореховые, 200г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 3.2,
         "fats": 25.3,
         "carbohydrates": 48.5,
@@ -3569,8 +3569,8 @@
     {
       "name": "Галстук с шоколадом, 90г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 7,
         "fats": 19.3,
         "carbohydrates": 44.7,
@@ -3580,8 +3580,8 @@
     {
       "name": "Торт Венский цех Фисташковый пломбир, 390г",
       "brand": "ВЕНСКИЙ ЦЕХ",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 21,
         "carbohydrates": 45,
@@ -3591,8 +3591,8 @@
     {
       "name": "Батард ржаной, 150г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7.9,
         "fats": 1.8,
         "carbohydrates": 49.7,
@@ -3602,8 +3602,8 @@
     {
       "name": "Хлеб Fanfan с сыром, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 4,
         "carbohydrates": 41,
@@ -3613,8 +3613,8 @@
     {
       "name": "Торт Фили Бейкер тирамису классический, 680г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 680,
+      "weight": "680",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 10.4,
         "carbohydrates": 50.5,
@@ -3624,8 +3624,8 @@
     {
       "name": "Печенье Tondi choco Pie кокосовый, 180г",
       "brand": "TONDI",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 16,
         "carbohydrates": 65,
@@ -3635,8 +3635,8 @@
     {
       "name": "Плюшка Московская Коломенский сахарная, 150г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 4,
         "carbohydrates": 62,
@@ -3646,8 +3646,8 @@
     {
       "name": "Хлебцы Щедрые Бородинские, 100г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 64,
@@ -3657,8 +3657,8 @@
     {
       "name": "Штрудель Сдобная Особа Австрийский клубника и пломбир, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 15,
         "carbohydrates": 55,
@@ -3668,8 +3668,8 @@
     {
       "name": "Кекс Ulker 8 Kek с бананом, 40г x 24 шт",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 960,
+      "weight": "960",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -3679,8 +3679,8 @@
     {
       "name": "Пирожное Le Tarti миндальное макарон с фисташкой, 60г",
       "brand": "LE TARTI",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 30,
         "carbohydrates": 52,
@@ -3690,8 +3690,8 @@
     {
       "name": "Багет мини с чесночным маслом темный, 140г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 1.2,
         "carbohydrates": 54.9,
@@ -3701,8 +3701,8 @@
     {
       "name": "Брауни Сдобная Особа Соленая карамель, 380г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 380,
+      "weight": "380",
+      "nutrients": {
         "proteins": 5,
         "fats": 21,
         "carbohydrates": 47,
@@ -3712,8 +3712,8 @@
     {
       "name": "Кекс Ulker 8 Kek с клубникой, 40г x 24 шт",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 960,
+      "weight": "960",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -3723,8 +3723,8 @@
     {
       "name": "Пирожное Ама Трубочка с Кремом, 252г",
       "brand": "АМА",
-      "attributes": {
-        "weight": 252,
+      "weight": "252",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 25,
         "carbohydrates": 39,
@@ -3734,8 +3734,8 @@
     {
       "name": "Хлебцы Fitstart мультизлаковые лесные ягоды, 100г",
       "brand": "FITSTART",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 13.6,
         "fats": 1.6,
         "carbohydrates": 60.5,
@@ -3745,8 +3745,8 @@
     {
       "name": "Хлебцы Fitstart мультизлаковые брусника, имбирь и мед, 100г",
       "brand": "FITSTART",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 13.6,
         "fats": 1.6,
         "carbohydrates": 60.5,
@@ -3756,8 +3756,8 @@
     {
       "name": "Торт Черемушки Тирамису, 700г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 16,
         "carbohydrates": 54,
@@ -3767,8 +3767,8 @@
     {
       "name": "Хлеб Рижский хлеб тостовый заварной бездрожжевой, 370г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 370,
+      "weight": "370",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 3.4,
         "carbohydrates": 40,
@@ -3778,8 +3778,8 @@
     {
       "name": "Ассорти из вафельных тортиков Рот Фронт Коровка со вкусом топленое молоко с светлой и темной крошкой, 200г",
       "brand": "РОТ ФРОНТ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 31,
         "carbohydrates": 58,
@@ -3789,8 +3789,8 @@
     {
       "name": "RIOBA Печенье брауни замороженное (70г x 4шт), 280г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 22,
         "carbohydrates": 57.7,
@@ -3800,8 +3800,8 @@
     {
       "name": "Кекс Ulker 8 Kek с какао, 40г",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -3811,8 +3811,8 @@
     {
       "name": "Багет мини Оригинальный с чесночным маслом, 140г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 8,
         "fats": 13.8,
         "carbohydrates": 48.3,
@@ -3822,8 +3822,8 @@
     {
       "name": "Пирожные Фили Бейкер бисквитные медовик, 120г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": 120,
+      "weight": "120",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 21.7,
         "carbohydrates": 46.6,
@@ -3833,8 +3833,8 @@
     {
       "name": "Слойка Хлебный дом Спелое яблоко, 55г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 5,
         "fats": 14,
         "carbohydrates": 57,
@@ -3844,8 +3844,8 @@
     {
       "name": "Криспы Мистраль Алтайские, 150г",
       "brand": "МИСТРАЛЬ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 13.2,
         "fats": 3.8,
         "carbohydrates": 70.8,
@@ -3855,8 +3855,8 @@
     {
       "name": "Батон Коломенский зерновой, 300г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 6,
         "carbohydrates": 54,
@@ -3866,8 +3866,8 @@
     {
       "name": "Хлебцы Щедрые ржаные, 100г",
       "brand": "ЩЕДРЫЕ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 64,
@@ -3877,8 +3877,8 @@
     {
       "name": "Кекс Рижский хлеб яблочный с корицей, 350г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 3.8,
         "fats": 16.4,
         "carbohydrates": 45,
@@ -3888,8 +3888,8 @@
     {
       "name": "Круассан 7 Days с кремом ваниль, 65г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 65,
+      "weight": "65",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 43,
@@ -3899,8 +3899,8 @@
     {
       "name": "Криспы Мистраль Турецкие, 110г",
       "brand": "МИСТРАЛЬ",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 16.7,
         "fats": 6.3,
         "carbohydrates": 70.1,
@@ -3910,8 +3910,8 @@
     {
       "name": "Пирожное Orion Fresh Pie Персик бисквитное (25г x 12шт), 300г",
       "brand": "ORION",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6,
         "fats": 25,
         "carbohydrates": 51,
@@ -3921,8 +3921,8 @@
     {
       "name": "Батон Черемушки нарезной, 400г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 3,
         "carbohydrates": 51,
@@ -3932,8 +3932,8 @@
     {
       "name": "Пирог Сдобная Особа Итальянский пай с начинкой лимон, 400г",
       "brand": "СДОБНАЯ ОСОБА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 14,
         "carbohydrates": 68,
@@ -3943,8 +3943,8 @@
     {
       "name": "Хлеб Рижский хлеб Ремесленный заварной бездрожжевой, 430г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 430,
+      "weight": "430",
+      "nutrients": {
         "proteins": 5,
         "fats": 1.1,
         "carbohydrates": 34,
@@ -3954,8 +3954,8 @@
     {
       "name": "Хлеб Alpin Brot альпийский зерновой, 300г",
       "brand": "ALPIN BROT",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 11,
         "fats": 12,
         "carbohydrates": 43,
@@ -3965,8 +3965,8 @@
     {
       "name": "Хлеб Fanfan с сыром и базиликом, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 4,
         "carbohydrates": 41,
@@ -3976,8 +3976,8 @@
     {
       "name": "Рулет бисквитный Яшкино черничный, 200г",
       "brand": "ЯШКИНО",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5,
         "fats": 13,
         "carbohydrates": 58,
@@ -3987,8 +3987,8 @@
     {
       "name": "Сдоба Мастер Пирогов Венская с яблоком и корицей, 150г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6,
         "fats": 7,
         "carbohydrates": 61,
@@ -3998,8 +3998,8 @@
     {
       "name": "Пирожное Macaronika Макарон фисташка-карамель-пломбир, 48г",
       "brand": "MACARONIKA",
-      "attributes": {
-        "weight": 48,
+      "weight": "48",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 24.3,
         "carbohydrates": 56.8,
@@ -4009,8 +4009,8 @@
     {
       "name": "Кекс Ulker 8 Kek с клубникой, 40г",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -4020,8 +4020,8 @@
     {
       "name": "Кекс Ulker 8 Kek с бананом, 40г",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 40,
+      "weight": "40",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -4031,8 +4031,8 @@
     {
       "name": "Хлебцы Мистраль Fitstart рисовые манго-маракуйя, 100г",
       "brand": "FITSTART",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6,
         "fats": 1,
         "carbohydrates": 72,
@@ -4042,8 +4042,8 @@
     {
       "name": "Торт Кондитерская Прохорова Медовик, 80г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 6,
         "fats": 29,
         "carbohydrates": 49,
@@ -4053,8 +4053,8 @@
     {
       "name": "Хлеб Коломенский злаковый пшенично-ржаной с семенами подсолнечника и льна, 300г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 4,
         "carbohydrates": 43,
@@ -4064,8 +4064,8 @@
     {
       "name": "Сдоба Мастер Пирогов Венская с творогом, 150г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 9,
         "fats": 8.5,
         "carbohydrates": 51,
@@ -4075,8 +4075,8 @@
     {
       "name": "Кекс Kuchenmeister мраморный, 400г",
       "brand": "KUCHENMEISTER",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 22,
         "carbohydrates": 56,
@@ -4086,8 +4086,8 @@
     {
       "name": "Круассаны 7 Days мини с какао кремом, 105г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 47,
@@ -4097,8 +4097,8 @@
     {
       "name": "Торт Черемушки День торта Малиновое облако, 390г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 3,
         "fats": 22,
         "carbohydrates": 49,
@@ -4108,8 +4108,8 @@
     {
       "name": "Хлеб Коломенский злаковый ржано-пшеничный с пророщенным зерном ржи, 300г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 50,
@@ -4119,8 +4119,8 @@
     {
       "name": "Пирог Baker House Kuchen Шоколадный бисквитный, 350г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 16,
         "carbohydrates": 51,
@@ -4130,8 +4130,8 @@
     {
       "name": "Слойка Хлебный дом Сладкая клубника, 55г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 55,
+      "weight": "55",
+      "nutrients": {
         "proteins": 5,
         "fats": 14,
         "carbohydrates": 57,
@@ -4141,8 +4141,8 @@
     {
       "name": "Багет мини, 110г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 1.2,
         "carbohydrates": 54.9,
@@ -4152,8 +4152,8 @@
     {
       "name": "Круассан с маслом, 50г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 7.9,
         "fats": 15.7,
         "carbohydrates": 36.5,
@@ -4163,8 +4163,8 @@
     {
       "name": "Пирожное Тирольские пироги Панна-котта со сливками и клубничным смузи, 280г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 33,
         "fats": 4.7,
         "carbohydrates": 67.1,
@@ -4174,8 +4174,8 @@
     {
       "name": "Криспы Мистраль Итальянские, 110г",
       "brand": "МИСТРАЛЬ",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.6,
         "carbohydrates": 82.1,
@@ -4185,8 +4185,8 @@
     {
       "name": "Пирожные Тирольские пироги Вишня в шоколаде, 250г",
       "brand": "ТИРОЛЬСКИЕ ПИРОГИ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 2.9,
         "fats": 8.5,
         "carbohydrates": 34.7,
@@ -4196,8 +4196,8 @@
     {
       "name": "Булочка с корицей, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 26.8,
         "carbohydrates": 45.4,
@@ -4207,8 +4207,8 @@
     {
       "name": "Круассан с вареной сгущенкой Черемушки 80г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 8,
         "fats": 24,
         "carbohydrates": 46,
@@ -4218,8 +4218,8 @@
     {
       "name": "Торт Венский цех Груша-Карамель, 420г",
       "brand": "ВЕНСКИЙ ЦЕХ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 19,
         "carbohydrates": 45,
@@ -4229,8 +4229,8 @@
     {
       "name": "Круассан c малиной, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 7.8,
         "fats": 19.7,
         "carbohydrates": 47,
@@ -4240,8 +4240,8 @@
     {
       "name": "Плетенка Кленовый пекан, 85г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 85,
+      "weight": "85",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 27,
         "carbohydrates": 39,
@@ -4251,8 +4251,8 @@
     {
       "name": "Криспы Мистраль Канадские, 100г",
       "brand": "МИСТРАЛЬ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 10.1,
         "fats": 2.2,
         "carbohydrates": 81.1,
@@ -4262,8 +4262,8 @@
     {
       "name": "Круассан Chipicao XXL Какао (60г x 3шт), 180г",
       "brand": "CHIPICAO",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 42,
@@ -4273,8 +4273,8 @@
     {
       "name": "Пирожное Macaronika Макарон итальянская горгонзола, клубничный чизкейк, черничный йогурт, 48г",
       "brand": "MACARONIKA",
-      "attributes": {
-        "weight": 48,
+      "weight": "48",
+      "nutrients": {
         "proteins": 10.4,
         "fats": 22.3,
         "carbohydrates": 55.9,
@@ -4284,8 +4284,8 @@
     {
       "name": "Сочень с творогом и черносмородиновой начинкой, 70г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 16.1,
         "carbohydrates": 46.6,
@@ -4295,8 +4295,8 @@
     {
       "name": "Ватрушка с творогом, 100г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9,
         "fats": 5,
         "carbohydrates": 49,
@@ -4306,8 +4306,8 @@
     {
       "name": "Хлеб Пеко Медведковский заварной нарезка, 375г",
       "brand": "ПЕКО",
-      "attributes": {
-        "weight": 375,
+      "weight": "375",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 1.2,
         "carbohydrates": 40.1,
@@ -4317,8 +4317,8 @@
     {
       "name": "Мини-круассаны Chipicao с какао, 50г",
       "brand": "CHIPICAO",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 46,
@@ -4328,8 +4328,8 @@
     {
       "name": "Пирожное бисквитное Барни Шоколад, 30г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 15,
         "carbohydrates": 54,
@@ -4339,8 +4339,8 @@
     {
       "name": "Чиабатта темная, 205г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 205,
+      "weight": "205",
+      "nutrients": {
         "proteins": 8.3,
         "fats": 2.3,
         "carbohydrates": 43,
@@ -4350,8 +4350,8 @@
     {
       "name": "Сочень с творогом, 100г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 26,
         "carbohydrates": 63,
@@ -4361,8 +4361,8 @@
     {
       "name": "Слойка Черемушки с сыром, 90г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 7,
         "fats": 27,
         "carbohydrates": 29,
@@ -4372,8 +4372,8 @@
     {
       "name": "Круассан с марципаном, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 19.2,
         "carbohydrates": 45.7,
@@ -4383,8 +4383,8 @@
     {
       "name": "Круассан с шоколадом и орехом, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 6,
         "fats": 3,
         "carbohydrates": 36.9,
@@ -4394,8 +4394,8 @@
     {
       "name": "Хлеб Хлебозавод №22 Дарницкий, 700г",
       "brand": "ХЛЕБОЗАВОД №22",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 41,
@@ -4405,8 +4405,8 @@
     {
       "name": "Пирожное бисквитное Барни Молоко, 30г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 30,
+      "weight": "30",
+      "nutrients": {
         "proteins": 6.2,
         "fats": 14,
         "carbohydrates": 53,
@@ -4416,8 +4416,8 @@
     {
       "name": "Булочка Даллас, 90г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 8.1,
         "fats": 15.1,
         "carbohydrates": 48.5,
@@ -4427,8 +4427,8 @@
     {
       "name": "Торт Renardi лайм-базилик, 335г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 12.9,
         "carbohydrates": 29.4,
@@ -4438,8 +4438,8 @@
     {
       "name": "Пирожное слоеное Vicenzi Biscotti трубочка шоколад-фундук (25г x 5шт), 125г",
       "brand": "VICENZI",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 33,
         "carbohydrates": 55,
@@ -4449,8 +4449,8 @@
     {
       "name": "Торт Renardi творожный, 940г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 940,
+      "weight": "940",
+      "nutrients": {
         "proteins": 4.2,
         "fats": 7.8,
         "carbohydrates": 32.6,
@@ -4460,8 +4460,8 @@
     {
       "name": "Чизкейк Венский цех 370г",
       "brand": "ВЕНСКИЙ ЦЕХ",
-      "attributes": {
-        "weight": 370,
+      "weight": "370",
+      "nutrients": {
         "proteins": 5,
         "fats": 19,
         "carbohydrates": 38,
@@ -4471,8 +4471,8 @@
     {
       "name": "Бурек с картофелем и зеленью, 135г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 135,
+      "weight": "135",
+      "nutrients": {
         "proteins": 6,
         "fats": 10.9,
         "carbohydrates": 38.3,
@@ -4482,8 +4482,8 @@
     {
       "name": "Круассан c шоколадом, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 6,
         "fats": 3,
         "carbohydrates": 36.9,
@@ -4493,8 +4493,8 @@
     {
       "name": "Десерт 0 Калорий Чизкейк с карамелью, 100г",
       "brand": "0 КАЛОРИЙ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.7,
         "fats": 20.6,
         "carbohydrates": 13.5,
@@ -4504,8 +4504,8 @@
     {
       "name": "Торт У Палыча Зальцбургский шоколад с ягодами, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 3.8,
         "fats": 13.4,
         "carbohydrates": 28.1,
@@ -4515,8 +4515,8 @@
     {
       "name": "Чизкейк 0 Калорий с малиной и клубникой, 115г",
       "brand": "0 КАЛОРИЙ",
-      "attributes": {
-        "weight": 115,
+      "weight": "115",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 12.8,
         "carbohydrates": 11.1,
@@ -4526,8 +4526,8 @@
     {
       "name": "Набор пирожных Macaronika Мини-макарон, 60г",
       "brand": "MACARONIKA",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 22.3,
         "carbohydrates": 56.9,
@@ -4537,8 +4537,8 @@
     {
       "name": "Круассан с клубничной начинкой, 70г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 21,
         "carbohydrates": 52,
@@ -4548,8 +4548,8 @@
     {
       "name": "Набор пирожных Renardi Ассорти тарталеток, 225г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 225,
+      "weight": "225",
+      "nutrients": {
         "proteins": 7.6,
         "fats": 14.6,
         "carbohydrates": 54.8,
@@ -4559,8 +4559,8 @@
     {
       "name": "Профитроли Кондитерская Прохорова с соленой карамелью, 170г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 3,
         "fats": 25,
         "carbohydrates": 40,
@@ -4570,8 +4570,8 @@
     {
       "name": "Торт У Палыча Малина в тропиках, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 3,
         "fats": 10,
         "carbohydrates": 30.9,
@@ -4581,8 +4581,8 @@
     {
       "name": "Панна-котта Сладколюбоф сливочная с вишней, 110г",
       "brand": "СЛАДКОЛЮБОФ",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 3.7,
         "fats": 5.3,
         "carbohydrates": 9,
@@ -4592,8 +4592,8 @@
     {
       "name": "Торт У Палыча Сметанник легкий, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 11.9,
         "carbohydrates": 42.5,
@@ -4603,8 +4603,8 @@
     {
       "name": "Торт Renardi Йогуртовый с маракуйей, 800г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 13.4,
         "carbohydrates": 35.2,
@@ -4614,8 +4614,8 @@
     {
       "name": "Чизкейк 0 Калорий с пряником без сахара, 110г",
       "brand": "0 КАЛОРИЙ",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 5.6,
         "fats": 18.2,
         "carbohydrates": 17.3,
@@ -4625,8 +4625,8 @@
     {
       "name": "Пирожное Добрынинский Корзиночка с белковым кремом, 300г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 5,
         "fats": 32,
         "carbohydrates": 40,
@@ -4636,8 +4636,8 @@
     {
       "name": "Кекс Ulker 8 Kek с какао, 40г x 24 шт",
       "brand": "ULKER",
-      "attributes": {
-        "weight": 960,
+      "weight": "960",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 17,
         "carbohydrates": 60,
@@ -4647,8 +4647,8 @@
     {
       "name": "Торт Фили Бейкер Медовик сметанный, 450г",
       "brand": "ФИЛИ БЕЙКЕР",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -4658,8 +4658,8 @@
     {
       "name": "Булочка Bimbo Английский маффин 4шт, 60г",
       "brand": "BIMBO",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 1.5,
         "carbohydrates": 43,
@@ -4669,8 +4669,8 @@
     {
       "name": "Сдоба Пеко с шоколадно-ореховым кремом, 80г",
       "brand": "ПЕКО",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 9,
         "fats": 17,
         "carbohydrates": 68,
@@ -4680,8 +4680,8 @@
     {
       "name": "Пирожное бисквитное Медвежонок Барни с начинкой со вкусом вареного сгущенного молока, 150г x 20 шт",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 3000,
+      "weight": "3000",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 16,
         "carbohydrates": 52.5,
@@ -4691,8 +4691,8 @@
     {
       "name": "Сдоба Пеко с корицей, 80г",
       "brand": "ПЕКО",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 7,
         "fats": 8,
         "carbohydrates": 58,
@@ -4702,8 +4702,8 @@
     {
       "name": "Торт Черемушки Птичье молоко черничное, 600г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 18,
         "carbohydrates": 47,
@@ -4713,8 +4713,8 @@
     {
       "name": "Торт Черемушки День торта Наполеон, 640г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 640,
+      "weight": "640",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 42,
         "carbohydrates": 39,
@@ -4724,8 +4724,8 @@
     {
       "name": "Пирожное У Палыча Карманчики, 250г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 25.8,
         "carbohydrates": 35.6,
@@ -4735,8 +4735,8 @@
     {
       "name": "Торт У Палыча Тайская маракуйя, 500г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 13,
         "carbohydrates": 33,
@@ -4746,8 +4746,8 @@
     {
       "name": "Десерт 0 Калорий Энерго с гуараной клубникой и джус-боллами личи, 105г",
       "brand": "0 КАЛОРИЙ",
-      "attributes": {
-        "weight": 105,
+      "weight": "105",
+      "nutrients": {
         "proteins": 1.6,
         "fats": 3.2,
         "carbohydrates": 8.6,
@@ -4757,8 +4757,8 @@
     {
       "name": "Торт Кондитерская Прохорова Прага, 70г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 3,
         "fats": 7,
         "carbohydrates": 13,
@@ -4768,8 +4768,8 @@
     {
       "name": "Бурек с мясом, 135г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 135,
+      "weight": "135",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 9.1,
         "carbohydrates": 36.1,
@@ -4779,8 +4779,8 @@
     {
       "name": "Фондан У Палыча шоколадный, 300г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 21,
         "carbohydrates": 44.7,
@@ -4790,8 +4790,8 @@
     {
       "name": "Пирожное Медвежонок Барни бисквитное с молочной начинкой, 150г x 20 шт",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 3000,
+      "weight": "3000",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 15,
         "carbohydrates": 54,
@@ -4801,8 +4801,8 @@
     {
       "name": "METRO Chef Тесто слоеное дрожжевое замороженное, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 21.7,
         "carbohydrates": 37.2,
@@ -4812,8 +4812,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера черная с кунжутом замороженная 125мм (89г x 12шт), 1.068кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1068,
+      "weight": "1068",
+      "nutrients": {
         "proteins": 9,
         "fats": 4,
         "carbohydrates": 53,
@@ -4823,8 +4823,8 @@
     {
       "name": "METRO Chef Брецель с солью замороженный (90г x 15шт), 1.35кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1350,
+      "weight": "1350",
+      "nutrients": {
         "proteins": 7,
         "fats": 3,
         "carbohydrates": 46,
@@ -4834,8 +4834,8 @@
     {
       "name": "Торт Bakers Boutique Чизкейк Нью Йорк 16 порций замороженный, 1.7кг",
       "brand": "BAKERS BOUTIQUE",
-      "attributes": {
-        "weight": 1700,
+      "weight": "1700",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 8.5,
         "carbohydrates": 54.4,
@@ -4845,8 +4845,8 @@
     {
       "name": "METRO Chef Пирожное Фондан шоколадный мини замороженный (30г x 32шт), 960г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 960,
+      "weight": "960",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 20.9,
         "carbohydrates": 43,
@@ -4856,8 +4856,8 @@
     {
       "name": "Чизкейк Cheeseberry New-York замороженный, 100г",
       "brand": "CHEESEBERRY",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 20.3,
         "carbohydrates": 28.1,
@@ -4867,8 +4867,8 @@
     {
       "name": "Торт Кондитерская Прохорова Медовик, 500г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 6,
         "fats": 29,
         "carbohydrates": 49,
@@ -4878,8 +4878,8 @@
     {
       "name": "RIOBA Маффины замороженные (85г x 6шт), 510г",
       "brand": "RIOBA",
-      "attributes": {
-        "weight": 510,
+      "weight": "510",
+      "nutrients": {
         "proteins": 5,
         "fats": 24,
         "carbohydrates": 47,
@@ -4889,8 +4889,8 @@
     {
       "name": "Хлебцы Baker House с семенами тыквы, 250г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6,
         "fats": 8,
         "carbohydrates": 37,
@@ -4900,8 +4900,8 @@
     {
       "name": "Хлебцы Take a Bite гречневые без глютена, 150г",
       "brand": "TAKE A BITE",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 12,
         "fats": 2.5,
         "carbohydrates": 56,
@@ -4911,8 +4911,8 @@
     {
       "name": "Эклеры Mirel заварной крем, 250г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6.6,
         "fats": 21.1,
         "carbohydrates": 39.6,
@@ -4922,8 +4922,8 @@
     {
       "name": "Тесто Pa Food для спринг роллов Халяль замороженное, 550г",
       "brand": "PA FOOD",
-      "attributes": {
-        "weight": 550,
+      "weight": "550",
+      "nutrients": {
         "proteins": 7,
         "fats": 2,
         "carbohydrates": 67,
@@ -4933,8 +4933,8 @@
     {
       "name": "Хлебцы Take a Bite кукурузно-рисовые с луком без глютена, 150г",
       "brand": "TAKE A BITE",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 8,
         "fats": 1.5,
         "carbohydrates": 72,
@@ -4944,8 +4944,8 @@
     {
       "name": "Пирожное Ама Берлинское, 252г",
       "brand": "АМА",
-      "attributes": {
-        "weight": 252,
+      "weight": "252",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 25,
         "carbohydrates": 40,
@@ -4955,8 +4955,8 @@
     {
       "name": "METRO Chef Булочка для гамбургера зерновая замороженная 125мм (89г x 12шт), 1.068кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1068,
+      "weight": "1068",
+      "nutrients": {
         "proteins": 9,
         "fats": 4,
         "carbohydrates": 53,
@@ -4966,8 +4966,8 @@
     {
       "name": "Торт У Палыча Блинный, 900г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 6.8,
         "fats": 19.1,
         "carbohydrates": 50.5,
@@ -4977,8 +4977,8 @@
     {
       "name": "Кольцо Ама с творогом, 250г",
       "brand": "АМА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6,
         "fats": 20,
         "carbohydrates": 47,
@@ -4988,8 +4988,8 @@
     {
       "name": "Хлебцы Take a Bite рисовые с морковью и томатом без глютена, 150г",
       "brand": "TAKE A BITE",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 73,
@@ -4999,8 +4999,8 @@
     {
       "name": "Кекс Kuchenmeister с лимоном, 400г",
       "brand": "KUCHENMEISTER",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 23,
         "carbohydrates": 53,
@@ -5010,8 +5010,8 @@
     {
       "name": "Рулет бисквитный Яшкино клубничный со сливками, 200г",
       "brand": "ЯШКИНО",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 5,
         "fats": 13,
         "carbohydrates": 59,
@@ -5021,8 +5021,8 @@
     {
       "name": "Торт Кондитерская Прохорова Птичка суфлейный, 350г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 22,
         "carbohydrates": 59,
@@ -5032,8 +5032,8 @@
     {
       "name": "Торт Baker House Шварцвальд трехслойный бисквитный, 350г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 4,
         "fats": 12,
         "carbohydrates": 55,
@@ -5043,8 +5043,8 @@
     {
       "name": "Торт Кондитерская Прохорова Прага, 350г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 9,
         "fats": 20,
         "carbohydrates": 37,
@@ -5054,8 +5054,8 @@
     {
       "name": "Торт Rock'n'Cream чизкейк Нью-Йорк, 400г",
       "brand": "ROCK'N'CREAM",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4,
         "fats": 15.7,
         "carbohydrates": 28.8,
@@ -5065,8 +5065,8 @@
     {
       "name": "Рулет Мастер Пирогов с маком и изюмом, 250г",
       "brand": "МАСТЕР ПИРОГОВ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 8,
         "fats": 15,
         "carbohydrates": 23,
@@ -5076,8 +5076,8 @@
     {
       "name": "Круассан Chipicao с какао, 60г",
       "brand": "CHIPICAO",
-      "attributes": {
-        "weight": 60,
+      "weight": "60",
+      "nutrients": {
         "proteins": 7,
         "fats": 28,
         "carbohydrates": 42,
@@ -5087,8 +5087,8 @@
     {
       "name": "Торт Renardi Шоколадное ассорти, 830г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 830,
+      "weight": "830",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 19.1,
         "carbohydrates": 30.2,
@@ -5098,8 +5098,8 @@
     {
       "name": "Торт Rock'n'Cream чизкейк малина, 400г",
       "brand": "ROCK'N'CREAM",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 20.8,
         "carbohydrates": 28.8,
@@ -5109,8 +5109,8 @@
     {
       "name": "Пирожное бисквитное Акконд Рулик с карамелизированным молоком, 400г",
       "brand": "АККОНД",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7,
         "fats": 26,
         "carbohydrates": 47,
@@ -5120,8 +5120,8 @@
     {
       "name": "Пирожное бисквитное Акконд Рулик с вишней, 400г",
       "brand": "АККОНД",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6,
         "fats": 22,
         "carbohydrates": 51,
@@ -5131,8 +5131,8 @@
     {
       "name": "Чиабатта классическая мини замороженная (130г x 30шт), 3.9кг",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 3900,
+      "weight": "3900",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 1.2,
         "carbohydrates": 38.5,
@@ -5142,8 +5142,8 @@
     {
       "name": "Панна-котта Сладколюбоф сливочная манго-маракуйя, 150г",
       "brand": "СЛАДКОЛЮБОФ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 3.6,
         "fats": 5.8,
         "carbohydrates": 35.9,
@@ -5153,8 +5153,8 @@
     {
       "name": "Профитроли Кондитерская Прохорова с бельгийским шоколадом, 170г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 20,
         "carbohydrates": 35,
@@ -5164,8 +5164,8 @@
     {
       "name": "Профитроли Кондитерская Прохорова с пломбирным кремом, 170г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 20,
         "carbohydrates": 35,
@@ -5175,8 +5175,8 @@
     {
       "name": "Пирожное бисквитное Барни Абрикос (30г x 5шт), 150г",
       "brand": "БАРНИ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 9.7,
         "carbohydrates": 61,
@@ -5186,8 +5186,8 @@
     {
       "name": "Набор мини-чизкейков Rock'n'Cream 280г",
       "brand": "ROCK'N'CREAM",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 5.7,
         "fats": 17.4,
         "carbohydrates": 26.3,
@@ -5197,8 +5197,8 @@
     {
       "name": "Пирожное Добрынинский Графские развалины, 135г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 135,
+      "weight": "135",
+      "nutrients": {
         "proteins": 6,
         "fats": 15,
         "carbohydrates": 81,
@@ -5208,8 +5208,8 @@
     {
       "name": "Лаваш Коломенский армянский тонкий, 360г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 7,
         "fats": 2,
         "carbohydrates": 49,
@@ -5219,8 +5219,8 @@
     {
       "name": "Булочка для гамбургера Roberto мини (25г x 8шт), 200г",
       "brand": "ROBERTO",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 11,
         "fats": 4.3,
         "carbohydrates": 47,
@@ -5230,8 +5230,8 @@
     {
       "name": "Лаваш Ватутинки хлеб армянский тонкий, 350г",
       "brand": "ВАТУТИНКИ ХЛЕБ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 1.2,
         "carbohydrates": 55.8,
@@ -5241,8 +5241,8 @@
     {
       "name": "aro Батон Новый, 400г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 10.6,
         "fats": 1,
         "carbohydrates": 46,
@@ -5252,8 +5252,8 @@
     {
       "name": "Торт Mirel Бельгийский шоколад, 750г",
       "brand": "MIREL",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 5,
         "fats": 20,
         "carbohydrates": 27,
@@ -5263,8 +5263,8 @@
     {
       "name": "Круассаны Еврохлеб со вкусом и ароматом карамели замороженные (65г x 5шт), 325г",
       "brand": "ЕВРОХЛЕБ",
-      "attributes": {
-        "weight": 325,
+      "weight": "325",
+      "nutrients": {
         "proteins": 9,
         "fats": 19.4,
         "carbohydrates": 45.3,
@@ -5274,8 +5274,8 @@
     {
       "name": "Торт Добрынинский Москва воздушный, 500г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 9,
         "fats": 35,
         "carbohydrates": 41,
@@ -5285,8 +5285,8 @@
     {
       "name": "Хлебцы цельнозерновые Baker House ржаные с кориандром и морской солью, 180г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 15,
         "fats": 7.5,
         "carbohydrates": 73,
@@ -5296,8 +5296,8 @@
     {
       "name": "Хлеб Рижский хлеб ржаной со злаками бездрожжевой заварной, 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 6.5,
         "carbohydrates": 40.5,
@@ -5307,8 +5307,8 @@
     {
       "name": "Мини-пирожное Добрынинский ассорти 14шт, 573г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 315,
+      "weight": "315",
+      "nutrients": {
         "proteins": 4,
         "fats": 19,
         "carbohydrates": 46,
@@ -5318,8 +5318,8 @@
     {
       "name": "Хлебцы Baker House Итальянские с семенами подсолнечника, оливковым маслом и морской солью, 250г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6,
         "fats": 10,
         "carbohydrates": 72,
@@ -5329,8 +5329,8 @@
     {
       "name": "METRO Chef Булочка для хот-дога (60г x 4шт), 240г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 8,
         "fats": 3.5,
         "carbohydrates": 52,
@@ -5340,8 +5340,8 @@
     {
       "name": "Лаваш Рижский хлеб Премиум тонкий (150г х 2шт), 300г",
       "brand": "РИЖСКИЙ ХЛЕБ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 55,
@@ -5351,8 +5351,8 @@
     {
       "name": "aro Батон нарезной из пшеничной муки высшего сорта, 400г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 3,
         "carbohydrates": 51,
@@ -5362,8 +5362,8 @@
     {
       "name": "Багет половинка, 125г x 3 шт",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 375,
+      "weight": "375",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -5373,8 +5373,8 @@
     {
       "name": "Круассаны 7 Days лесной орех (4шт х 65г), 260г",
       "brand": "7 DAYS",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 43,
@@ -5384,8 +5384,8 @@
     {
       "name": "Батон Коломенский нарезной высший сорт, 200г",
       "brand": "КОЛОМЕНСКИЙ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2.9,
         "carbohydrates": 51.4,
@@ -5395,8 +5395,8 @@
     {
       "name": "Ватрушка Черемушки с творогом, 100г",
       "brand": "ЧЕРЕМУШКИ",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9,
         "fats": 19,
         "carbohydrates": 51,
@@ -5406,8 +5406,8 @@
     {
       "name": "Набор мини-тортов У Палыча Малиновый, Прага, Наполеон, Медовая фантазия, 400г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 21.8,
         "carbohydrates": 46.2,
@@ -5417,8 +5417,8 @@
     {
       "name": "Торт Кондитерская Прохорова Птичка суфлейный, 70г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 70,
+      "weight": "70",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 22,
         "carbohydrates": 59,
@@ -5428,8 +5428,8 @@
     {
       "name": "aro Круассаны без начинки замороженные (70г x 6шт), 420г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 20,
         "carbohydrates": 37,
@@ -5439,8 +5439,8 @@
     {
       "name": "Хлеб Хлебный дом зерновой, 300г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 10,
         "fats": 6.5,
         "carbohydrates": 51,
@@ -5450,8 +5450,8 @@
     {
       "name": "Багет пшеничный половинка, 125г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -5461,8 +5461,8 @@
     {
       "name": "Улитка с корицей, 80г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 80,
+      "weight": "80",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 14,
         "carbohydrates": 44.3,
@@ -5472,8 +5472,8 @@
     {
       "name": "METRO Chef Тортилья пшеничная 25см (60г х 12шт), 720г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 720,
+      "weight": "720",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 7.6,
         "carbohydrates": 48,
@@ -5483,8 +5483,8 @@
     {
       "name": "Хлеб Fanfan кукурузный заварной, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 7,
         "fats": 3,
         "carbohydrates": 44,
@@ -5494,8 +5494,8 @@
     {
       "name": "Торт La Bottega Della Torta с бананом и кусочками темного шоколада, 400г",
       "brand": "LA BOTTEGA DELLA TORTA",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5,
         "fats": 12,
         "carbohydrates": 55,
@@ -5505,8 +5505,8 @@
     {
       "name": "Торт La Bottega Della Torta Лимонный, 400г",
       "brand": "LA BOTTEGA DELLA TORTA",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 14,
         "carbohydrates": 52,
@@ -5516,8 +5516,8 @@
     {
       "name": "Бисквит Huamei молочный, 160г",
       "brand": "HUAMEI",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 17.7,
         "carbohydrates": 46.1,
@@ -5527,8 +5527,8 @@
     {
       "name": "Торт Rock'n'Cream Монтблан муссовый, 300г",
       "brand": "ROCK'N'CREAM",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 21.8,
         "carbohydrates": 29.5,
@@ -5538,8 +5538,8 @@
     {
       "name": "Хлеб Fanfan яблочный заварной замороженный, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 2,
         "carbohydrates": 45,
@@ -5549,8 +5549,8 @@
     {
       "name": "Хлеб Fanfan на заварке с пророщенным зерном замороженный, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 2,
         "carbohydrates": 45,
@@ -5560,8 +5560,8 @@
     {
       "name": "Батон Крымхлеб Крымский новый нарезной, 450г",
       "brand": "КРЫМХЛЕБ",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 2,
         "carbohydrates": 52,
@@ -5571,8 +5571,8 @@
     {
       "name": "Торт La Bottega Della Torta Ванильный с фисташковой начинкой, 400г",
       "brand": "LA BOTTEGA DELLA TORTA",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 5,
         "fats": 13,
         "carbohydrates": 52,
@@ -5582,8 +5582,8 @@
     {
       "name": "Торт Кондитерская Прохорова Брауни, 90г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 90,
+      "weight": "90",
+      "nutrients": {
         "proteins": 7,
         "fats": 27,
         "carbohydrates": 47,
@@ -5593,8 +5593,8 @@
     {
       "name": "Торт Кондитерская Прохорова Птичка с соленой карамелью, 350г",
       "brand": "КОНДИТЕРСКАЯ ПРОХОРОВА",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 24,
         "carbohydrates": 51,
@@ -5604,8 +5604,8 @@
     {
       "name": "Набор пирожных Macaronika Макарон новогодний, 96г",
       "brand": "MACARONIKA",
-      "attributes": {
-        "weight": 96,
+      "weight": "96",
+      "nutrients": {
         "proteins": 8.9,
         "fats": 16.4,
         "carbohydrates": 60.4,
@@ -5615,8 +5615,8 @@
     {
       "name": "Мини-тарты Baker House c карамельно-арахисовый начинкой, 240г",
       "brand": "BAKER HOUSE",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 5,
         "fats": 23,
         "carbohydrates": 64,
@@ -5626,8 +5626,8 @@
     {
       "name": "Багет мини Мираторг Французский для домашнего допекания, 260г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 1.4,
         "carbohydrates": 44,
@@ -5637,8 +5637,8 @@
     {
       "name": "Хлеб Fanfan кукурузный заварной замороженный, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7,
         "fats": 3,
         "carbohydrates": 44,
@@ -5648,8 +5648,8 @@
     {
       "name": "Багет Мираторг ржано-пшеничный для домашнего допекания, 260г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 6,
         "fats": 0.0,
         "carbohydrates": 40.5,
@@ -5659,8 +5659,8 @@
     {
       "name": "Круассан, 50г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 50,
+      "weight": "50",
+      "nutrients": {
         "proteins": 5.8,
         "fats": 14,
         "carbohydrates": 44.3,
@@ -5670,8 +5670,8 @@
     {
       "name": "Торт Renardi йогуртово-черничный, 325г",
       "brand": "RENARDI",
-      "attributes": {
-        "weight": 325,
+      "weight": "325",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 7.8,
         "carbohydrates": 33,
@@ -5681,8 +5681,8 @@
     {
       "name": "Тесто Тестов для чебуреков охлажденное, 500г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -5692,8 +5692,8 @@
     {
       "name": "Торт Rock'n'Cream Маракуйя, 380г",
       "brand": "ROCK'N'CREAM",
-      "attributes": {
-        "weight": 380,
+      "weight": "380",
+      "nutrients": {
         "proteins": 2.7,
         "fats": 8.6,
         "carbohydrates": 25.7,
@@ -5703,8 +5703,8 @@
     {
       "name": "Торт Бабаевский Белочка вафельный, 220г",
       "brand": "БАБАЕВСКИЙ",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5714,8 +5714,8 @@
     {
       "name": "Рулет У Палыча меренговый с фисташкой и малиной, 400г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4,
         "fats": 8.8,
         "carbohydrates": 50.2,
@@ -5725,8 +5725,8 @@
     {
       "name": "METRO Chef Тортилья пшеничная 20см, 444г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 444,
+      "weight": "444",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 7.6,
         "carbohydrates": 48,
@@ -5736,8 +5736,8 @@
     {
       "name": "Торт La Bottega Della Torta Какао, 400г",
       "brand": "LA BOTTEGA DELLA TORTA",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 6,
         "fats": 15,
         "carbohydrates": 53,
@@ -5747,8 +5747,8 @@
     {
       "name": "Чиабатта, 100г",
       "brand": "Без бренда",
-      "attributes": {
-        "weight": 100,
+      "weight": "100",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 1.8,
         "carbohydrates": 68.6,
@@ -5758,8 +5758,8 @@
     {
       "name": "Бисквит Huamei молочно-сливочный, 180г",
       "brand": "HUAMEI",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 8.3,
         "fats": 20.2,
         "carbohydrates": 43.3,
@@ -5769,8 +5769,8 @@
     {
       "name": "METRO Chef Тортилья пшеничная 30см (80г х 12шт), 960г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 960,
+      "weight": "960",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 7.6,
         "carbohydrates": 48,
@@ -5780,8 +5780,8 @@
     {
       "name": "METRO Chef Тарт малина замороженный, 915г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 915,
+      "weight": "915",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 10.6,
         "carbohydrates": 33.3,
@@ -5791,8 +5791,8 @@
     {
       "name": "Тесто Тестов для хинкали и мантов охлажденное, 500г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -5802,8 +5802,8 @@
     {
       "name": "Торт Коровка вафельный ассорти, 180г",
       "brand": "КОРОВКА",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5813,8 +5813,8 @@
     {
       "name": "Тесто Тестов для вареников и мантов охлажденное, 400г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 8,
         "fats": 1.3,
         "carbohydrates": 52,
@@ -5824,8 +5824,8 @@
     {
       "name": "Тесто Тестов для пельменей охлажденное, 360г",
       "brand": "ТЕСТОВ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 8,
         "fats": 1,
         "carbohydrates": 52,
@@ -5835,8 +5835,8 @@
     {
       "name": "Хлеб Fanfan яблочный заварной, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 2,
         "carbohydrates": 45,
@@ -5846,8 +5846,8 @@
     {
       "name": "METRO Chef Тортилья мультизерновая 25см (62.5г x 8шт), 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 9.1,
         "fats": 6.5,
         "carbohydrates": 50,
@@ -5857,8 +5857,8 @@
     {
       "name": "Торт Красный Октябрь Мишка косолапый, 220г",
       "brand": "КРАСНЫЙ ОКТЯБРЬ",
-      "attributes": {
-        "weight": null,
+      "weight": null,
+      "nutrients": {
         "proteins": null,
         "fats": null,
         "carbohydrates": null,
@@ -5868,8 +5868,8 @@
     {
       "name": "Хлеб Fanfan на заварке с пророщенным зерном, 280г",
       "brand": "FANFAN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 3,
         "carbohydrates": 43,
@@ -5879,8 +5879,8 @@
     {
       "name": "Торт Добрынинский Сказка, 500г",
       "brand": "ДОБРЫНИНСКИЙ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5,
         "fats": 21,
         "carbohydrates": 50,
@@ -5890,8 +5890,8 @@
     {
       "name": "Хлеб домашний Хлебный дом бездрожжевой, 350г",
       "brand": "ХЛЕБНЫЙ ДОМ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 1,
         "carbohydrates": 50,
@@ -5900,4 +5900,3 @@
     }
   ]
 }
-

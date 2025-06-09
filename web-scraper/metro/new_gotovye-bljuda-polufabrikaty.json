@@ -5,8 +5,8 @@
     {
       "name": "METRO Chef Наггетсы куриные замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 10.7,
         "fats": 8.8,
         "carbohydrates": 24.4,
@@ -16,8 +16,8 @@
     {
       "name": "METRO Chef Сырники замороженные, 900г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 14,
         "fats": 6,
         "carbohydrates": 21,
@@ -27,8 +27,8 @@
     {
       "name": "METRO Chef Стрипсы куриные замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 14.7,
         "fats": 9.2,
         "carbohydrates": 11.4,
@@ -38,8 +38,8 @@
     {
       "name": "METRO Chef Фрикадельки мясные замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 12,
         "fats": 16,
         "carbohydrates": 6.5,
@@ -49,8 +49,8 @@
     {
       "name": "METRO Chef Сырные палочки Моцарелла в панировке замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 13,
         "fats": 13,
         "carbohydrates": 27.2,
@@ -60,8 +60,8 @@
     {
       "name": "METRO Chef Сырники замороженные (70г х 100шт), 7кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 7000,
+      "weight": "7000",
+      "nutrients": {
         "proteins": 10.9,
         "fats": 13.3,
         "carbohydrates": 21,
@@ -71,8 +71,8 @@
     {
       "name": "METRO Chef Блины с мясом замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 8,
         "fats": 14,
         "carbohydrates": 15,
@@ -82,8 +82,8 @@
     {
       "name": "Наггетсы Мираторг Классические куриные замороженные, 300г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 13.5,
         "fats": 7.6,
         "carbohydrates": 14,
@@ -93,8 +93,8 @@
     {
       "name": "Блины Сибирская коллекция с мясом замороженные, 400г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 10,
         "fats": 13,
         "carbohydrates": 28,
@@ -104,8 +104,8 @@
     {
       "name": "METRO Chef Шарики сырные в панировке замороженные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14.8,
         "fats": 13.9,
         "carbohydrates": 23.8,
@@ -115,8 +115,8 @@
     {
       "name": "Пельмени Атяшево Premium Домашние замороженные, 2кг",
       "brand": "АТЯШЕВО",
-      "attributes": {
-        "weight": 2000,
+      "weight": "2000",
+      "nutrients": {
         "proteins": 12,
         "fats": 25,
         "carbohydrates": 23,
@@ -126,8 +126,8 @@
     {
       "name": "METRO Chef Сырные палочки в панировке замороженные, 300г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 13.8,
         "fats": 14.4,
         "carbohydrates": 24.9,
@@ -137,8 +137,8 @@
     {
       "name": "Пельмени Сибирская коллекция Selective С телятиной замороженные, 500г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14,
         "fats": 8.5,
         "carbohydrates": 17.5,
@@ -148,8 +148,8 @@
     {
       "name": "Пельмени мини Сибирская коллекция замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 11,
         "fats": 15,
         "carbohydrates": 25,
@@ -159,8 +159,8 @@
     {
       "name": "METRO Chef Вареники с картофелем и грибами замороженные, 800г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 3,
         "carbohydrates": 30,
@@ -170,8 +170,8 @@
     {
       "name": "Дамплинги Bibigo Королевские замороженные, 385г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 385,
+      "weight": "385",
+      "nutrients": {
         "proteins": 7.2,
         "fats": 14.1,
         "carbohydrates": 18.8,
@@ -181,8 +181,8 @@
     {
       "name": "Пицца Zotman Баварская мясная замороженная, 465г",
       "brand": "ZOTMAN",
-      "attributes": {
-        "weight": 465,
+      "weight": "465",
+      "nutrients": {
         "proteins": 9,
         "fats": 7,
         "carbohydrates": 20,
@@ -192,8 +192,8 @@
     {
       "name": "Пельмени Сибирская коллекция Gourmet с мраморной говядиной замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 13.3,
         "carbohydrates": 23,
@@ -203,8 +203,8 @@
     {
       "name": "Пицца Zotman Ветчина и грибы замороженная, 420г",
       "brand": "ZOTMAN",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 10,
         "fats": 8,
         "carbohydrates": 19,
@@ -214,8 +214,8 @@
     {
       "name": "METRO Chef Крылья куриные острые замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 16,
         "fats": 13,
         "carbohydrates": 3,
@@ -225,8 +225,8 @@
     {
       "name": "Фрикадельки Мираторг Шведские замороженные, 250г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 13.5,
         "fats": 21,
         "carbohydrates": 3.4,
@@ -236,8 +236,8 @@
     {
       "name": "Кордон блю Мираторг с ветчиной и сыром замороженный, 405г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 405,
+      "weight": "405",
+      "nutrients": {
         "proteins": 11.6,
         "fats": 12.5,
         "carbohydrates": 12.4,
@@ -247,8 +247,8 @@
     {
       "name": "METRO Chef Драники картофельные замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 2,
         "fats": 10.8,
         "carbohydrates": 15.3,
@@ -258,8 +258,8 @@
     {
       "name": "Пельмени Цезарь Государь император замороженные, 800г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 11,
         "fats": 18,
         "carbohydrates": 22.5,
@@ -269,8 +269,8 @@
     {
       "name": "METRO Chef Оладьи мини замороженные, 800г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 6,
         "fats": 4,
         "carbohydrates": 40,
@@ -280,8 +280,8 @@
     {
       "name": "Филе куриной грудки Золотой Петушок в панировке замороженное, 1.7кг",
       "brand": "ЗОЛОТОЙ ПЕТУШОК",
-      "attributes": {
-        "weight": 1700,
+      "weight": "1700",
+      "nutrients": {
         "proteins": 15,
         "fats": 7,
         "carbohydrates": 12,
@@ -291,8 +291,8 @@
     {
       "name": "Булочки Bibigo Бао со свининой замороженные (80г x 4шт), 320г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 7.3,
         "fats": 11.9,
         "carbohydrates": 33.5,
@@ -302,8 +302,8 @@
     {
       "name": "METRO Chef Крылышки куриные в панировке замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 12.3,
         "fats": 11.1,
         "carbohydrates": 13.8,
@@ -313,8 +313,8 @@
     {
       "name": "METRO Chef Сосиски из свинины вареные замороженные 17см, 750г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 7,
         "fats": 30,
         "carbohydrates": 1,
@@ -324,8 +324,8 @@
     {
       "name": "Пицца Zotman Четыре сыра замороженная, 395г",
       "brand": "ZOTMAN",
-      "attributes": {
-        "weight": 395,
+      "weight": "395",
+      "nutrients": {
         "proteins": 12,
         "fats": 10,
         "carbohydrates": 21,
@@ -335,8 +335,8 @@
     {
       "name": "METRO Chef Блины с клубникой замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 3,
         "fats": 6,
         "carbohydrates": 24,
@@ -346,8 +346,8 @@
     {
       "name": "Пельмени Сибирская коллекция Selective Говядина-свинина замороженные, 500г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 14.5,
         "fats": 8,
         "carbohydrates": 17.6,
@@ -357,8 +357,8 @@
     {
       "name": "Пельмени Сибирская коллекция Сибирские замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 25,
@@ -368,8 +368,8 @@
     {
       "name": "METRO Chef Вареники с вишней замороженные, 800г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 5,
         "fats": 1.5,
         "carbohydrates": 43,
@@ -379,8 +379,8 @@
     {
       "name": "Пицца La Trattoria Пепперони замороженная, 335г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 11.6,
         "fats": 15.1,
         "carbohydrates": 29.3,
@@ -390,8 +390,8 @@
     {
       "name": "Блины Сибирская коллекция с малиной замороженные, 400г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 6.5,
         "carbohydrates": 30.5,
@@ -401,8 +401,8 @@
     {
       "name": "METRO Chef Блины с ветчиной и сыром замороженные, 320г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 11,
         "fats": 12,
         "carbohydrates": 25,
@@ -412,8 +412,8 @@
     {
       "name": "METRO Chef Лазанья Болоньезе замороженная, 370г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 370,
+      "weight": "370",
+      "nutrients": {
         "proteins": 6,
         "fats": 6,
         "carbohydrates": 16,
@@ -423,8 +423,8 @@
     {
       "name": "Наггетсы Мираторг куриные с сыром замороженные, 300г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 12,
         "fats": 10.5,
         "carbohydrates": 16.5,
@@ -434,8 +434,8 @@
     {
       "name": "Пицца La Trattoria Четыре сыра замороженная, 335г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 10.4,
         "fats": 13.5,
         "carbohydrates": 29.7,
@@ -445,8 +445,8 @@
     {
       "name": "METRO Chef Сосиски для хот-дога говядина замороженные 17-18см, 750г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 10,
         "fats": 11,
         "carbohydrates": 0.4,
@@ -456,8 +456,8 @@
     {
       "name": "METRO Chef Блины с творогом замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 8,
         "fats": 10,
         "carbohydrates": 20,
@@ -467,8 +467,8 @@
     {
       "name": "METRO Chef Монетки из сыра с халапеньо замороженные, 1.5кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 12.6,
         "fats": 13.5,
         "carbohydrates": 29.1,
@@ -478,8 +478,8 @@
     {
       "name": "Булочки Bibigo Бао с чапче замороженные (80г x 4шт), 320г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 9.9,
         "carbohydrates": 33.9,
@@ -489,8 +489,8 @@
     {
       "name": "Пицца Zotman Маргарита замороженная, 390г",
       "brand": "ZOTMAN",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 10,
         "fats": 6,
         "carbohydrates": 22,
@@ -500,8 +500,8 @@
     {
       "name": "METRO Chef Наггетсы Традиционные куриные замороженные, 300г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 10.1,
         "fats": 12.4,
         "carbohydrates": 21.5,
@@ -511,8 +511,8 @@
     {
       "name": "METRO Chef Блины с творогом и изюмом замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 7,
         "fats": 14,
         "carbohydrates": 40,
@@ -522,8 +522,8 @@
     {
       "name": "Пицца La Trattoria Моцарелла замороженная, 335г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 10.6,
         "fats": 12.8,
         "carbohydrates": 27.6,
@@ -533,8 +533,8 @@
     {
       "name": "Пельмени мини Мираторг замороженные, 700г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 18,
         "carbohydrates": 29,
@@ -544,8 +544,8 @@
     {
       "name": "Пельмени Сибирская коллекция Фирменные замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 11,
         "fats": 13,
         "carbohydrates": 25,
@@ -555,8 +555,8 @@
     {
       "name": "Пицца La Trattoria Ассорти замороженная, 335г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 12.9,
         "carbohydrates": 26.2,
@@ -566,8 +566,8 @@
     {
       "name": "Котлеты Сибирская коллекция запеченные с говядиной замороженные, 280г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 16.5,
         "fats": 16,
         "carbohydrates": 3,
@@ -577,8 +577,8 @@
     {
       "name": "METRO Chef Блины с мясом замороженные, 320г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 12,
         "fats": 11,
         "carbohydrates": 26,
@@ -588,8 +588,8 @@
     {
       "name": "Пельмени Сибирская коллекция Gourmet Классические замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 25,
@@ -599,8 +599,8 @@
     {
       "name": "Хумус Sababa Рецепт из Иерусалима, 300г",
       "brand": "SABABA",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8.2,
         "fats": 9.6,
         "carbohydrates": 32.2,
@@ -610,8 +610,8 @@
     {
       "name": "Пицца Сибирская коллекция Маргарита замороженная, 365г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 365,
+      "weight": "365",
+      "nutrients": {
         "proteins": 12.2,
         "fats": 5.1,
         "carbohydrates": 25.2,
@@ -621,8 +621,8 @@
     {
       "name": "Пельмени Цезарь Домашние замороженные, 800г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12.3,
         "fats": 12.8,
         "carbohydrates": 23.3,
@@ -632,8 +632,8 @@
     {
       "name": "METRO Chef Наггетсы куриные с сыром замороженные, 300г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 10.4,
         "fats": 12,
         "carbohydrates": 16.8,
@@ -643,8 +643,8 @@
     {
       "name": "Крылышки гриль Золотой Петушок замороженные, 1.2кг",
       "brand": "ЗОЛОТОЙ ПЕТУШОК",
-      "attributes": {
-        "weight": 1200,
+      "weight": "1200",
+      "nutrients": {
         "proteins": 19.6,
         "fats": 11.1,
         "carbohydrates": 5.2,
@@ -654,8 +654,8 @@
     {
       "name": "Пицца Сибирская коллекция 4 сыра замороженная, 365г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 365,
+      "weight": "365",
+      "nutrients": {
         "proteins": 14.4,
         "fats": 8.9,
         "carbohydrates": 23,
@@ -665,8 +665,8 @@
     {
       "name": "Вареники Сибирская коллекция с картофелем и лисичками замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 4,
         "fats": 2.5,
         "carbohydrates": 25.8,
@@ -676,8 +676,8 @@
     {
       "name": "Котлеты растительные Hi для бургера замороженные, 900г",
       "brand": "HI",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 12.5,
         "fats": 20,
         "carbohydrates": 7,
@@ -687,8 +687,8 @@
     {
       "name": "Котлеты Мираторг со сливочным маслом и зеленью замороженные, 360г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 16.1,
         "carbohydrates": 11.2,
@@ -698,8 +698,8 @@
     {
       "name": "Чебуреки Горячая штучка замороженные 12шт, 1.08кг",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 1080,
+      "weight": "1080",
+      "nutrients": {
         "proteins": 7,
         "fats": 9,
         "carbohydrates": 40,
@@ -709,8 +709,8 @@
     {
       "name": "Наггетсы Мираторг куриные замороженные, 250г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 12.7,
         "fats": 9.3,
         "carbohydrates": 14.5,
@@ -720,8 +720,8 @@
     {
       "name": "Дамплинги Bibigo со свининой и кукурузой замороженные, 390г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 6.6,
         "carbohydrates": 14.6,
@@ -731,8 +731,8 @@
     {
       "name": "METRO Chef Блины с творогом замороженные, 320г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 11,
         "fats": 8,
         "carbohydrates": 30,
@@ -742,8 +742,8 @@
     {
       "name": "Хумус Sababa чили пикантный, 300г",
       "brand": "SABABA",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 7.7,
         "fats": 29.3,
         "carbohydrates": 10.1,
@@ -753,8 +753,8 @@
     {
       "name": "Наггетсы Мираторг куриные хрустящие замороженные, 300г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 13.6,
         "fats": 7.5,
         "carbohydrates": 7.5,
@@ -764,8 +764,8 @@
     {
       "name": "Блины Морозко с мясом замороженные, 420г",
       "brand": "МОРОЗКО",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 8.6,
         "fats": 10,
         "carbohydrates": 29,
@@ -775,8 +775,8 @@
     {
       "name": "Фарш растительный Hi для топпинга замороженный, 1кг",
       "brand": "HI",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 12.1,
         "fats": 19,
         "carbohydrates": 8.8,
@@ -786,8 +786,8 @@
     {
       "name": "Дамплинги Bibigo Королевские со вкусом барбекю замороженные, 385г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 385,
+      "weight": "385",
+      "nutrients": {
         "proteins": 10,
         "fats": 10.2,
         "carbohydrates": 19,
@@ -797,8 +797,8 @@
     {
       "name": "Пицца Сибирская коллекция Пепперони замороженная, 365г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 365,
+      "weight": "365",
+      "nutrients": {
         "proteins": 11,
         "fats": 9.3,
         "carbohydrates": 24.5,
@@ -808,8 +808,8 @@
     {
       "name": "Блины С Пылу с жару без начинки быстрозамороженные, 360г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 3.7,
         "fats": 3.4,
         "carbohydrates": 21,
@@ -819,8 +819,8 @@
     {
       "name": "Чебуреки Чебуречье говядина-свинина замороженные (125г x 12шт), 1.5кг",
       "brand": "ЧЕБУРЕЧЬЕ",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 9.3,
         "fats": 12.5,
         "carbohydrates": 27.9,
@@ -830,8 +830,8 @@
     {
       "name": "Блины Сибирская коллекция с творогом замороженные, 400г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7,
         "fats": 8.5,
         "carbohydrates": 32,
@@ -841,8 +841,8 @@
     {
       "name": "Наггетсы Hi Higgets Халяль растительные замороженные, 200г",
       "brand": "HI",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 15,
         "carbohydrates": 16.7,
@@ -852,8 +852,8 @@
     {
       "name": "Вареники У Палыча с картофелем замороженные, 450г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 4,
         "carbohydrates": 30,
@@ -863,8 +863,8 @@
     {
       "name": "Кусочки филе цыпленка Золотой Петушок в панировке замороженные, 1.7кг",
       "brand": "ЗОЛОТОЙ ПЕТУШОК",
-      "attributes": {
-        "weight": 1700,
+      "weight": "1700",
+      "nutrients": {
         "proteins": 12.9,
         "fats": 11.8,
         "carbohydrates": 16.7,
@@ -874,8 +874,8 @@
     {
       "name": "METRO Chef Блины с вишней замороженные, 320г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 6,
         "fats": 6,
         "carbohydrates": 35,
@@ -885,8 +885,8 @@
     {
       "name": "Дамплинги Bibigo курица и овощи замороженные, 385г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 385,
+      "weight": "385",
+      "nutrients": {
         "proteins": 8.7,
         "fats": 4.7,
         "carbohydrates": 17.7,
@@ -896,8 +896,8 @@
     {
       "name": "Пицца Сибирская коллекция Фирменная замороженная, 420г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 11.6,
         "fats": 5.5,
         "carbohydrates": 21.8,
@@ -907,8 +907,8 @@
     {
       "name": "Хинкали Сибирская коллекция ручная коллекция с мясом и зеленью замороженные, 490г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 490,
+      "weight": "490",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 4,
         "carbohydrates": 27.5,
@@ -918,8 +918,8 @@
     {
       "name": "Салат Fresh Secret морковь по-корейски, 600г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 1.6,
         "fats": 9,
         "carbohydrates": 5.3,
@@ -929,8 +929,8 @@
     {
       "name": "Пельмени Останкино замороженные, 500г",
       "brand": "ОСТАНКИНО",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 10,
         "fats": 10,
         "carbohydrates": 31,
@@ -940,8 +940,8 @@
     {
       "name": "METRO Chef Блины с яблоком замороженные, 320г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 320,
+      "weight": "320",
+      "nutrients": {
         "proteins": 6,
         "fats": 6,
         "carbohydrates": 41,
@@ -951,8 +951,8 @@
     {
       "name": "Пицца Zotman Груша и горгонзола замороженная, 415г",
       "brand": "ZOTMAN",
-      "attributes": {
-        "weight": 415,
+      "weight": "415",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 24,
@@ -962,8 +962,8 @@
     {
       "name": "Паэлья Мираторг с морепродуктами в соусе Севилья замороженная, 400г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 12.9,
         "carbohydrates": 26.4,
@@ -973,8 +973,8 @@
     {
       "name": "METRO Chef Блины Классические круглые замороженные, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 3,
         "fats": 3,
         "carbohydrates": 11,
@@ -984,8 +984,8 @@
     {
       "name": "METRO Chef Пицца Салями замороженная 27см, 330г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 330,
+      "weight": "330",
+      "nutrients": {
         "proteins": 11,
         "fats": 8.5,
         "carbohydrates": 28,
@@ -995,8 +995,8 @@
     {
       "name": "Пирог Алания продукт Осетинский с сыром замороженный, 500г",
       "brand": "АЛАНИЯ ПРОДУКТ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 15,
         "fats": 18,
         "carbohydrates": 65,
@@ -1006,8 +1006,8 @@
     {
       "name": "Котлеты Сибирская коллекция запеченные с индейкой замороженные, 280г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 14,
         "fats": 15.5,
         "carbohydrates": 1.3,
@@ -1017,8 +1017,8 @@
     {
       "name": "Пицца PizzArte римская Ветчина и грибы замороженная, 420г",
       "brand": "PIZZARTE",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 10,
         "fats": 8,
         "carbohydrates": 22,
@@ -1028,8 +1028,8 @@
     {
       "name": "Вареники Сибирская коллекция с картофелем и грибами двулепные замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 7,
         "fats": 4,
         "carbohydrates": 28,
@@ -1039,8 +1039,8 @@
     {
       "name": "Салат Creative Kitchen Оливье, 400г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 14.3,
         "carbohydrates": 7.1,
@@ -1050,8 +1050,8 @@
     {
       "name": "Вареники У Палыча с вишней замороженные, 450г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 4.5,
         "fats": 1,
         "carbohydrates": 43,
@@ -1061,8 +1061,8 @@
     {
       "name": "Пельмени Горячая штучка Бульмени с говядиной и свининой замороженные, 700г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 8,
         "fats": 10,
         "carbohydrates": 29,
@@ -1072,8 +1072,8 @@
     {
       "name": "Вареники Цезарь картофель-жареный лучок замороженные, 600г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 5,
         "fats": 10.5,
         "carbohydrates": 30,
@@ -1083,8 +1083,8 @@
     {
       "name": "Дамплинги Bibigo Vegan с грибами замороженные, 420г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 5.9,
         "carbohydrates": 23,
@@ -1094,8 +1094,8 @@
     {
       "name": "Пицца Цезарь Четыре сыра замороженная, 390г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 15,
         "carbohydrates": 23,
@@ -1105,8 +1105,8 @@
     {
       "name": "Чебурек Жаренки Богатырь с мясом замороженный, 180г",
       "brand": "ЖАРЕНКИ",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 9,
         "fats": 15,
         "carbohydrates": 32,
@@ -1116,8 +1116,8 @@
     {
       "name": "Котлеты растительные Hi классические замороженные, 200г",
       "brand": "HI",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 10,
         "fats": 19,
         "carbohydrates": 4.7,
@@ -1127,8 +1127,8 @@
     {
       "name": "Блины С Пылу с жару с творогом замороженные, 360г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 5,
         "fats": 3,
         "carbohydrates": 22,
@@ -1138,8 +1138,8 @@
     {
       "name": "Хачапури по-мегрельски Давняя Традиция замороженная, 400г",
       "brand": "ДАВНЯЯ ТРАДИЦИЯ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 12.3,
         "fats": 38.7,
         "carbohydrates": 9.6,
@@ -1149,8 +1149,8 @@
     {
       "name": "Пельмени Сибирская коллекция Русские замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 15,
         "carbohydrates": 25,
@@ -1160,8 +1160,8 @@
     {
       "name": "Пельмени Цезарь Классика замороженные, 800г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 21.2,
         "carbohydrates": 27.3,
@@ -1171,8 +1171,8 @@
     {
       "name": "Чебупицца Горячая штучка Пепперони замороженная, 250г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 19,
         "carbohydrates": 31,
@@ -1182,8 +1182,8 @@
     {
       "name": "Бифштекс Сытоедов из говядины с картофельным пюре замороженный, 350г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6,
         "fats": 8.8,
         "carbohydrates": 8.5,
@@ -1193,8 +1193,8 @@
     {
       "name": "Равиоли У Палыча с грибами и сливочным сыром замороженные, 400г",
       "brand": "У ПАЛЫЧА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 8.3,
         "fats": 10.7,
         "carbohydrates": 28.6,
@@ -1204,8 +1204,8 @@
     {
       "name": "Пицца Цезарь с ветчиной и грибами замороженная, 420г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 13,
         "carbohydrates": 23,
@@ -1215,8 +1215,8 @@
     {
       "name": "Попкорн Мираторг куриный замороженный, 200г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 13.9,
         "fats": 9.1,
         "carbohydrates": 12.8,
@@ -1226,8 +1226,8 @@
     {
       "name": "Блинчики Морозко ветчина-сыр замороженные (70г x 6шт), 420г",
       "brand": "МОРОЗКО",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 11.8,
         "carbohydrates": 26.1,
@@ -1237,8 +1237,8 @@
     {
       "name": "Блины С Пылу с жару с мясом замороженные, 360г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 3.5,
         "carbohydrates": 19,
@@ -1248,8 +1248,8 @@
     {
       "name": "METRO Chef Пицца Маргарита замороженная 27см, 310г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 310,
+      "weight": "310",
+      "nutrients": {
         "proteins": 10,
         "fats": 7.2,
         "carbohydrates": 30,
@@ -1259,8 +1259,8 @@
     {
       "name": "Блины С Пылу с жару с ветчиной и сыром замороженные, 360г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 8,
         "fats": 8,
         "carbohydrates": 29,
@@ -1270,8 +1270,8 @@
     {
       "name": "aro Чебурек классический замороженный, 125г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 7,
         "carbohydrates": 29,
@@ -1281,8 +1281,8 @@
     {
       "name": "METRO Chef Пицца Тунец замороженная 27см, 385г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 385,
+      "weight": "385",
+      "nutrients": {
         "proteins": 10,
         "fats": 7.7,
         "carbohydrates": 24,
@@ -1292,8 +1292,8 @@
     {
       "name": "Салат Creative Kitchen Мимоза, 400г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 8.1,
         "fats": 17.6,
         "carbohydrates": 15.1,
@@ -1303,8 +1303,8 @@
     {
       "name": "Пирог Алания продукт Осетинский мраморная говядина замороженный, 500г",
       "brand": "АЛАНИЯ ПРОДУКТ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 7.8,
         "fats": 9.2,
         "carbohydrates": 41.1,
@@ -1314,8 +1314,8 @@
     {
       "name": "Бефстроганов Creative Kitchen из говядины с картофельным пюре, 280г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 13.1,
         "fats": 5.5,
         "carbohydrates": 104,
@@ -1325,8 +1325,8 @@
     {
       "name": "Чебупицца Горячая штучка курочка по-итальянски замороженная, 250г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 8,
         "fats": 13,
         "carbohydrates": 29,
@@ -1336,8 +1336,8 @@
     {
       "name": "Пельмени Цезарь Гордость Сибири замороженные, 800г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12,
         "fats": 21.2,
         "carbohydrates": 27.3,
@@ -1347,8 +1347,8 @@
     {
       "name": "Пельмени Горячая штучка Бульмени со сливочным маслом замороженные, 400г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 29,
@@ -1358,8 +1358,8 @@
     {
       "name": "Фрикадельки Hi Hiballs Халяль растительные замороженные, 250г",
       "brand": "HI",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 10,
         "fats": 19,
         "carbohydrates": 4.7,
@@ -1369,8 +1369,8 @@
     {
       "name": "Борщ Сытоедов Черниговский замороженный, 300г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 2,
         "fats": 2,
         "carbohydrates": 5,
@@ -1380,8 +1380,8 @@
     {
       "name": "Хотстеры Горячая штучка готовые замороженные, 250г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 8,
         "fats": 12,
         "carbohydrates": 17,
@@ -1391,8 +1391,8 @@
     {
       "name": "Пирог Алания продукт Осетинский с картофелем и сыром замороженный, 500г",
       "brand": "АЛАНИЯ ПРОДУКТ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 15,
         "fats": 18,
         "carbohydrates": 65,
@@ -1402,8 +1402,8 @@
     {
       "name": "Пельмени Сибирская коллекция с фаршем на молоке замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 20.7,
@@ -1413,8 +1413,8 @@
     {
       "name": "Котлеты растительные Hi со вкусом курицы замороженные, 280г",
       "brand": "HI",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 13,
         "carbohydrates": 8,
@@ -1424,8 +1424,8 @@
     {
       "name": "Пельмени Мираторг Богатырский рецепт замороженные, 700г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 19,
         "carbohydrates": 30,
@@ -1435,8 +1435,8 @@
     {
       "name": "Бельмеши Горячая штучка Сочные с мясом замороженные, 300г",
       "brand": "ГОРЯЧАЯ ШТУЧКА",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 11,
         "carbohydrates": 34,
@@ -1446,8 +1446,8 @@
     {
       "name": "Роллы Киммари Bibigo со стеклянной лапшой в темпуре замороженные, 400г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 1.49,
         "fats": 5.28,
         "carbohydrates": 27,
@@ -1457,8 +1457,8 @@
     {
       "name": "Филе куриное Creative Kitchen с овощами гриль, 240г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 10.4,
         "fats": 3.8,
         "carbohydrates": 23.3,
@@ -1468,8 +1468,8 @@
     {
       "name": "METRO Chef Морковь По-корейски маринованная, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 1.2,
         "fats": 7,
         "carbohydrates": 10.7,
@@ -1479,8 +1479,8 @@
     {
       "name": "Хумус Перекусовъ классический, 150г",
       "brand": "ПЕРЕКУСОВЪ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 20,
         "carbohydrates": 10,
@@ -1490,8 +1490,8 @@
     {
       "name": "Феттучини Сытоедов с мясом цыпленка замороженные, 350г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 5.5,
         "carbohydrates": 13,
@@ -1501,8 +1501,8 @@
     {
       "name": "Перчик черри Meggle со сливочным сыром, 210г",
       "brand": "MEGGLE",
-      "attributes": {
-        "weight": 210,
+      "weight": "210",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 9,
         "carbohydrates": 9.6,
@@ -1512,8 +1512,8 @@
     {
       "name": "Рис жареный Bibigo с кимчи и сыром замороженный, 510г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 510,
+      "weight": "510",
+      "nutrients": {
         "proteins": 4,
         "fats": 5.74,
         "carbohydrates": 25.02,
@@ -1523,8 +1523,8 @@
     {
       "name": "Пельмени Сибирская коллекция Сочные со сливочным маслом замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 20.7,
@@ -1534,8 +1534,8 @@
     {
       "name": "Перец черри Ellenika сладкий пикантный со сливочным сыром, 230г",
       "brand": "ELLENIKA",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 4,
         "fats": 11.6,
         "carbohydrates": 11.1,
@@ -1545,8 +1545,8 @@
     {
       "name": "Паста Мираторг карбонара с сыром и беконом, 260г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 4.15,
         "fats": 7.93,
         "carbohydrates": 21.67,
@@ -1556,8 +1556,8 @@
     {
       "name": "Салат Creative Kitchen мимоза, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 9.4,
         "fats": 19.1,
         "carbohydrates": 15.8,
@@ -1567,8 +1567,8 @@
     {
       "name": "Феттучини Мираторг с морепродуктами в соусе Неаполитано замороженные, 400г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 11.64,
         "fats": 4.53,
         "carbohydrates": 25.06,
@@ -1578,8 +1578,8 @@
     {
       "name": "Пельмени Сибирская коллекция с телятиной замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 15,
         "carbohydrates": 25,
@@ -1589,8 +1589,8 @@
     {
       "name": "Пельмени Мираторг классические замороженные, 700г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 18,
         "carbohydrates": 29,
@@ -1600,8 +1600,8 @@
     {
       "name": "Хумус Перекусовъ с кедровыми орехами, 150г",
       "brand": "ПЕРЕКУСОВЪ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6,
         "fats": 20,
         "carbohydrates": 10,
@@ -1611,8 +1611,8 @@
     {
       "name": "Блины С Пылу с жару с вишней замороженные, 360г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 360,
+      "weight": "360",
+      "nutrients": {
         "proteins": 3,
         "fats": 2.5,
         "carbohydrates": 29,
@@ -1622,8 +1622,8 @@
     {
       "name": "Салат Creative Kitchen Сельдь под шубой, 400г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 20.4,
         "carbohydrates": 6.9,
@@ -1633,8 +1633,8 @@
     {
       "name": "Драники От Ильиной из картофеля замороженные (60г x 4шт), 240г",
       "brand": "ОТ ИЛЬИНОЙ",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 2,
         "fats": 0.3,
         "carbohydrates": 16,
@@ -1644,8 +1644,8 @@
     {
       "name": "Пельмени Мираторг Black Angus из мраморной говядины замороженные, 800г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12,
         "fats": 15,
         "carbohydrates": 28,
@@ -1655,8 +1655,8 @@
     {
       "name": "Жюльен Сытоедов из курицы с белыми грибами и шампиньонами замороженный (125г х 2шт), 250г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.2,
         "fats": 5,
         "carbohydrates": 15,
@@ -1666,8 +1666,8 @@
     {
       "name": "Оладьи С Пылу с жару с изюмом быстрозамороженные, 280г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 2.5,
         "carbohydrates": 45,
@@ -1677,8 +1677,8 @@
     {
       "name": "Салат Creative Kitchen Цезарь классический, 200г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 6,
         "fats": 23,
         "carbohydrates": 2.3,
@@ -1688,8 +1688,8 @@
     {
       "name": "METRO Chef Морковь По-корейски маринованная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 1.6,
         "fats": 3,
         "carbohydrates": 4,
@@ -1699,8 +1699,8 @@
     {
       "name": "Пельмени Мираторг со сливочным маслом замороженные, 700г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 18,
         "carbohydrates": 39,
@@ -1710,8 +1710,8 @@
     {
       "name": "Хумус Салаты и Деликатесы классический, 200г",
       "brand": "САЛАТЫ И ДЕЛИКАТЕСЫ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 16,
         "fats": 25,
         "carbohydrates": 14,
@@ -1721,8 +1721,8 @@
     {
       "name": "Салат Fresh Secret спаржа по-корейски, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 1.6,
         "fats": 7,
         "carbohydrates": 5.5,
@@ -1732,8 +1732,8 @@
     {
       "name": "METRO Chef Спаржа По-корейски маринованная, 150г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 1.4,
         "fats": 3,
         "carbohydrates": 5,
@@ -1743,8 +1743,8 @@
     {
       "name": "Хумус Перекусовъ с паприкой и петрушкой, 150г",
       "brand": "ПЕРЕКУСОВЪ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 20,
         "carbohydrates": 10,
@@ -1754,8 +1754,8 @@
     {
       "name": "Грудка куриная Сытоедов в тесте с соусом Сюпрем и картофельным пюре замороженная, 350г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 5,
         "fats": 5.5,
         "carbohydrates": 8.5,
@@ -1765,8 +1765,8 @@
     {
       "name": "Салат Fresh Secret оливье с ветчиной, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 3,
         "fats": 18.9,
         "carbohydrates": 8,
@@ -1776,8 +1776,8 @@
     {
       "name": "METRO Chef Пицца Салями, ветчина и грибы замороженная 27см, 340г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 340,
+      "weight": "340",
+      "nutrients": {
         "proteins": 9.6,
         "fats": 7.7,
         "carbohydrates": 27,
@@ -1787,8 +1787,8 @@
     {
       "name": "Перчик Meggle золотой со сливочным сыром, 210г",
       "brand": "MEGGLE",
-      "attributes": {
-        "weight": 210,
+      "weight": "210",
+      "nutrients": {
         "proteins": 3.7,
         "fats": 8.4,
         "carbohydrates": 11.2,
@@ -1798,8 +1798,8 @@
     {
       "name": "Пицца La Trattoria Гавайская с курицей и ананасами замороженная, 335г",
       "brand": "LA TRATTORIA",
-      "attributes": {
-        "weight": 335,
+      "weight": "335",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 24,
@@ -1809,8 +1809,8 @@
     {
       "name": "Салат Fresh Secret винегрет, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 1.7,
         "fats": 5.1,
         "carbohydrates": 9.1,
@@ -1820,8 +1820,8 @@
     {
       "name": "Жюльен Сытоедов из курицы с грибами замороженный (125г х 2шт), 250г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.4,
         "fats": 9.1,
         "carbohydrates": 6.9,
@@ -1831,8 +1831,8 @@
     {
       "name": "Сэндвич Creative Kitchen ветчина-сыр, 220г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 6.1,
         "fats": 13,
         "carbohydrates": 19.3,
@@ -1842,8 +1842,8 @@
     {
       "name": "Сэндвич Смак курица и бекон замороженный, 150г",
       "brand": "СМАК",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 11.5,
         "carbohydrates": 46.7,
@@ -1853,8 +1853,8 @@
     {
       "name": "Каппеллетти Voltan с сыровяленой ветчиной, 250г",
       "brand": "VOLTAN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 12,
         "fats": 7.4,
         "carbohydrates": 43,
@@ -1864,8 +1864,8 @@
     {
       "name": "Перец Ellenika острый со сливочным сыром, 230г",
       "brand": "ELLENIKA",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 5.1,
         "fats": 11,
         "carbohydrates": 4.2,
@@ -1875,8 +1875,8 @@
     {
       "name": "Сакеттини Solo Fresco с курицей, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 15,
         "fats": 9,
         "carbohydrates": 34,
@@ -1886,8 +1886,8 @@
     {
       "name": "Салат Creative Kitchen оливье, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 4.3,
         "fats": 13.2,
         "carbohydrates": 5.6,
@@ -1897,8 +1897,8 @@
     {
       "name": "Салат Fresh Secret сельдь под шубой, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 7.3,
         "fats": 16.2,
         "carbohydrates": 5.1,
@@ -1908,8 +1908,8 @@
     {
       "name": "Наггетсы картофельные Мираторг замороженные, 250г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3,
         "fats": 8.5,
         "carbohydrates": 17.6,
@@ -1919,8 +1919,8 @@
     {
       "name": "Пельмени Сибирская коллекция 4 мяса замороженные, 700г",
       "brand": "СИБИРСКАЯ КОЛЛЕКЦИЯ",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 10,
         "fats": 14,
         "carbohydrates": 25,
@@ -1930,8 +1930,8 @@
     {
       "name": "Суп Creative Kitchen пюре грибной, 300г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 1.8,
         "fats": 3,
         "carbohydrates": 5.5,
@@ -1941,8 +1941,8 @@
     {
       "name": "METRO Chef Спаржа По-корейски маринованная, 500г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 42,
         "fats": 22,
         "carbohydrates": 19,
@@ -1952,8 +1952,8 @@
     {
       "name": "Салат Creative Kitchen Сельдь под шубой, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.3,
         "fats": 11.2,
         "carbohydrates": 6.6,
@@ -1963,8 +1963,8 @@
     {
       "name": "Лазанья Мираторг с ветчиной, сыром и томатным соусом замороженная, 350г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 5.9,
         "fats": 8.6,
         "carbohydrates": 17.4,
@@ -1974,8 +1974,8 @@
     {
       "name": "Пельмени Цезарь фирменные №1 замороженные, 900г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 900,
+      "weight": "900",
+      "nutrients": {
         "proteins": 11.6,
         "fats": 10.8,
         "carbohydrates": 28.7,
@@ -1985,8 +1985,8 @@
     {
       "name": "Морковь Данессия по-корейски острая, 450г",
       "brand": "ДАНЕССИЯ",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 1.2,
         "fats": 7,
         "carbohydrates": 10.7,
@@ -1996,8 +1996,8 @@
     {
       "name": "Круассан Мираторг с сыром и ветчиной, 110г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 11.09,
         "fats": 26.6,
         "carbohydrates": 26.93,
@@ -2007,8 +2007,8 @@
     {
       "name": "Суп-лапша Сытоедов домашняя с курицей замороженный, 300г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 3,
         "fats": 5,
         "carbohydrates": 4,
@@ -2018,8 +2018,8 @@
     {
       "name": "Каша Creative Kitchen рисовая, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3.2,
         "fats": 2.9,
         "carbohydrates": 13.5,
@@ -2029,8 +2029,8 @@
     {
       "name": "Сырники Creative Kitchen творожные, 140г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 140,
+      "weight": "140",
+      "nutrients": {
         "proteins": 13,
         "fats": 11,
         "carbohydrates": 22,
@@ -2040,8 +2040,8 @@
     {
       "name": "Фрикадельки Мираторг с гречкой под красным соусом, 260г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 5.2,
         "fats": 5.7,
         "carbohydrates": 11.2,
@@ -2051,8 +2051,8 @@
     {
       "name": "Перчики Terra del Gusto черри со сливочным сыром, 250г",
       "brand": "TERRA DEL GUSTO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 25,
         "carbohydrates": 3.3,
@@ -2062,8 +2062,8 @@
     {
       "name": "Блины Мираторг с яблоком и корицей, 280г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 4,
         "fats": 5,
         "carbohydrates": 17,
@@ -2073,8 +2073,8 @@
     {
       "name": "Салат Fresh Secret шампиньоны маринованные по-корейски, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 0.4,
         "fats": 6.1,
         "carbohydrates": 1.1,
@@ -2084,8 +2084,8 @@
     {
       "name": "Салат Fresh Secret баклажаны по-корейски, 600г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 600,
+      "weight": "600",
+      "nutrients": {
         "proteins": 1.2,
         "fats": 9,
         "carbohydrates": 6.5,
@@ -2095,8 +2095,8 @@
     {
       "name": "aro Пицца с колбасой замороженная диаметр 235мм, 300г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 13,
         "carbohydrates": 29,
@@ -2106,8 +2106,8 @@
     {
       "name": "Лазанья Мираторг с курицей и грибами замороженная, 350г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 4.7,
         "carbohydrates": 15.3,
@@ -2117,8 +2117,8 @@
     {
       "name": "Салат Fresh Secret Французский морковный с сыром и чесноком, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 3.1,
         "fats": 17.3,
         "carbohydrates": 5.6,
@@ -2128,8 +2128,8 @@
     {
       "name": "aro Пицца ассорти замороженная диаметр 235мм, 300г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8.5,
         "fats": 9,
         "carbohydrates": 29.5,
@@ -2139,8 +2139,8 @@
     {
       "name": "Чиабатта Мираторг с ветчиной в горчичном соусе, 190г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 190,
+      "weight": "190",
+      "nutrients": {
         "proteins": 9.53,
         "fats": 2.86,
         "carbohydrates": 16.91,
@@ -2150,8 +2150,8 @@
     {
       "name": "Круассан Мираторг дабл чиз, 130г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 130,
+      "weight": "130",
+      "nutrients": {
         "proteins": 12.02,
         "fats": 25.78,
         "carbohydrates": 22.98,
@@ -2161,8 +2161,8 @@
     {
       "name": "Солянка Creative Kitchen сборная мясная, 300г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 4.3,
         "carbohydrates": 3.6,
@@ -2172,8 +2172,8 @@
     {
       "name": "Паста карбонара Мираторг сыр-бекон замороженная, 260г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 260,
+      "weight": "260",
+      "nutrients": {
         "proteins": 4.15,
         "fats": 7.93,
         "carbohydrates": 21.67,
@@ -2183,8 +2183,8 @@
     {
       "name": "Чиабатта Мираторг с куриным филе, 165г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 165,
+      "weight": "165",
+      "nutrients": {
         "proteins": 12.6,
         "fats": 7.8,
         "carbohydrates": 27.74,
@@ -2194,8 +2194,8 @@
     {
       "name": "Пицца Цезарь с моцареллой замороженная, 390г",
       "brand": "ЦЕЗАРЬ",
-      "attributes": {
-        "weight": 390,
+      "weight": "390",
+      "nutrients": {
         "proteins": 9,
         "fats": 9.3,
         "carbohydrates": 24.9,
@@ -2205,8 +2205,8 @@
     {
       "name": "Солянка Главсуп по-домашнему замороженная, 250г",
       "brand": "ГЛАВСУП",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 1.7,
         "fats": 3.6,
         "carbohydrates": 4.6,
@@ -2216,8 +2216,8 @@
     {
       "name": "Борщ Главсуп с курицей замороженный, 250г",
       "brand": "ГЛАВСУП",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 2.3,
         "fats": 1.6,
         "carbohydrates": 3.3,
@@ -2227,8 +2227,8 @@
     {
       "name": "Салат Fresh Secret пальчики оближешь, 400г",
       "brand": "FRESH SECRET",
-      "attributes": {
-        "weight": 400,
+      "weight": "400",
+      "nutrients": {
         "proteins": 22.4,
         "fats": 4.2,
         "carbohydrates": 8.2,
@@ -2238,8 +2238,8 @@
     {
       "name": "Сэндвич Creative Kitchen с курицей, 180г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 8.8,
         "fats": 13.3,
         "carbohydrates": 19.4,
@@ -2249,8 +2249,8 @@
     {
       "name": "Бульон Мираторг говяжий замороженный, 500г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 5,
         "fats": 3,
         "carbohydrates": 0.2,
@@ -2260,8 +2260,8 @@
     {
       "name": "Бульон Мираторг куриный замороженный, 500г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 3,
         "fats": 1,
         "carbohydrates": 0.2,
@@ -2271,8 +2271,8 @@
     {
       "name": "Чикенбургер Мираторг охлажденный, 125г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 9.7,
         "carbohydrates": 24.5,
@@ -2282,8 +2282,8 @@
     {
       "name": "aro Пицца с ветчиной замороженная диаметр 235мм, 300г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.5,
         "fats": 8,
         "carbohydrates": 30,
@@ -2293,8 +2293,8 @@
     {
       "name": "Бекон из свинины Ремит варено-копченый нарезка замороженный, 500г",
       "brand": "РЕМИТ",
-      "attributes": {
-        "weight": 500,
+      "weight": "500",
+      "nutrients": {
         "proteins": 13,
         "fats": 13,
         "carbohydrates": 0.0,
@@ -2304,8 +2304,8 @@
     {
       "name": "Суп гороховый Главсуп с копченостями замороженный, 250г",
       "brand": "ГЛАВСУП",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3.1,
         "fats": 3.6,
         "carbohydrates": 7.4,
@@ -2315,8 +2315,8 @@
     {
       "name": "Блины NaturBuffet с мясом, 180г",
       "brand": "NATURBUFFET",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 6.5,
         "fats": 14,
         "carbohydrates": 18,
@@ -2326,8 +2326,8 @@
     {
       "name": "Каша овсяная NaturBuffet на топленом молоке, 200г",
       "brand": "NATURBUFFET",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 3,
         "fats": 3.5,
         "carbohydrates": 10,
@@ -2337,8 +2337,8 @@
     {
       "name": "Оливки Madama Oliva фаршированные цельным миндалем, 350г",
       "brand": "MADAMA OLIVA",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 0.8,
         "fats": 15,
         "carbohydrates": 1,
@@ -2348,8 +2348,8 @@
     {
       "name": "Галеты Бондюэль Кантри овощные замороженные, 300г",
       "brand": "БОНДЮЭЛЬ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.4,
         "fats": 0.4,
         "carbohydrates": 13.4,
@@ -2359,8 +2359,8 @@
     {
       "name": "Галеты Бондюэль Королевские овощные замороженные, 300г",
       "brand": "БОНДЮЭЛЬ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.8,
         "fats": 0.8,
         "carbohydrates": 10.8,
@@ -2370,8 +2370,8 @@
     {
       "name": "Перчики Terra del Gusto черри со сливочным сыром, 950г",
       "brand": "TERRA DEL GUSTO",
-      "attributes": {
-        "weight": 950,
+      "weight": "950",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 25,
         "carbohydrates": 3.3,
@@ -2381,8 +2381,8 @@
     {
       "name": "Мини-дамплинги Bibigo со свининой и огурцом замороженные, 250г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 7.9,
         "fats": 6.4,
         "carbohydrates": 3.4,
@@ -2392,8 +2392,8 @@
     {
       "name": "Пельмени Мясной дворик Халяль Сибирские отборные, 800г",
       "brand": "МЯСНОЙ ДВОРИК",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12,
         "fats": 16,
         "carbohydrates": 24,
@@ -2403,8 +2403,8 @@
     {
       "name": "Равиоли Voltan с белыми грибами, 250г",
       "brand": "VOLTAN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 8.4,
         "fats": 6.5,
         "carbohydrates": 39,
@@ -2414,8 +2414,8 @@
     {
       "name": "Галеты Бондюэль Зеленый букет овощные замороженные, 300г",
       "brand": "БОНДЮЭЛЬ",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 3.9,
         "fats": 1.6,
         "carbohydrates": 10.5,
@@ -2425,8 +2425,8 @@
     {
       "name": "Феттучине Solo Fresco с яйцом и шпинатом, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 56,
@@ -2436,8 +2436,8 @@
     {
       "name": "Паппарделле Solo Fresco с яйцом, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 56,
@@ -2447,8 +2447,8 @@
     {
       "name": "Равиоли Solo Fresco с курицей и моцареллой, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 14.9,
         "fats": 8.7,
         "carbohydrates": 33.7,
@@ -2458,8 +2458,8 @@
     {
       "name": "Перчики Greko Триколор, 1кг",
       "brand": "GREKO",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 3.2,
         "fats": 47,
         "carbohydrates": 4.7,
@@ -2469,8 +2469,8 @@
     {
       "name": "Пельмени Caesar Superior Отборное мясо замороженные, 700г",
       "brand": "CAESAR",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 8,
         "fats": 8.5,
         "carbohydrates": 27.5,
@@ -2480,8 +2480,8 @@
     {
       "name": "Хумус Sababa Неаполитанский, 300г",
       "brand": "SABABA",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6,
         "fats": 26,
         "carbohydrates": 14,
@@ -2491,8 +2491,8 @@
     {
       "name": "Лапша удон Solo Fresco 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 56,
@@ -2502,8 +2502,8 @@
     {
       "name": "Равиоли Solo Fresco 4 сыра, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 14.41,
         "fats": 10.3,
         "carbohydrates": 29.57,
@@ -2513,8 +2513,8 @@
     {
       "name": "Пельмени Caesar Elite с отборной говядиной замороженные, 700г",
       "brand": "CAESAR",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 8,
         "fats": 8.5,
         "carbohydrates": 27.5,
@@ -2524,8 +2524,8 @@
     {
       "name": "Равиоли Solo Fresco с ветчиной и пармезаном охлажденные, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 12,
         "fats": 13,
         "carbohydrates": 30,
@@ -2535,8 +2535,8 @@
     {
       "name": "Равиоли Solo Fresco с начинкой жюльен, 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 14,
         "fats": 5.5,
         "carbohydrates": 37,
@@ -2546,8 +2546,8 @@
     {
       "name": "Каша гурьевская NaturBuffet на топленом молоке с изюмом, 200г",
       "brand": "NATURBUFFET",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 4,
         "carbohydrates": 13,
@@ -2557,8 +2557,8 @@
     {
       "name": "METRO Chef Поп-корн куриный замороженный, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 13,
         "fats": 10,
         "carbohydrates": 17,
@@ -2568,8 +2568,8 @@
     {
       "name": "METRO Chef Сосиски куриные вареные замороженные 17см, 750г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 15,
         "fats": 16,
         "carbohydrates": 1,
@@ -2579,8 +2579,8 @@
     {
       "name": "Пельмени Hi Hipelly растительные замороженные, 700г",
       "brand": "HI",
-      "attributes": {
-        "weight": 700,
+      "weight": "700",
+      "nutrients": {
         "proteins": 9,
         "fats": 10,
         "carbohydrates": 28,
@@ -2590,8 +2590,8 @@
     {
       "name": "Кольца луковые Мираторг замороженные, 250г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 4.7,
         "fats": 10,
         "carbohydrates": 32.8,
@@ -2601,8 +2601,8 @@
     {
       "name": "Пельмени Мираторг Домашние замороженные, 800г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12,
         "fats": 16,
         "carbohydrates": 28,
@@ -2612,8 +2612,8 @@
     {
       "name": "Пицца PizzArte римская Крудо замороженная, 450г",
       "brand": "PIZZARTE",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 9,
         "fats": 11,
         "carbohydrates": 23,
@@ -2623,8 +2623,8 @@
     {
       "name": "Томаты вяленые Ellenika со сливочным сыром, 230г",
       "brand": "ELLENIKA",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 5,
         "fats": 8.8,
         "carbohydrates": 5.8,
@@ -2634,8 +2634,8 @@
     {
       "name": "Хумус Салаты и Деликатесы Иерусалимский, 200г",
       "brand": "САЛАТЫ И ДЕЛИКАТЕСЫ",
-      "attributes": {
-        "weight": 200,
+      "weight": "200",
+      "nutrients": {
         "proteins": 18,
         "fats": 28,
         "carbohydrates": 15,
@@ -2645,8 +2645,8 @@
     {
       "name": "Тортеллони Voltan сыр рикотта-шпинат, 250г",
       "brand": "VOLTAN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3,
         "fats": 7.8,
         "carbohydrates": 37,
@@ -2656,8 +2656,8 @@
     {
       "name": "aro Чебурек с бараниной замороженный, 125г",
       "brand": "ARO",
-      "attributes": {
-        "weight": 125,
+      "weight": "125",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 7,
         "carbohydrates": 28,
@@ -2667,8 +2667,8 @@
     {
       "name": "Суп Creative Kitchen лапша с курицей, 300г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.09,
         "fats": 2.7,
         "carbohydrates": 1.6,
@@ -2678,8 +2678,8 @@
     {
       "name": "Перчик Greko красный с сыром фета, 1кг",
       "brand": "GREKO",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 2.5,
         "fats": 3.5,
         "carbohydrates": 50,
@@ -2689,8 +2689,8 @@
     {
       "name": "Котлеты фасолевые Овощная лавка с грибами и луком замороженные, 450г",
       "brand": "ОВОЩНАЯ ЛАВКА",
-      "attributes": {
-        "weight": 450,
+      "weight": "450",
+      "nutrients": {
         "proteins": 5,
         "fats": 4,
         "carbohydrates": 28,
@@ -2700,8 +2700,8 @@
     {
       "name": "Котлеты растительные Hi Hiburger для бургера замороженные, 800г",
       "brand": "HI",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 12.5,
         "fats": 20,
         "carbohydrates": 7,
@@ -2711,8 +2711,8 @@
     {
       "name": "Сэндвич Смак ветчина и сыр замороженный, 150г",
       "brand": "СМАК",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 11.5,
         "carbohydrates": 46.7,
@@ -2722,8 +2722,8 @@
     {
       "name": "Манты Creative Kitchen с мясом (60г x 4шт), 240г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 240,
+      "weight": "240",
+      "nutrients": {
         "proteins": 8.1,
         "fats": 12.8,
         "carbohydrates": 22.7,
@@ -2733,8 +2733,8 @@
     {
       "name": "Салат Creative Kitchen Крабовый, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 15.5,
         "carbohydrates": 6.3,
@@ -2744,8 +2744,8 @@
     {
       "name": "Сырники Мираторг с вишневой начинкой, 280г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 5.4,
         "carbohydrates": 17,
@@ -2755,8 +2755,8 @@
     {
       "name": "Блины Мираторг с малиной, 280г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 5,
         "fats": 9,
         "carbohydrates": 25,
@@ -2766,8 +2766,8 @@
     {
       "name": "Оливки Meggle со сливочным сыром, 210г",
       "brand": "MEGGLE",
-      "attributes": {
-        "weight": 210,
+      "weight": "210",
+      "nutrients": {
         "proteins": 3,
         "fats": 17.8,
         "carbohydrates": 0.6,
@@ -2777,8 +2777,8 @@
     {
       "name": "Блины Creative Kitchen с мясом, 160г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 11.5,
         "fats": 8,
         "carbohydrates": 20.8,
@@ -2788,8 +2788,8 @@
     {
       "name": "Оливки Ellenika со сливочным сыром, 230г",
       "brand": "ELLENIKA",
-      "attributes": {
-        "weight": 230,
+      "weight": "230",
+      "nutrients": {
         "proteins": 1.7,
         "fats": 17,
         "carbohydrates": 1.3,
@@ -2799,8 +2799,8 @@
     {
       "name": "Сырники с вишневой начинкой Мираторг замороженные, 280г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 10.5,
         "fats": 5.4,
         "carbohydrates": 17,
@@ -2810,8 +2810,8 @@
     {
       "name": "Блины NaturBuffet с творогом, 180г",
       "brand": "NATURBUFFET",
-      "attributes": {
-        "weight": 180,
+      "weight": "180",
+      "nutrients": {
         "proteins": 7,
         "fats": 4,
         "carbohydrates": 21,
@@ -2821,8 +2821,8 @@
     {
       "name": "Лазанья Болоньезе Мираторг с сыром в соусе бешамель, 350г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 7.5,
         "fats": 6.4,
         "carbohydrates": 17.1,
@@ -2832,8 +2832,8 @@
     {
       "name": "Борщ NaturBuffet с мясом, 250г",
       "brand": "NATURBUFFET",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 1,
         "fats": 1.5,
         "carbohydrates": 4.5,
@@ -2843,8 +2843,8 @@
     {
       "name": "Салат овощной Белая Дача 110г",
       "brand": "БЕЛАЯ ДАЧА",
-      "attributes": {
-        "weight": 110,
+      "weight": "110",
+      "nutrients": {
         "proteins": 3.5,
         "fats": 6.5,
         "carbohydrates": 8.5,
@@ -2854,8 +2854,8 @@
     {
       "name": "Котлета Главобед с картофельным пюре замороженная, 300г",
       "brand": "ГЛАВОБЕД",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 4.9,
         "fats": 7.6,
         "carbohydrates": 11.3,
@@ -2865,8 +2865,8 @@
     {
       "name": "Листы для лазаньи Solo Fresco 250г",
       "brand": "SOLO FRESCO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 11,
         "fats": 3,
         "carbohydrates": 56,
@@ -2876,8 +2876,8 @@
     {
       "name": "Яйцо Qegg перепелиное копченое, 20шт",
       "brand": "QEGG",
-      "attributes": {
-        "weight": 195,
+      "weight": "195",
+      "nutrients": {
         "proteins": 12.5,
         "fats": 13.5,
         "carbohydrates": 0.0,
@@ -2887,8 +2887,8 @@
     {
       "name": "METRO Chef Пельмени с говядиной и свининой категории В замороженные, 2кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 2000,
+      "weight": "2000",
+      "nutrients": {
         "proteins": 8,
         "fats": 16,
         "carbohydrates": 28,
@@ -2898,8 +2898,8 @@
     {
       "name": "METRO Chef Кольца луковые в панировке замороженные, 1кг",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 9.9,
         "carbohydrates": 27.9,
@@ -2909,8 +2909,8 @@
     {
       "name": "METRO Chef Вареники с творогом замороженные, 800г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 800,
+      "weight": "800",
+      "nutrients": {
         "proteins": 10,
         "fats": 4,
         "carbohydrates": 32,
@@ -2920,8 +2920,8 @@
     {
       "name": "Хумус Sababa Рецепт из Назарета, 300г",
       "brand": "SABABA",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 8,
         "fats": 9.7,
         "carbohydrates": 31.8,
@@ -2931,8 +2931,8 @@
     {
       "name": "Оладьи С Пылу с жару Домашние замороженные, 280г",
       "brand": "С ПЫЛУ С ЖАРУ",
-      "attributes": {
-        "weight": 280,
+      "weight": "280",
+      "nutrients": {
         "proteins": 5.4,
         "fats": 1,
         "carbohydrates": 38,
@@ -2942,8 +2942,8 @@
     {
       "name": "Хинкали Кафе Хинкальная со свининой и говядиной замороженные, 750г",
       "brand": "КАФЕ ХИНКАЛЬНАЯ",
-      "attributes": {
-        "weight": 750,
+      "weight": "750",
+      "nutrients": {
         "proteins": 9,
         "fats": 15,
         "carbohydrates": 38,
@@ -2953,8 +2953,8 @@
     {
       "name": "METRO Chef Пицца Ветчина и грибы замороженная 27см, 365г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 365,
+      "weight": "365",
+      "nutrients": {
         "proteins": 10,
         "fats": 4.5,
         "carbohydrates": 25,
@@ -2964,8 +2964,8 @@
     {
       "name": "METRO Chef Пицца 4 сыра замороженная 27см, 350г",
       "brand": "METRO CHEF",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 11,
         "fats": 9.1,
         "carbohydrates": 26,
@@ -2975,8 +2975,8 @@
     {
       "name": "Котлеты Мираторг домашние замороженные, 420г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 14,
         "fats": 15,
         "carbohydrates": 2,
@@ -2986,8 +2986,8 @@
     {
       "name": "Дамплинги Bibigo с креветкой на пару замороженные, 385г",
       "brand": "BIBIGO",
-      "attributes": {
-        "weight": 385,
+      "weight": "385",
+      "nutrients": {
         "proteins": 10.6,
         "fats": 3,
         "carbohydrates": 16.4,
@@ -2997,8 +2997,8 @@
     {
       "name": "Блины Останкино с мясом замороженные, 420г",
       "brand": "ОСТАНКИНО",
-      "attributes": {
-        "weight": 420,
+      "weight": "420",
+      "nutrients": {
         "proteins": 8,
         "fats": 11,
         "carbohydrates": 33,
@@ -3008,8 +3008,8 @@
     {
       "name": "Плов Главобед с курицей замороженный, 300г",
       "brand": "ГЛАВОБЕД",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 9.8,
         "fats": 10.9,
         "carbohydrates": 23.4,
@@ -3019,8 +3019,8 @@
     {
       "name": "Лапша по-китайски Главобед с курицей замороженная, 300г",
       "brand": "ГЛАВОБЕД",
-      "attributes": {
-        "weight": 300,
+      "weight": "300",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 8.5,
         "carbohydrates": 16.1,
@@ -3030,8 +3030,8 @@
     {
       "name": "Чикенбургер Мираторг со сливочно-грибным соусом замороженный, 150г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 150,
+      "weight": "150",
+      "nutrients": {
         "proteins": 11.4,
         "fats": 8.5,
         "carbohydrates": 26,
@@ -3041,8 +3041,8 @@
     {
       "name": "Бургер Мираторг с горчичным соусом, 160г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 28.1,
         "carbohydrates": 24.7,
@@ -3052,8 +3052,8 @@
     {
       "name": "Ангус бургер Мираторг с горчичным соусом замороженный, 160г",
       "brand": "МИРАТОРГ",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 9.2,
         "fats": 28.1,
         "carbohydrates": 24.7,
@@ -3063,8 +3063,8 @@
     {
       "name": "Салат Данессия Хе из баклажанов по-корейски, 250г",
       "brand": "ДАНЕССИЯ",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 3.4,
         "fats": 6.5,
         "carbohydrates": 10.6,
@@ -3074,8 +3074,8 @@
     {
       "name": "Сосиски куриные Ремит мини вареные замороженные, ~1кг",
       "brand": "РЕМИТ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 11,
         "fats": 13,
         "carbohydrates": 3,
@@ -3085,8 +3085,8 @@
     {
       "name": "Каша Creative Kitchen овсяная с клубникой, 250г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 6.4,
         "fats": 4.8,
         "carbohydrates": 37.8,
@@ -3096,8 +3096,8 @@
     {
       "name": "Блины Creative Kitchen с вишневой начинкой, 160г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 160,
+      "weight": "160",
+      "nutrients": {
         "proteins": 1.7,
         "fats": 0.3,
         "carbohydrates": 27.1,
@@ -3107,8 +3107,8 @@
     {
       "name": "Бургер Creative Kitchen с котлетой из говядины, 170г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 8.7,
         "fats": 27.6,
         "carbohydrates": 16.9,
@@ -3118,8 +3118,8 @@
     {
       "name": "Азу Сытоедов с рисом замороженный, 350г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 6,
         "fats": 4.5,
         "carbohydrates": 13,
@@ -3129,8 +3129,8 @@
     {
       "name": "Сэндвич Смак ветчина и сыр замороженный, 150г x 10 шт",
       "brand": "СМАК",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 11.5,
         "carbohydrates": 46.7,
@@ -3140,8 +3140,8 @@
     {
       "name": "Запеканка картофельная Сытоедов с мясом замороженная, 350г",
       "brand": "СЫТОЕДОВ",
-      "attributes": {
-        "weight": 350,
+      "weight": "350",
+      "nutrients": {
         "proteins": 4,
         "fats": 5.5,
         "carbohydrates": 10,
@@ -3151,8 +3151,8 @@
     {
       "name": "Сосиски с молоком Ремит мини вареные замороженные, ~1кг",
       "brand": "РЕМИТ",
-      "attributes": {
-        "weight": 1000,
+      "weight": "1000",
+      "nutrients": {
         "proteins": 11,
         "fats": 22,
         "carbohydrates": 1,
@@ -3162,8 +3162,8 @@
     {
       "name": "Картофель Creative Kitchen запеченный, 170г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 170,
+      "weight": "170",
+      "nutrients": {
         "proteins": 2,
         "fats": 6.8,
         "carbohydrates": 14.4,
@@ -3173,8 +3173,8 @@
     {
       "name": "Перчики Terra del Gusto зеленые со сливочным сыром, 250г",
       "brand": "TERRA DEL GUSTO",
-      "attributes": {
-        "weight": 250,
+      "weight": "250",
+      "nutrients": {
         "proteins": 5.5,
         "fats": 25,
         "carbohydrates": 3.3,
@@ -3184,8 +3184,8 @@
     {
       "name": "Сэндвич Смак курица и бекон замороженный, 150г x 10 шт",
       "brand": "СМАК",
-      "attributes": {
-        "weight": 1500,
+      "weight": "1500",
+      "nutrients": {
         "proteins": 6.9,
         "fats": 11.5,
         "carbohydrates": 46.7,
@@ -3195,8 +3195,8 @@
     {
       "name": "Паста Creative Kitchen Альфредо курица-грибы, 220г",
       "brand": "CREATIVE KITCHEN",
-      "attributes": {
-        "weight": 220,
+      "weight": "220",
+      "nutrients": {
         "proteins": 6.3,
         "fats": 6.9,
         "carbohydrates": 20.7,
