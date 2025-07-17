@@ -1,71 +1,114 @@
-import asyncio
-
 import tqdm
-from perekrestok_api import ABSTRACT, PerekrestokAPI
+from perekrestok_api import PerekrestokAPI, abstraction
 
 # TODO: fetch all unique items (probably filter edible before that), then fetch info with calories etc after
 
+not_edible = [
+    "Лёд",
+    "Товары для мам и детей",
+    "Гигиена и уход",
+    "Детская одежда и аксессуары",
+    "Детская посуда",
+    "Игрушки",
+    "Развивающие игрушки и конструкторы",
+    "Настольные игры",
+    "Игровые наборы",
+    "Наборы для творчества",
+    "Зоотовары",
+    "Для кошек",
+    "Для собак",
+    "Для грызунов",
+    "ВетАптека",
+    "Для птиц",
+    "Красота, гигиена, аптека",
+    "Аптека",
+    "Бумажная и ватная продукция",
+    "Уход за полостью рта",
+    "Средства личной гигиены",
+    "Уход для волос",
+    "Стайлинг волос",
+    "Мыло",
+    "Гели для душа",
+    "Дезодоранты",
+    "Средства для бритья",
+    "Уход за лицом",
+    "Уход за телом",
+    "Презервативы, смазки",
+    "Уход за руками",
+    "Косметические наборы",
+    "Губки, мочалки для душа",
+    "Уборка",
+    "Экодом",
+    "Здоровье",
+    "Для стирки и ухода за вещами",
+    "Для мытья посуды",
+    "Для сантехники",
+    "Универсальные средства",
+    "Для посудомоечных и стиральных маш",
+    "Для устранения засоров",
+    "Для плит и духовок",
+    "Для стёкол и зеркал",
+    "Для полов",
+    "Для мебели и ковров",
+    "Предметы для уборки",
+    "Ароматизаторы для дома",
+    "Уход за одеждой и обувью",
+    "Посуда",
+    "Посуда для приготовления",
+    "Одноразовая посуда",
+    "Сервировка",
+    "Кружки, стаканы, бокалы",
+    "Наборы для специй",
+    "Для дома и дачи",
+    "Всё для хранения",
+    "Одежда, обувь, аксессуары",
+    "Всё для дачи и сада",
+    "Мелочи для дома",
+    "Техника и аксессуары",
+    "Всё для праздника",
+    "Всё для шашлыка",
+    "Лампочки и батарейки",
+    "Домашний текстиль",
+    "Автоаксессуары",
+    "Декор и интерьер",
+    "Спорт и туризм",
+    "Галантерейные аксессуары",
+    "Товары для бани и сауны",
+    "Канцелярия",
+    "Системы нагревания, табак",
+    "Стики",
+    "Устройства",
+]
 
-async def main():
-    async with PerekrestokAPI() as Api:
-        # Получение дерева категорий каталога
-        tree_handler = await Api.Catalog.tree()
+# TODO: fetch all product, then product info
 
-        tree = tree_handler
-        # Список для хранения всех обработанных товаров
+
+def main():
+    with PerekrestokAPI() as api:
         products = []
 
-        tq = tqdm.tqdm(tree["content"]["items"], desc="Обработано категорий")
+        resp = api.Catalog.tree()
 
-        # Рекурсивная функция для обработки категорий и их подкатегорий
-        async def process_sub(tree_items, depth=0):
-            # Используем прогресс-бар только на верхнем уровне вложенности
-            current_level = tq if depth == 0 else tree_items
+        resp_data = list(resp.json()["content"]["items"])
+        filtered_categories = []
 
-            for category_group in current_level:
-                category = category_group["category"]
+        for item in resp_data:
+            if item["category"]["title"] not in not_edible:
+                filtered_categories.append(item["category"]["id"])
 
-                # Формирование фильтра для запроса каталога
-                feed_filter = ABSTRACT.CatalogFeedFilter()
-                feed_filter.CATEGORY_ID = category["id"]
+        filter = abstraction.CatalogFeedFilter()
 
-                # Запрашиваем товары из текущей категории
-                catalog_handler = await Api.Catalog.feed(filter=feed_filter)
-                catalog = catalog_handler
-                page = 1
+        for id in filtered_categories:
+            filter.CATEGORY_ID = id
 
-                # Цикл обработки всех страниц товаров в категории
-                while page > 0 and len(catalog["content"]["items"]) > 0:
-                    for product in catalog["content"]["items"]:
-                        # Сохраняем название и ID товара
-                        print(product["masterData"]["plu"])
-                        products.append(f'{product["title"]} ({product["id"]})')
-                        tq.desc = f"Обработано карточек: {len(products)}"
+            catalog_resp = api.Catalog.feed(
+                filter=filter, sort=abstraction.CatalogFeedSort.Price.ASC, limit=5
+            )
 
-                    # Переход к следующей странице или завершение обработки
-                    if catalog["content"]["paginator"]["nextPageExists"]:
-                        page += 1
-                        catalog_handler = await Api.Catalog.feed(
-                            filter=feed_filter, page=page
-                        )
-                        catalog = catalog_handler
-                    else:
-                        page = -1
+            catalog_resp_data = catalog_resp.json()
 
-                # Рекурсивно обрабатываем подкатегории
-                for child in category_group.get("children", []):
-                    await process_sub([child], depth + 1)
-
-        # Запуск обработки дерева категорий
-        await process_sub(tree["content"]["items"])
-
-        # Вывод итоговой статистики
-        print(f"Общее количество встреченных карточек: {len(products)}")
-        print(f"Уникальных товаров: {len(set(products))}")
-        print(
-            f"Среднее количество повторений карточки: {round(len(products) / len(set(products)), 2)}"
-        )
+            print(catalog_resp_data)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
